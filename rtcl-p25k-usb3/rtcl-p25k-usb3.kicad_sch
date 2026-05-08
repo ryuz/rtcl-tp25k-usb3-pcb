@@ -20031,7 +20031,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "rtcl-p25k-usb3:CON_525592253_MOL"
 			(at 181.864 315.722 0)
 			(hide yes)
 			(show_name no)
@@ -21691,7 +21691,7 @@
 				)
 			)
 		)
-		(property "Value" "BTB-DF40C-60DS-0.4V(51)"
+		(property "Value" "DF40C-60DS-0.4V(51)"
 			(at 350.52 31.75 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25715,7 +25715,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mipi_spartan7:PH_02x06_2.54mm"
+		(property "Footprint" "rtcl-p25k-usb3:PMOD_02x06_2.54mm"
 			(at 406.4 203.2 0)
 			(hide yes)
 			(show_name no)

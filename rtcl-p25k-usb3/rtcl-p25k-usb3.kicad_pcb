@@ -2523,12 +2523,12 @@
 			)
 		)
 	)
-	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical"
+	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "311036a9-92e9-4602-9b1e-6090144eb5e5")
-		(at 140.3 86 90)
-		(descr "Through hole straight pin header, 1x08, 2.54mm pitch, single row")
-		(tags "Through hole pin header THT 1x08 2.54mm single row")
+		(at 143.5 86 90)
+		(descr "Through hole straight pin header, 1x06, 2.54mm pitch, single row")
+		(tags "Through hole pin header THT 1x06 2.54mm single row")
 		(property "Reference" "J5"
 			(at 0 -2.38 90)
 			(layer "F.SilkS")
@@ -2541,7 +2541,7 @@
 			)
 		)
 		(property "Value" "JTAG"
-			(at 0 20.16 90)
+			(at 0 15.08 90)
 			(layer "F.Fab")
 			(uuid "a01b1bea-d35b-47cb-b208-2ecfd2f8321a")
 			(effects
@@ -2619,7 +2619,7 @@
 		)
 		(fp_line
 			(start 1.38 1.27)
-			(end 1.38 19.16)
+			(end 1.38 14.08)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -2639,7 +2639,7 @@
 		)
 		(fp_line
 			(start -1.38 1.27)
-			(end -1.38 19.16)
+			(end -1.38 14.08)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -2648,8 +2648,8 @@
 			(uuid "f9bdff17-1128-4d6d-b310-a1d31fb6f7e5")
 		)
 		(fp_line
-			(start -1.38 19.16)
-			(end 1.38 19.16)
+			(start -1.38 14.08)
+			(end 1.38 14.08)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -2659,7 +2659,7 @@
 		)
 		(fp_rect
 			(start -1.77 -1.77)
-			(end 1.77 19.55)
+			(end 1.77 14.47)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -2670,7 +2670,7 @@
 		)
 		(fp_line
 			(start 1.27 -1.27)
-			(end 1.27 19.05)
+			(end 1.27 13.97)
 			(stroke
 				(width 0.1)
 				(type solid)
@@ -2699,8 +2699,8 @@
 			(uuid "87bf8511-f7da-477a-996a-d67b091a1b3f")
 		)
 		(fp_line
-			(start 1.27 19.05)
-			(end -1.27 19.05)
+			(start 1.27 13.97)
+			(end -1.27 13.97)
 			(stroke
 				(width 0.1)
 				(type solid)
@@ -2709,7 +2709,7 @@
 			(uuid "7cd6de5d-2fbc-4c5c-9c74-b37a2cc02ebc")
 		)
 		(fp_line
-			(start -1.27 19.05)
+			(start -1.27 13.97)
 			(end -1.27 -0.635)
 			(stroke
 				(width 0.1)
@@ -2719,7 +2719,7 @@
 			(uuid "531d2935-e92f-4479-8281-f737dd470ebc")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 8.89 0)
+			(at 0 6.35 180)
 			(layer "F.Fab")
 			(uuid "8e2653a1-6353-4bd3-92b7-b24719227ab8")
 			(effects
@@ -2795,24 +2795,8 @@
 			(pintype "passive")
 			(uuid "9c4f2c6d-d819-49be-912d-425c7bdce305")
 		)
-		(pad "7" thru_hole circle
-			(at 0 15.24 90)
-			(size 1.7 1.7)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(uuid "aa973f11-af2a-4a4d-899c-94d5a2797829")
-		)
-		(pad "8" thru_hole circle
-			(at 0 17.78 90)
-			(size 1.7 1.7)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(uuid "70611273-f428-4131-8e94-b2d3253153f7")
-		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x08_P2.54mm_Vertical.step"
+		(model "${KICAD10_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x06_P2.54mm_Vertical.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3597,6 +3581,17 @@
 			(uuid "a913e0f3-4ece-41ec-a2ef-5ca50e432ec3")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/ryuji/OneDrive/Documents/Development/kicad/rtcl-p25k-usb3/datasheet/model/DF40C-60DS-0.4V(51)_CL0684-4004-6-51_3DDrawing_STEP_0001218420S/DF40C-60DS.stp"
+			(offset
+				(xyz 2.1 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -90)
+			)
+		)
 	)
 	(footprint "Package_SON:USON-10_2.5x1.0mm_P0.5mm"
 		(layer "F.Cu")
@@ -6630,6 +6625,12 @@
 		(path "/f8377300-9760-4ada-ae59-2f6aaf487bd4")
 		(sheetname "/")
 		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "3" "5" "7" "9" "11" "2" "4" "6" "8" "10" "12")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -7276,6 +7277,14 @@
 		(path "/8031a8ff-a45f-4d0d-8992-18c469e3beff")
 		(sheetname "/")
 		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2" "3" "4" "5" "6" "7" "8" "9" "10" "11" "12" "13" "14" "15"
+					"16" "17" "18" "19" "20" "21" "22"
+				)
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -9364,6 +9373,12 @@
 		(path "/cf41b14f-f59e-464b-85cd-0db808937533")
 		(sheetname "/")
 		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "SH" "8" "5" "1" "2" "3" "4" "6" "7" "9" "10")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
@@ -11916,7 +11931,7 @@
 				)
 			)
 		)
-		(property "Value" "BTB-DF40C-60DS-0.4V(51)"
+		(property "Value" "DF40C-60DS-0.4V(51)"
 			(at -1.200003 5.68 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12672,6 +12687,17 @@
 			(uuid "d7f35ea1-3900-4799-bca9-ce7f81054766")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/ryuji/OneDrive/Documents/Development/kicad/rtcl-p25k-usb3/datasheet/model/DF40C-60DS-0.4V(51)_CL0684-4004-6-51_3DDrawing_STEP_0001218420S/DF40C-60DS.stp"
+			(offset
+				(xyz 2.1 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -90)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0402_1005Metric"
 		(layer "F.Cu")
@@ -14985,6 +15011,78 @@
 		)
 		(layer "User.1")
 		(uuid "efebb636-8271-4f45-946e-6df29cea8934")
+	)
+	(gr_text "TMS"
+		(at 144 90.8 90)
+		(layer "F.SilkS")
+		(uuid "1256d723-0d21-4fd0-985a-dfa7ea9cf72d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "TDI"
+		(at 146.6 90.2 90)
+		(layer "F.SilkS")
+		(uuid "8e9a71c6-a568-4885-91d5-76cd2244ddff")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "TDO"
+		(at 149.2 90.4 90)
+		(layer "F.SilkS")
+		(uuid "dbf704e3-a223-4fb1-8c45-09a1eda7a2a2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "TCK"
+		(at 151.8 90.4 90)
+		(layer "F.SilkS")
+		(uuid "efaed8c3-b355-4877-9707-5e1f62c5df0a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "GND"
+		(at 154.2 90.6 90)
+		(layer "F.SilkS")
+		(uuid "0d1445ac-eb51-4d57-93f4-7b8d031bca9c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "3.3V"
+		(at 156.8 90.8 90)
+		(layer "F.SilkS")
+		(uuid "384a3f4a-ca6c-4774-ab4e-a438cb95a585")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
 	)
 	(embedded_fonts no)
 )
