@@ -3867,6 +3867,30 @@
 		(uuid "33ffcce2-9196-4d13-b7fc-fe54b9df52ec")
 		(at 150.000001 107)
 		(tags "DF40C-60DS-0.4V51 ")
+		(property "Reference" "J3"
+			(at 5.799999 -1.32 0)
+			(unlocked yes)
+			(layer "F.SilkS")
+			(uuid "5925c0dd-94f5-40e8-92c0-5a808f4437f9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "BTB-DF40C-60DS-0.4V(51)"
+			(at 2 -4 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "cbb2d111-b94b-4be1-849b-61923535c1c2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
@@ -3886,30 +3910,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "BTB-DF40C-60DS-0.4V(51)"
-			(at 2 -4 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(uuid "cbb2d111-b94b-4be1-849b-61923535c1c2")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Reference" "J3"
-			(at 5.799999 -1.32 0)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(uuid "5925c0dd-94f5-40e8-92c0-5a808f4437f9")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
 				)
 			)
 		)
@@ -15781,6 +15781,30 @@
 		(uuid "d58a0312-ff00-44f5-b589-fe6a6630fc2c")
 		(at 150 93)
 		(tags "DF40C-60DS-0.4V51 ")
+		(property "Reference" "J4"
+			(at -0.000001 0 0)
+			(unlocked yes)
+			(layer "F.SilkS")
+			(uuid "e795569b-c1e6-4261-be5c-bd953cd9f6a6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "BTB-DF40C-60DS-0.4V(51)"
+			(at -1.200003 5.68 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "23c33989-a0dd-4139-9cac-a3716d67e819")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
@@ -15800,30 +15824,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "BTB-DF40C-60DS-0.4V(51)"
-			(at -1.200003 5.68 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(uuid "23c33989-a0dd-4139-9cac-a3716d67e819")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Reference" "J4"
-			(at -0.000001 0 0)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(uuid "e795569b-c1e6-4261-be5c-bd953cd9f6a6")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
 				)
 			)
 		)
