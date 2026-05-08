@@ -22592,7 +22592,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "rtcl-p25k-usb3:CONN_DF40C-60DS_HIR"
 			(at 248.92 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -23079,7 +23079,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "rtcl-p25k-usb3:CONN_DF40C-60DS_HIR"
 			(at 351.79 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -27508,7 +27508,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ea321131-8ee9-4173-955c-473c7ec66c42")
-		(property "Reference" "Y1"
+		(property "Reference" "X1"
 			(at 102.87 262.8899 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27572,7 +27572,7 @@
 		(instances
 			(project "rtcl-p25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
-					(reference "Y1")
+					(reference "X1")
 					(unit 1)
 				)
 			)
