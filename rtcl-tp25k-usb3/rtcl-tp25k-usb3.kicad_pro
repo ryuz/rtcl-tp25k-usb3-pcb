@@ -74,16 +74,6 @@
           "gap": 0.0,
           "via_gap": 0.0,
           "width": 0.0
-        },
-        {
-          "gap": 0.1,
-          "via_gap": 1.0,
-          "width": 0.151638
-        },
-        {
-          "gap": 0.127,
-          "via_gap": 0.127,
-          "width": 0.211074
         }
       ],
       "drc_exclusions": [],
@@ -561,10 +551,19 @@
       },
       {
         "diff_pair_gap": 0.127,
+        "diff_pair_width": 0.151638,
+        "name": "MIPI_100ohm",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "tuning_profile": ""
+      },
+      {
+        "diff_pair_gap": 0.127,
         "diff_pair_width": 0.211074,
         "name": "USB3_90ohm",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 0,
+        "priority": 1,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "tuning_profile": ""
       }
@@ -586,6 +585,10 @@
       {
         "netclass": "USB3_90ohm",
         "pattern": "*FT601_TOD*"
+      },
+      {
+        "netclass": "MIPI_100ohm",
+        "pattern": "*M0_*"
       }
     ]
   },
@@ -720,7 +723,7 @@
         "uuid": "3111823c-3b86-4a35-a2d4-382a0824eec6"
       }
     ],
-    "used_designators": "",
+    "used_designators": "U4-5,C71-73,R60-61,#PWR5,#PWR49-51,#PWR95-98,L1",
     "variants": []
   },
   "sheets": [
