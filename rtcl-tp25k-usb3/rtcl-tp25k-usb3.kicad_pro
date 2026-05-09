@@ -537,7 +537,7 @@
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.2,
+        "clearance": 0.3,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -738,7 +738,7 @@
         "uuid": "3111823c-3b86-4a35-a2d4-382a0824eec6"
       }
     ],
-    "used_designators": "C21-25,FB2,#PWR24,#PWR57",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
