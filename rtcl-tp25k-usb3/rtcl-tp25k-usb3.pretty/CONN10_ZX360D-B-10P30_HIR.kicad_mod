@@ -641,7 +641,7 @@
 		(uuid "a77fde6d-9a70-444e-825f-99445f6b311a")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/ryuji/OneDrive/Documents/Development/kicad/rtcl-p25k-usb3/datasheet/model/ZX360D-B-10P(30)_CL0242-0500-1-30_3DDrawing_STEP_0001223127S/ZX360D-B-10P.stp"
+	(model "C:/Users/ryuji/OneDrive/Documents/Development/kicad/rtcl-tp25k-usb3/datasheet/model/ZX360D-B-10P(30)_CL0242-0500-1-30_3DDrawing_STEP_0001223127S/ZX360D-B-10P.stp"
 		(offset
 			(xyz 0 5.7 0)
 		)

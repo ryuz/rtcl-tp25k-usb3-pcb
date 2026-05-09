@@ -525,7 +525,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "rtcl-p25k-usb3.kicad_pro",
+    "filename": "rtcl-tp25k-usb3.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -683,12 +683,12 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "rtcl-p25k-usb3.kicad_sch",
+        "filename": "rtcl-tp25k-usb3.kicad_sch",
         "name": "ルート",
         "uuid": "3111823c-3b86-4a35-a2d4-382a0824eec6"
       }
     ],
-    "used_designators": "RN2-11,U1,U4,R43-47,C16-20,#PWR43-48",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [

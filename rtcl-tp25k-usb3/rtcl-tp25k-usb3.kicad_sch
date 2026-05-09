@@ -6639,7 +6639,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "rtcl-p25k-usb3:FT601Q"
+		(symbol "rtcl-tp25k-usb3:FT601Q"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -16761,7 +16761,7 @@
 			(uuid "4c6f54a7-cd34-4342-bdd9-cf376a7652fe")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "R57")
 					(unit 1)
@@ -16842,7 +16842,7 @@
 			(uuid "c53085e5-7fb9-4291-b570-96378f58ec3a")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "R59")
 					(unit 1)
@@ -16920,7 +16920,7 @@
 			(uuid "9f9b97e4-e8e2-485e-99f6-9a9151cf7f6a")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR011")
 					(unit 1)
@@ -16997,7 +16997,7 @@
 			(uuid "8b3c1a75-69ce-4534-b6e0-fd4715bc0822")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR089")
 					(unit 1)
@@ -17076,7 +17076,7 @@
 			(uuid "6e77ef1b-4d7c-4774-abe5-7ed0f98d8cbc")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "C19")
 					(unit 1)
@@ -17153,7 +17153,7 @@
 			(uuid "f1595b8b-8ae9-47f5-9022-650bba30669e")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR048")
 					(unit 1)
@@ -17232,7 +17232,7 @@
 			(uuid "aa0bedeb-1305-4caf-8aea-84e58a754776")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "C15")
 					(unit 1)
@@ -17272,7 +17272,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rtcl-p25k-usb3:RES_YC104_YAG"
+		(property "Footprint" "rtcl-tp25k-usb3:RES_YC104_YAG"
 			(at 251.46 333.375 90)
 			(hide yes)
 			(show_name no)
@@ -17330,7 +17330,7 @@
 			(uuid "1d4b75db-a44a-4b43-871a-c0ce9ee7cca7")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "RN1")
 					(unit 1)
@@ -17409,7 +17409,7 @@
 			(uuid "7fd08117-3a04-486e-9457-e7a588e75867")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "R52")
 					(unit 1)
@@ -17449,7 +17449,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rtcl-p25k-usb3:RES_YC104_YAG"
+		(property "Footprint" "rtcl-tp25k-usb3:RES_YC104_YAG"
 			(at 251.46 282.575 90)
 			(hide yes)
 			(show_name no)
@@ -17507,7 +17507,7 @@
 			(uuid "621b90a7-57f3-4910-a8d2-1f1623e5e1a5")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "RN6")
 					(unit 1)
@@ -17586,7 +17586,7 @@
 			(uuid "74542d92-71b8-4b75-be27-9bf44da6ae75")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "R54")
 					(unit 1)
@@ -17664,7 +17664,7 @@
 			(uuid "a40853da-e525-41a6-8e38-d679d18def9d")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR039")
 					(unit 1)
@@ -17743,7 +17743,7 @@
 			(uuid "2e1f5a48-02cc-4d70-b424-38e18fc831b8")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "R56")
 					(unit 1)
@@ -17820,7 +17820,7 @@
 			(uuid "63be64d3-b946-4a40-b293-faf3884c262a")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR090")
 					(unit 1)
@@ -17899,7 +17899,7 @@
 			(uuid "a75176a1-4982-4996-8882-154788f0e64b")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "C13")
 					(unit 1)
@@ -17976,7 +17976,7 @@
 			(uuid "49358cb7-adf9-48ca-af3c-dfe0b96371c9")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR032")
 					(unit 1)
@@ -18016,7 +18016,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rtcl-p25k-usb3:RES_YC164_3P2X1P6_YAG"
+		(property "Footprint" "rtcl-tp25k-usb3:RES_YC164_3P2X1P6_YAG"
 			(at 415.29 327.025 90)
 			(hide yes)
 			(show_name no)
@@ -18074,7 +18074,7 @@
 			(uuid "1dad4dc4-ccd0-4189-9711-cd4c482a4764")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "RN9998")
 					(unit 1)
@@ -18168,7 +18168,7 @@
 			(uuid "e964ba4e-0884-499d-8598-025ef5543e45")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "J5")
 					(unit 1)
@@ -18246,7 +18246,7 @@
 			(uuid "47d00f49-f303-4e11-bd01-5ca9fc355c37")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR025")
 					(unit 1)
@@ -18323,7 +18323,7 @@
 			(uuid "b925f959-d324-4912-9fbe-253491c9b48d")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR023")
 					(unit 1)
@@ -18401,7 +18401,7 @@
 			(uuid "1b258064-e815-478c-8a97-cfc9371e5040")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR091")
 					(unit 1)
@@ -18479,7 +18479,7 @@
 			(uuid "0741fd0e-a3a3-4127-81e3-ea09ad53a8ed")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR028")
 					(unit 1)
@@ -18558,7 +18558,7 @@
 			(uuid "33b1fd3d-774c-4972-93b5-31e18ca7974d")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "C3")
 					(unit 1)
@@ -18637,7 +18637,7 @@
 			(uuid "bb2fecb4-268d-4b02-9ad4-16598ac30817")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "C1")
 					(unit 1)
@@ -18734,7 +18734,7 @@
 			(uuid "a8e31ca0-c745-481d-8851-c99719e9a10a")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "U3")
 					(unit 1)
@@ -18812,7 +18812,7 @@
 			(uuid "403e1b6b-a00c-4dbf-9839-0bb325718df9")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR092")
 					(unit 1)
@@ -18891,7 +18891,7 @@
 			(uuid "db74b5aa-1db0-4472-85df-f1276c5fe786")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "C11")
 					(unit 1)
@@ -18968,7 +18968,7 @@
 			(uuid "76255b3a-aa23-4036-afbb-9c7dbd939e70")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR045")
 					(unit 1)
@@ -19046,7 +19046,7 @@
 			(uuid "1109d8c5-dc5a-412a-9639-1c539b8a576d")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR041")
 					(unit 1)
@@ -19124,7 +19124,7 @@
 			(uuid "4656000a-65d0-4c73-956a-2a768da721a0")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR08")
 					(unit 1)
@@ -19201,7 +19201,7 @@
 			(uuid "e93cde98-2e94-4981-ad87-e24082bce066")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR042")
 					(unit 1)
@@ -19278,7 +19278,7 @@
 			(uuid "a56e75c7-07a3-4049-a48b-7fc70239c99c")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR038")
 					(unit 1)
@@ -19355,7 +19355,7 @@
 			(uuid "9959ec4b-944f-4ac1-b95b-7916180601cb")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR022")
 					(unit 1)
@@ -19433,7 +19433,7 @@
 			(uuid "0389c7fc-caa3-442d-8089-72dd4f35b45a")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR015")
 					(unit 1)
@@ -19511,7 +19511,7 @@
 			(uuid "6e323d7e-d39c-4cf0-9ab5-b9fdc7933268")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR0111")
 					(unit 1)
@@ -19590,7 +19590,7 @@
 			(uuid "8990171c-8798-486b-8748-3d5f1f499a62")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "R45")
 					(unit 1)
@@ -19630,7 +19630,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rtcl-p25k-usb3:RES_YC164_3P2X1P6_YAG"
+		(property "Footprint" "rtcl-tp25k-usb3:RES_YC164_3P2X1P6_YAG"
 			(at 438.15 328.295 90)
 			(hide yes)
 			(show_name no)
@@ -19688,7 +19688,7 @@
 			(uuid "35e91a5e-dd3f-449b-b4e2-58a7b448d59e")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "RN999")
 					(unit 1)
@@ -19767,7 +19767,7 @@
 			(uuid "bbf2f1e3-5b28-4b88-9c01-d4ae68cd3b99")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "C2")
 					(unit 1)
@@ -19846,7 +19846,7 @@
 			(uuid "191b0483-2558-412e-b728-179e244d5088")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "C12")
 					(unit 1)
@@ -19923,7 +19923,7 @@
 			(uuid "890c139b-5109-4143-bd4c-0c9b5856eb68")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR043")
 					(unit 1)
@@ -20002,7 +20002,7 @@
 			(uuid "d8904896-9683-4524-9ed5-658e0030e6d9")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "R43")
 					(unit 1)
@@ -20079,7 +20079,7 @@
 			(uuid "7d5480ec-e58e-407f-b2c4-3aad3a0b46da")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR010")
 					(unit 1)
@@ -20157,7 +20157,7 @@
 			(uuid "a94d4e2e-1c4f-4a24-bd29-69ddad5b0b8b")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR09")
 					(unit 1)
@@ -20236,7 +20236,7 @@
 			(uuid "4402bf01-38e3-4cf9-9165-fc6961c6b14f")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "C14")
 					(unit 1)
@@ -20318,7 +20318,7 @@
 			(uuid "f35d6794-3274-4400-9e3c-7b6ba3a5d4a1")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "C70")
 					(unit 1)
@@ -20397,7 +20397,7 @@
 			(uuid "d135772a-fe69-48bb-b821-d4a27fbdcae5")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "C16")
 					(unit 1)
@@ -20475,7 +20475,7 @@
 			(uuid "d844a772-6d36-491b-8d7d-90f5fdd1ce74")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR033")
 					(unit 1)
@@ -20554,7 +20554,7 @@
 			(uuid "4e03867e-3d06-496b-bc0a-ea78979c0546")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "R46")
 					(unit 1)
@@ -20631,7 +20631,7 @@
 			(uuid "bfd62dd5-4fdc-4028-bf25-5f099ddcce2f")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR02")
 					(unit 1)
@@ -20671,7 +20671,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rtcl-p25k-usb3:RES_YC104_YAG"
+		(property "Footprint" "rtcl-tp25k-usb3:RES_YC104_YAG"
 			(at 251.46 257.175 90)
 			(hide yes)
 			(show_name no)
@@ -20729,7 +20729,7 @@
 			(uuid "08094b98-0029-402f-ad8d-ad7aee17fb74")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "RN4")
 					(unit 1)
@@ -20769,7 +20769,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rtcl-p25k-usb3:RES_YC104_YAG"
+		(property "Footprint" "rtcl-tp25k-usb3:RES_YC104_YAG"
 			(at 251.46 318.135 90)
 			(hide yes)
 			(show_name no)
@@ -20827,7 +20827,7 @@
 			(uuid "34260e73-13ec-4088-9def-bf897d7d9cc4")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "RN9")
 					(unit 1)
@@ -20869,7 +20869,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "rtcl-p25k-usb3:CON_525592253_MOL"
+		(property "Footprint" "rtcl-tp25k-usb3:CON_525592253_MOL"
 			(at 216.154 407.162 0)
 			(hide yes)
 			(show_name no)
@@ -20971,7 +20971,7 @@
 			(uuid "a4c265cc-76dc-4285-a8cb-d8ad3ab51c70")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "J2")
 					(unit 1)
@@ -21049,7 +21049,7 @@
 			(uuid "77fbfe85-53e1-4cae-93ff-b819a0463b68")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR0112")
 					(unit 1)
@@ -21127,7 +21127,7 @@
 			(uuid "626b62fc-49c5-4878-9ea4-56b26f7f844b")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR019")
 					(unit 1)
@@ -21204,7 +21204,7 @@
 			(uuid "99329b6d-2945-4909-a89b-a84117854bd7")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR0109")
 					(unit 1)
@@ -21283,7 +21283,7 @@
 			(uuid "dde792bf-983c-4bf6-af54-502a46e09cee")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "C7")
 					(unit 1)
@@ -21361,7 +21361,7 @@
 			(uuid "977c08f6-4732-472e-8433-57bc4147d132")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR016")
 					(unit 1)
@@ -21439,7 +21439,7 @@
 			(uuid "ee541e7d-528c-4772-9a2b-2d585c258b99")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR026")
 					(unit 1)
@@ -21518,7 +21518,7 @@
 			(uuid "8ba554ec-1f5f-4ab7-a366-f9fa9857a20d")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "C20")
 					(unit 1)
@@ -21597,7 +21597,7 @@
 			(uuid "09312eb8-65a8-4ce5-8181-244bc3f79355")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "C6")
 					(unit 1)
@@ -21679,7 +21679,7 @@
 			(uuid "48ac477d-8a4b-4d69-896d-0930dda74a24")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "R1")
 					(unit 1)
@@ -21758,7 +21758,7 @@
 			(uuid "ddd8b459-bdff-4898-8c81-93abaf8f3545")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "R3")
 					(unit 1)
@@ -21836,7 +21836,7 @@
 			(uuid "7a3b2345-cf78-40bd-a6c4-6c4f99cdb4f2")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR04")
 					(unit 1)
@@ -21914,7 +21914,7 @@
 			(uuid "75d4ad7e-f763-44f5-a21e-ce796b694a9b")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR012")
 					(unit 1)
@@ -21991,7 +21991,7 @@
 			(uuid "a87e2f02-f7fa-4f52-8b38-ea27642b31f4")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR030")
 					(unit 1)
@@ -22072,7 +22072,7 @@
 			(uuid "688bc48d-c6ee-4421-83c5-550ee6348b02")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "C68")
 					(unit 1)
@@ -22112,7 +22112,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rtcl-p25k-usb3:CONN_DF40C-60DS_HIR"
+		(property "Footprint" "rtcl-tp25k-usb3:CONN_DF40C-60DS_HIR"
 			(at 354.33 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -22326,7 +22326,7 @@
 			(uuid "256d4b69-5e82-474e-b6da-87d795ca71d1")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "J3")
 					(unit 1)
@@ -22403,7 +22403,7 @@
 			(uuid "bd279aae-ca31-43f1-b731-b78b36b9fd9e")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR0122")
 					(unit 1)
@@ -22480,7 +22480,7 @@
 			(uuid "af12eb80-d619-4d89-a085-f94fde0f2a78")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR031")
 					(unit 1)
@@ -22520,7 +22520,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rtcl-p25k-usb3:CONN_DF40C-60DS_HIR"
+		(property "Footprint" "rtcl-tp25k-usb3:CONN_DF40C-60DS_HIR"
 			(at 457.2 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -22734,7 +22734,7 @@
 			(uuid "4fbb1207-4eb9-42b9-87b9-f9f1ac55638c")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "J4")
 					(unit 1)
@@ -22774,7 +22774,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rtcl-p25k-usb3:RES_YC104_YAG"
+		(property "Footprint" "rtcl-tp25k-usb3:RES_YC104_YAG"
 			(at 251.46 231.775 90)
 			(hide yes)
 			(show_name no)
@@ -22832,7 +22832,7 @@
 			(uuid "206fdcfb-62c2-4c80-a586-fd9a777dedd8")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "RN2")
 					(unit 1)
@@ -22913,7 +22913,7 @@
 			(uuid "675525b6-1647-4318-a736-7a894fa376b2")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "R58")
 					(unit 1)
@@ -22990,7 +22990,7 @@
 			(uuid "734ed27e-d5f9-4a3e-a8f6-d14bb0c42e85")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR047")
 					(unit 1)
@@ -23072,7 +23072,7 @@
 			(uuid "a9a97f65-e84b-468f-b9a9-ec7d4132976f")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "FB1")
 					(unit 1)
@@ -23151,7 +23151,7 @@
 			(uuid "193054b2-72e3-497a-96c2-362429bdbf36")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "C8")
 					(unit 1)
@@ -23191,7 +23191,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rtcl-p25k-usb3:RES_YC104_YAG"
+		(property "Footprint" "rtcl-tp25k-usb3:RES_YC104_YAG"
 			(at 251.46 267.335 90)
 			(hide yes)
 			(show_name no)
@@ -23249,7 +23249,7 @@
 			(uuid "1bbbdc1b-5848-4779-9c39-feffa641f747")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "RN5")
 					(unit 1)
@@ -23326,7 +23326,7 @@
 			(uuid "e5f14fb3-f784-4d2e-a88d-065617a67df6")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR037")
 					(unit 1)
@@ -23403,7 +23403,7 @@
 			(uuid "d996407e-f6e8-489f-8c89-6477ba099e40")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR014")
 					(unit 1)
@@ -23482,7 +23482,7 @@
 			(uuid "6bcabcfe-ec3b-41ae-87b7-895d3c565404")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "C18")
 					(unit 1)
@@ -23560,7 +23560,7 @@
 			(uuid "248ab0ac-de75-4f5f-8d5f-5556ba1be4ab")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR046")
 					(unit 1)
@@ -23639,7 +23639,7 @@
 			(uuid "746e610c-d89c-487e-9569-bbb5f442a471")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "R2")
 					(unit 1)
@@ -23718,7 +23718,7 @@
 			(uuid "dd324569-3aac-46ed-be21-43d4c50c58b5")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "C10")
 					(unit 1)
@@ -23795,7 +23795,7 @@
 			(uuid "510ec88d-485b-4308-87c6-cafc6ca1fd3d")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR044")
 					(unit 1)
@@ -23873,7 +23873,7 @@
 			(uuid "8de916af-d0f6-4c3b-a08a-05e05abb74b7")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR027")
 					(unit 1)
@@ -23951,7 +23951,7 @@
 			(uuid "a8e0b49b-2753-4ae8-9e7b-d78151e66365")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR07")
 					(unit 1)
@@ -24028,7 +24028,7 @@
 			(uuid "5e03a778-efb2-4092-b3bb-af3eb481d0dd")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR034")
 					(unit 1)
@@ -24106,7 +24106,7 @@
 			(uuid "8ad07788-d94a-4751-9488-bf880db1e44b")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR040")
 					(unit 1)
@@ -24183,7 +24183,7 @@
 			(uuid "5574dee9-7e0b-4825-a7a3-404d7bf0b7c2")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR0108")
 					(unit 1)
@@ -24262,7 +24262,7 @@
 			(uuid "6adaf03e-f252-422e-9abd-ff7c98b99199")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "C17")
 					(unit 1)
@@ -24344,7 +24344,7 @@
 			(uuid "6eb8f1c9-a033-48ad-81f3-4fdc53b67038")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "C77")
 					(unit 1)
@@ -24422,7 +24422,7 @@
 			(uuid "7013fe4c-4819-4f2f-843a-c13707bad9f0")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR018")
 					(unit 1)
@@ -24500,7 +24500,7 @@
 			(uuid "f923e533-46e7-4d64-9c7d-4e6aa3048725")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR094")
 					(unit 1)
@@ -24579,7 +24579,7 @@
 			(uuid "e81d5cd4-24c0-4e84-bd9a-9ccd759ec9b3")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "R51")
 					(unit 1)
@@ -24657,7 +24657,7 @@
 			(uuid "0599c8d2-7c9f-4c7a-b1f7-64a5c64c7e7e")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR03")
 					(unit 1)
@@ -24735,7 +24735,7 @@
 			(uuid "08a01a1b-62f2-4f1a-93d1-16bd06149ad5")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR021")
 					(unit 1)
@@ -24814,7 +24814,7 @@
 			(uuid "865306bb-9a69-48c2-a094-4305e6161014")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "R47")
 					(unit 1)
@@ -24892,7 +24892,7 @@
 			(uuid "5e868520-f43d-449c-a37a-3c0b16e9e288")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR035")
 					(unit 1)
@@ -24932,7 +24932,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rtcl-p25k-usb3:RES_YC104_YAG"
+		(property "Footprint" "rtcl-tp25k-usb3:RES_YC104_YAG"
 			(at 251.46 292.735 90)
 			(hide yes)
 			(show_name no)
@@ -24990,7 +24990,7 @@
 			(uuid "1e9f1ad7-a30f-4e4a-b547-0397a1cf2fc7")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "RN7")
 					(unit 1)
@@ -25069,7 +25069,7 @@
 			(uuid "58d4730f-46b4-4c0d-8e33-5cd382386eb7")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "R53")
 					(unit 1)
@@ -25146,7 +25146,7 @@
 			(uuid "86fcaa67-8cf4-47f4-8ea6-dc8001c5fb23")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR013")
 					(unit 1)
@@ -25186,7 +25186,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rtcl-p25k-usb3:RES_YC104_YAG"
+		(property "Footprint" "rtcl-tp25k-usb3:RES_YC104_YAG"
 			(at 251.46 307.975 90)
 			(hide yes)
 			(show_name no)
@@ -25244,7 +25244,7 @@
 			(uuid "1e077f3c-098b-447c-924b-e27ef485636f")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "RN8")
 					(unit 1)
@@ -25253,7 +25253,7 @@
 		)
 	)
 	(symbol
-		(lib_id "rtcl-p25k-usb3:FT601Q")
+		(lib_id "rtcl-tp25k-usb3:FT601Q")
 		(at 199.39 261.62 0)
 		(unit 1)
 		(body_style 1)
@@ -25551,7 +25551,7 @@
 			(uuid "7017bcc1-5a9e-4607-82c2-76367f9c17b7")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "U1")
 					(unit 1)
@@ -25630,7 +25630,7 @@
 			(uuid "d4065084-dbbd-4506-abb9-ee2d5667abce")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "C5")
 					(unit 1)
@@ -25708,7 +25708,7 @@
 			(uuid "11c99f5e-3bf7-4030-bb72-d2aa927f284c")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR024")
 					(unit 1)
@@ -25786,7 +25786,7 @@
 			(uuid "7605d011-9a44-4785-8894-6971229300df")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR017")
 					(unit 1)
@@ -25864,7 +25864,7 @@
 			(uuid "d01315ed-d41a-4396-908a-417a1b6b128d")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR06")
 					(unit 1)
@@ -25941,7 +25941,7 @@
 			(uuid "30a09691-3f1e-4317-8376-dac0d3936bd4")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR029")
 					(unit 1)
@@ -25981,7 +25981,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rtcl-p25k-usb3:CONN10_ZX360D-B-10P30_HIR"
+		(property "Footprint" "rtcl-tp25k-usb3:CONN10_ZX360D-B-10P30_HIR"
 			(at 52.07 186.69 0)
 			(hide yes)
 			(show_name no)
@@ -26059,7 +26059,7 @@
 			(uuid "8d9d2fc6-9391-4f66-b451-212a6fd27001")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "J1")
 					(unit 1)
@@ -26136,7 +26136,7 @@
 			(uuid "3edc964b-7139-424a-bbb2-8d6bd342ee4a")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR0107")
 					(unit 1)
@@ -26214,7 +26214,7 @@
 			(uuid "293c9092-e24c-45ed-9d2a-f589107de531")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR093")
 					(unit 1)
@@ -26293,7 +26293,7 @@
 			(uuid "ccff7cc8-6e73-4c87-9b79-1f340c1b8e8c")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "R44")
 					(unit 1)
@@ -26372,7 +26372,7 @@
 			(uuid "1449d65b-56ee-43e9-8f47-4a0288a251d2")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "C4")
 					(unit 1)
@@ -26449,7 +26449,7 @@
 			(uuid "3926275e-9e92-450e-9f7e-17f16099605c")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR036")
 					(unit 1)
@@ -26528,7 +26528,7 @@
 			(uuid "ada7ddcb-6114-4817-8504-d3892cd265f7")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "C9")
 					(unit 1)
@@ -26610,7 +26610,7 @@
 			(uuid "d4efc878-68d8-412d-ad99-670837e1e646")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "X1")
 					(unit 1)
@@ -26650,7 +26650,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rtcl-p25k-usb3:RES_YC104_YAG"
+		(property "Footprint" "rtcl-tp25k-usb3:RES_YC104_YAG"
 			(at 251.46 241.935 90)
 			(hide yes)
 			(show_name no)
@@ -26708,7 +26708,7 @@
 			(uuid "09205f41-8195-4627-a28b-775a8a6bebd1")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "RN3")
 					(unit 1)
@@ -26786,7 +26786,7 @@
 			(uuid "ff69a898-65c2-483a-8c10-5cb5a290b983")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR01")
 					(unit 1)
@@ -26865,7 +26865,7 @@
 			(uuid "7646e3a7-98dc-4338-85d3-97a43cd83508")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "R49")
 					(unit 1)
@@ -26944,7 +26944,7 @@
 			(uuid "a89978b3-81f4-4d22-9dc8-550dc6e2115d")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "R50")
 					(unit 1)
@@ -26984,7 +26984,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rtcl-p25k-usb3:PMOD_02x06_2.54mm"
+		(property "Footprint" "rtcl-tp25k-usb3:PMOD_02x06_2.54mm"
 			(at 568.96 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -27054,7 +27054,7 @@
 			(uuid "d4751a54-9af9-4030-925c-4aeaaf62a590")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "J10")
 					(unit 1)
@@ -27136,7 +27136,7 @@
 			(uuid "903fc288-0ec1-47f6-bc56-77365232565a")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "C69")
 					(unit 1)
@@ -27228,7 +27228,7 @@
 			(uuid "ff480e22-7aeb-46c5-aaa8-07962274405c")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "U12")
 					(unit 1)
@@ -27335,7 +27335,7 @@
 			(uuid "cabfbe7d-d2c8-45ea-9829-fcd6c6aa0b3d")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "U2")
 					(unit 1)
@@ -27412,7 +27412,7 @@
 			(uuid "3cf4b52f-f72c-413e-a457-e8755fbb66c8")
 		)
 		(instances
-			(project "rtcl-p25k-usb3"
+			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR020")
 					(unit 1)

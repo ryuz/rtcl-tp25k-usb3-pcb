@@ -577,7 +577,7 @@
 		(uuid "5d02c0a2-c28d-404f-a3c0-0003034c8122")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/ryuji/OneDrive/Documents/Development/kicad/rtcl-p25k-usb3/datasheet/model/DF40C-60DS-0.4V(51)_CL0684-4004-6-51_3DDrawing_STEP_0001218420S/DF40C-60DS.stp"
+	(model "C:/Users/ryuji/OneDrive/Documents/Development/kicad/rtcl-tp25k-usb3/datasheet/model/DF40C-60DS-0.4V(51)_CL0684-4004-6-51_3DDrawing_STEP_0001218420S/DF40C-60DS.stp"
 		(offset
 			(xyz 2.1 0 0)
 		)

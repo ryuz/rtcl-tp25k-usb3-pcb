@@ -183,7 +183,7 @@
 		(property ki_fp_filters "SOT?666*")
 		(path "/3caa5b6f-4227-4312-9781-f143009a7bc0")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -408,7 +408,7 @@
 			)
 		)
 	)
-	(footprint "rtcl-p25k-usb3:RES_YC104_YAG"
+	(footprint "rtcl-tp25k-usb3:RES_YC104_YAG"
 		(layer "F.Cu")
 		(uuid "04c5d092-ae90-4b01-a524-9028f6a483bd")
 		(at 137.4 96.1)
@@ -462,7 +462,7 @@
 		(property ki_fp_filters "DIP* SOIC* R*Array*Concave* R*Array*Convex* MSOP*")
 		(path "/7fd8cd6f-be31-4d9d-a1f4-e5bb908bd82a")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -704,7 +704,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/646b991e-d228-4a80-b22d-13b36a153e4a")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -862,7 +862,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/9daf979d-f96f-4f92-a54f-973e35465f3a")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1020,7 +1020,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/0e1ad4c9-c465-460e-aa46-34b6bf78b366")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1178,7 +1178,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/1af38b7c-1567-4350-8f2a-73d8f666aacd")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1336,7 +1336,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/100cfeb5-de59-4069-9221-59b6f343d6c8")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1494,7 +1494,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/bd10d48b-a72b-4c7c-ad5c-f17a5ac922dd")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1652,7 +1652,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/43bbb2f6-758d-4ea6-b2b0-80fd53786e37")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1810,7 +1810,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/5da655ef-b85d-4aa8-9212-a9f2fbc4eaa3")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1968,7 +1968,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/3a91d8a4-07f1-4e26-8b35-768869df7b2b")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2061,7 +2061,7 @@
 			)
 		)
 	)
-	(footprint "rtcl-p25k-usb3:RES_YC104_YAG"
+	(footprint "rtcl-tp25k-usb3:RES_YC104_YAG"
 		(layer "F.Cu")
 		(uuid "24c9f089-50b6-457d-b2fe-ed1d34933106")
 		(at 133.4 93.745 90)
@@ -2115,7 +2115,7 @@
 		(property ki_fp_filters "DIP* SOIC* R*Array*Concave* R*Array*Convex* MSOP*")
 		(path "/12b7275e-4b0e-49ce-b60c-84a2bd0e051c")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2357,7 +2357,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/e875f1ea-871e-45eb-93ce-8033f0e8eba2")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2515,7 +2515,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/9473cae8-c949-4a83-83f4-41f2a29dfc75")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2673,7 +2673,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/2b53b478-07f1-42c2-a5a7-b77c413d4a63")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2893,7 +2893,7 @@
 			)
 		)
 	)
-	(footprint "rtcl-p25k-usb3:CONN_DF40C-60DS_HIR"
+	(footprint "rtcl-tp25k-usb3:CONN_DF40C-60DS_HIR"
 		(layer "F.Cu")
 		(uuid "33ffcce2-9196-4d13-b7fc-fe54b9df52ec")
 		(at 150.000001 107)
@@ -2947,7 +2947,7 @@
 		(property ki_fp_filters "Connector*:*_2x??_*")
 		(path "/96c14178-b3ef-48a9-94b5-cf2392c715c5")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3666,7 +3666,7 @@
 			(uuid "a913e0f3-4ece-41ec-a2ef-5ca50e432ec3")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/ryuji/OneDrive/Documents/Development/kicad/rtcl-p25k-usb3/datasheet/model/DF40C-60DS-0.4V(51)_CL0684-4004-6-51_3DDrawing_STEP_0001218420S/DF40C-60DS.stp"
+		(model "C:/Users/ryuji/OneDrive/Documents/Development/kicad/rtcl-tp25k-usb3/datasheet/model/DF40C-60DS-0.4V(51)_CL0684-4004-6-51_3DDrawing_STEP_0001218420S/DF40C-60DS.stp"
 			(offset
 				(xyz 2.1 0 0)
 			)
@@ -3674,7 +3674,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -90)
+				(xyz -90 0 -90)
 			)
 		)
 	)
@@ -3735,7 +3735,7 @@
 		(property ki_fp_filters "USON*2.5x1.0mm*P0.5mm*")
 		(path "/ff159533-a6e8-4cc3-a04c-8b34ea25ecc7")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4055,7 +4055,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/17de5d5e-ffe0-49b1-acf3-99da615d7736")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4213,7 +4213,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/c91a31b9-dbb8-4010-a84b-94ebd2b13b6e")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4306,7 +4306,7 @@
 			)
 		)
 	)
-	(footprint "rtcl-p25k-usb3:RES_YC104_YAG"
+	(footprint "rtcl-tp25k-usb3:RES_YC104_YAG"
 		(layer "F.Cu")
 		(uuid "4420316c-7053-484f-b36d-15d26692d244")
 		(at 132.9 106.245 -90)
@@ -4360,7 +4360,7 @@
 		(property ki_fp_filters "DIP* SOIC* R*Array*Concave* R*Array*Convex* MSOP*")
 		(path "/7aeceae4-dfbe-4f95-a1d4-8d06242efaa1")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4602,7 +4602,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/8b2fa2f5-80e2-4f64-a58e-8fa0d9da000e")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4760,7 +4760,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/a8de05b1-4150-4075-ac8d-dffec0dc17f3")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4918,7 +4918,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/deb5442f-b348-43f6-8f6f-0f97e9643fa6")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5011,7 +5011,7 @@
 			)
 		)
 	)
-	(footprint "rtcl-p25k-usb3:RES_YC104_YAG"
+	(footprint "rtcl-tp25k-usb3:RES_YC104_YAG"
 		(layer "F.Cu")
 		(uuid "52b9f39a-8939-49d2-83b4-a0e23765eacc")
 		(at 137.4 102.7)
@@ -5065,7 +5065,7 @@
 		(property ki_fp_filters "DIP* SOIC* R*Array*Concave* R*Array*Convex* MSOP*")
 		(path "/c5f7ac7c-f99a-4485-9b93-ee6725430a4a")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5307,7 +5307,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/2040ade4-2c3b-41d1-88f2-700baf85604e")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5465,7 +5465,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/b61465b9-6374-4e01-9793-b39e08d89b64")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5558,7 +5558,7 @@
 			)
 		)
 	)
-	(footprint "rtcl-p25k-usb3:RES_YC104_YAG"
+	(footprint "rtcl-tp25k-usb3:RES_YC104_YAG"
 		(layer "F.Cu")
 		(uuid "5a22d25a-efa7-470b-b5be-b4194a68d1a9")
 		(at 134.9 106.245 -90)
@@ -5612,7 +5612,7 @@
 		(property ki_fp_filters "DIP* SOIC* R*Array*Concave* R*Array*Convex* MSOP*")
 		(path "/a17835ad-ed05-4678-9459-393707b3017e")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5854,7 +5854,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/c23ad39b-c081-451b-b4a1-622493bd0a1a")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5947,7 +5947,7 @@
 			)
 		)
 	)
-	(footprint "rtcl-p25k-usb3:RES_YC104_YAG"
+	(footprint "rtcl-tp25k-usb3:RES_YC104_YAG"
 		(layer "F.Cu")
 		(uuid "66bfe9fa-fdb4-4cdd-8ea8-8fa306a62ab9")
 		(at 127.8 106.245 -90)
@@ -6001,7 +6001,7 @@
 		(property ki_fp_filters "DIP* SOIC* R*Array*Concave* R*Array*Convex* MSOP*")
 		(path "/9d9b5d2f-b0f0-4916-81d5-19489d9a4d1c")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6243,7 +6243,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/8636a5f1-a072-4531-a968-718e93508ff4")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6401,7 +6401,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/f8971b15-ef7f-42de-a334-af8229a60533")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6559,7 +6559,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/077ec7d5-f348-46cc-a854-feebb42b39a3")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6717,7 +6717,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/5b3f3a9f-542c-47cb-b057-c45fafc7f8cb")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6875,7 +6875,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/74bb0755-78cf-47ed-84ad-6ed522b7b178")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -7033,7 +7033,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/77884aec-afa6-4cd4-b6c9-58a098b00935")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -7191,7 +7191,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/b5a1f4bf-3a1f-482d-901c-d9ebaaf1b631")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -7284,7 +7284,7 @@
 			)
 		)
 	)
-	(footprint "rtcl-p25k-usb3:PMOD_02x06_2.54mm"
+	(footprint "rtcl-tp25k-usb3:PMOD_02x06_2.54mm"
 		(layer "F.Cu")
 		(uuid "7919ebd9-d5e4-4e03-8c2b-ed0e658a4d7b")
 		(at 176.6825 100)
@@ -7341,7 +7341,7 @@
 		(property ki_fp_filters "Connector*:*_2x??_*")
 		(path "/f8377300-9760-4ada-ae59-2f6aaf487bd4")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -7565,7 +7565,7 @@
 			(uuid "0506d8c8-c262-44b9-abc0-844d5ec86877")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/ryuji/OneDrive/Documents/Development/kicad/rtcl-p25k-usb3/datasheet/model/613012243121/6130XX243121_613012243121.step"
+		(model "C:/Users/ryuji/OneDrive/Documents/Development/kicad/rtcl-tp25k-usb3/datasheet/model/613012243121/6130XX243121_613012243121.step"
 			(offset
 				(xyz 7 0 2.5)
 			)
@@ -7573,7 +7573,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -90)
+				(xyz -90 0 -90)
 			)
 		)
 	)
@@ -7642,7 +7642,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/893a7e9a-9f50-4fbc-9daf-768378a5588d")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -7800,7 +7800,7 @@
 		(property ki_fp_filters "SOT?23*")
 		(path "/fa7d84d1-90ac-4503-808a-3e26d28f8e4c")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -8097,7 +8097,7 @@
 			)
 		)
 	)
-	(footprint "rtcl-p25k-usb3:CON_525592253_MOL"
+	(footprint "rtcl-tp25k-usb3:CON_525592253_MOL"
 		(layer "F.Cu")
 		(uuid "8625e5cb-ac75-4292-af1f-31ebe8fca27a")
 		(at 167 100 -90)
@@ -8151,7 +8151,7 @@
 		(property ki_fp_filters "CON15_1X15_DRB_SFW_GLE")
 		(path "/8031a8ff-a45f-4d0d-8992-18c469e3beff")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -8661,7 +8661,7 @@
 			(uuid "bad9f834-8e52-440e-aba6-bbb754eb7404")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/ryuji/OneDrive/Documents/Development/kicad/rtcl-p25k-usb3/datasheet/model/525592253_stp/525592253.stp"
+		(model "C:/Users/ryuji/OneDrive/Documents/Development/kicad/rtcl-tp25k-usb3/datasheet/model/525592253_stp/525592253.stp"
 			(offset
 				(xyz 0 -1.3 3.5)
 			)
@@ -8669,7 +8669,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 90 -0 -0)
+				(xyz 90 0 0)
 			)
 		)
 	)
@@ -8738,7 +8738,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/6fbe5a75-8cf0-49d5-b78e-6e7442a25080")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -8831,7 +8831,7 @@
 			)
 		)
 	)
-	(footprint "rtcl-p25k-usb3:RES_YC164_3P2X1P6_YAG"
+	(footprint "rtcl-tp25k-usb3:RES_YC164_3P2X1P6_YAG"
 		(layer "F.Cu")
 		(uuid "8c210c6b-2ef6-4063-bd19-a780e226898b")
 		(at 130.2625 80.6304)
@@ -8885,7 +8885,7 @@
 		(property ki_fp_filters "DIP* SOIC* R*Array*Concave* R*Array*Convex* MSOP*")
 		(path "/2765a66e-18f6-4b18-a1c9-0a14aa4878f3")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -9384,7 +9384,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "rtcl-p25k-usb3:RES_YC164_3P2X1P6_YAG"
+	(footprint "rtcl-tp25k-usb3:RES_YC164_3P2X1P6_YAG"
 		(layer "F.Cu")
 		(uuid "914661ef-1df8-4ac1-a6f6-6e0d8142273a")
 		(at 126.0875 80.6304)
@@ -9438,7 +9438,7 @@
 		(property ki_fp_filters "DIP* SOIC* R*Array*Concave* R*Array*Convex* MSOP*")
 		(path "/5a7a0b60-3154-4e18-a728-bbf5779e06ad")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -9994,7 +9994,7 @@
 		(property ki_fp_filters "Crystal*")
 		(path "/ea321131-8ee9-4173-955c-473c7ec66c42")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -10181,7 +10181,7 @@
 			)
 		)
 	)
-	(footprint "rtcl-p25k-usb3:CONN10_ZX360D-B-10P30_HIR"
+	(footprint "rtcl-tp25k-usb3:CONN10_ZX360D-B-10P30_HIR"
 		(layer "F.Cu")
 		(uuid "94faefa2-d969-4b4e-ae14-faa10efbb472")
 		(at 117.6208 100 -90)
@@ -10247,7 +10247,7 @@
 		)
 		(path "/cf41b14f-f59e-464b-85cd-0db808937533")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -10893,7 +10893,7 @@
 			(uuid "7b30c75d-05ea-47a8-a741-49d60c38b892")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/ryuji/OneDrive/Documents/Development/kicad/rtcl-p25k-usb3/datasheet/model/ZX360D-B-10P(30)_CL0242-0500-1-30_3DDrawing_STEP_0001223127S/ZX360D-B-10P.stp"
+		(model "C:/Users/ryuji/OneDrive/Documents/Development/kicad/rtcl-tp25k-usb3/datasheet/model/ZX360D-B-10P(30)_CL0242-0500-1-30_3DDrawing_STEP_0001223127S/ZX360D-B-10P.stp"
 			(offset
 				(xyz 0 5.7 0)
 			)
@@ -10901,7 +10901,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -90)
+				(xyz -90 0 -90)
 			)
 		)
 	)
@@ -10970,7 +10970,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/f32b859b-0663-40df-aa29-03d1b4685761")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -11128,7 +11128,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/9f87897b-a20d-4d75-be94-5b56ad9725cb")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -11286,7 +11286,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/a6d6191d-99cd-4f41-9148-5478b6e583e0")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -11444,7 +11444,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/b9d431a1-b12c-4fdd-9795-5d06c8b30323")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -11602,7 +11602,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/8b9f54fb-8cc9-4f1e-a6d1-8350b68b1b8e")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -11760,7 +11760,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/583268b8-3b4b-4d4c-a647-4b4ca63b5359")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -11918,7 +11918,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/a39faec7-e679-4615-9d99-9f3b2ad8ec3e")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -12076,7 +12076,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/7034058b-7439-46b7-87a8-3be5b969c17d")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -12169,7 +12169,7 @@
 			)
 		)
 	)
-	(footprint "rtcl-p25k-usb3:RES_YC104_YAG"
+	(footprint "rtcl-tp25k-usb3:RES_YC104_YAG"
 		(layer "F.Cu")
 		(uuid "d0bb19e7-23e1-4c70-bd64-96d73bf47cd9")
 		(at 129.8 106.245 -90)
@@ -12223,7 +12223,7 @@
 		(property ki_fp_filters "DIP* SOIC* R*Array*Concave* R*Array*Convex* MSOP*")
 		(path "/eb9fcad9-056d-4267-9e06-ba73c4dd1344")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -12465,7 +12465,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/89540431-3a3b-4087-8ca0-05746e03720c")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -12623,7 +12623,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/00b3a73e-3ed8-485f-9497-bc462a54fab5")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -12781,7 +12781,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/defad911-1e94-41a6-b41c-92866fe4cfb8")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -12874,7 +12874,7 @@
 			)
 		)
 	)
-	(footprint "rtcl-p25k-usb3:CONN_DF40C-60DS_HIR"
+	(footprint "rtcl-tp25k-usb3:CONN_DF40C-60DS_HIR"
 		(layer "F.Cu")
 		(uuid "d58a0312-ff00-44f5-b589-fe6a6630fc2c")
 		(at 150 93)
@@ -12928,7 +12928,7 @@
 		(property ki_fp_filters "Connector*:*_2x??_*")
 		(path "/9d5da95f-c9fe-411a-b89d-4943f5b08773")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -13647,7 +13647,7 @@
 			(uuid "d7f35ea1-3900-4799-bca9-ce7f81054766")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/ryuji/OneDrive/Documents/Development/kicad/rtcl-p25k-usb3/datasheet/model/DF40C-60DS-0.4V(51)_CL0684-4004-6-51_3DDrawing_STEP_0001218420S/DF40C-60DS.stp"
+		(model "C:/Users/ryuji/OneDrive/Documents/Development/kicad/rtcl-tp25k-usb3/datasheet/model/DF40C-60DS-0.4V(51)_CL0684-4004-6-51_3DDrawing_STEP_0001218420S/DF40C-60DS.stp"
 			(offset
 				(xyz 2.1 0 0)
 			)
@@ -13655,7 +13655,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -90)
+				(xyz -90 0 -90)
 			)
 		)
 	)
@@ -13724,7 +13724,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/391fc0a8-d4f1-462c-80bc-372491a33644")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -13817,7 +13817,7 @@
 			)
 		)
 	)
-	(footprint "rtcl-p25k-usb3:RES_YC104_YAG"
+	(footprint "rtcl-tp25k-usb3:RES_YC104_YAG"
 		(layer "F.Cu")
 		(uuid "eb889c77-734c-4430-ab50-d5d9a442422c")
 		(at 137.4 100.8)
@@ -13871,7 +13871,7 @@
 		(property ki_fp_filters "DIP* SOIC* R*Array*Concave* R*Array*Convex* MSOP*")
 		(path "/c12d62ff-e70f-4edd-93b4-e992177c121d")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -14048,7 +14048,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "rtcl-p25k-usb3:RES_YC104_YAG"
+	(footprint "rtcl-tp25k-usb3:RES_YC104_YAG"
 		(layer "F.Cu")
 		(uuid "f514f166-3306-4355-b327-79dec02a7246")
 		(at 137.4 98)
@@ -14102,7 +14102,7 @@
 		(property ki_fp_filters "DIP* SOIC* R*Array*Concave* R*Array*Convex* MSOP*")
 		(path "/19adeea4-ab65-4755-9c54-a0067b0cfa58")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -14344,7 +14344,7 @@
 		(property ki_fp_filters "*QFN*1EP*9x9mm*P0.4mm*")
 		(path "/c8f20a10-966a-4b3e-88fa-78851c3d1475")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -15586,7 +15586,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/f7ff6ac3-b5f8-4999-9e2b-277ca69262d7")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -15744,7 +15744,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/1c38a95a-ffb0-457a-99d7-18860e6f0a66")
 		(sheetname "/")
-		(sheetfile "rtcl-p25k-usb3.kicad_sch")
+		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
 		(units
 			(unit
 				(name "A")

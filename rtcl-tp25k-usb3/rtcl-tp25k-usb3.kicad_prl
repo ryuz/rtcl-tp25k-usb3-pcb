@@ -63,7 +63,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "rtcl-p25k-usb3.kicad_prl",
+    "filename": "rtcl-tp25k-usb3.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {

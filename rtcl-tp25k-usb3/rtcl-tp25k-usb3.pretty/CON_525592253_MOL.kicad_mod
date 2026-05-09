@@ -485,7 +485,7 @@
 		(uuid "2d66abe7-916e-4fae-a69f-22edca29527d")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/ryuji/OneDrive/Documents/Development/kicad/rtcl-p25k-usb3/datasheet/model/525592253_stp/525592253.stp"
+	(model "C:/Users/ryuji/OneDrive/Documents/Development/kicad/rtcl-tp25k-usb3/datasheet/model/525592253_stp/525592253.stp"
 		(offset
 			(xyz 0 -1.3 3.5)
 		)
