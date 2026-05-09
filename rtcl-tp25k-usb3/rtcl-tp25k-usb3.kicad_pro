@@ -216,6 +216,7 @@
         0.1,
         0.15,
         0.2,
+        0.211074,
         0.25,
         0.5,
         1.0
@@ -257,6 +258,10 @@
         },
         {
           "diameter": 0.4,
+          "drill": 0.3
+        },
+        {
+          "diameter": 0.45,
           "drill": 0.3
         },
         {
@@ -546,7 +551,7 @@
         "track_width": 0.25,
         "tuning_profile": "",
         "via_diameter": 0.8,
-        "via_drill": 0.4,
+        "via_drill": 0.45,
         "wire_width": 6
       },
       {
@@ -589,6 +594,14 @@
       {
         "netclass": "MIPI_100ohm",
         "pattern": "*M0_*"
+      },
+      {
+        "netclass": "USB3_90ohm",
+        "pattern": "*USB_D_*"
+      },
+      {
+        "netclass": "USB3_90ohm",
+        "pattern": "*FT601_D_*"
       }
     ]
   },
@@ -723,7 +736,7 @@
         "uuid": "3111823c-3b86-4a35-a2d4-382a0824eec6"
       }
     ],
-    "used_designators": "U4-5,C71-74,R60-64,#PWR5,#PWR49-56,#PWR95-100,L1,X2",
+    "used_designators": "C21-25,FB2,#PWR24,#PWR57",
     "variants": []
   },
   "sheets": [
