@@ -3396,195 +3396,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Device:Crystal"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 1.016)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "Y"
-				(at 0 3.81 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "Crystal"
-				(at 0 -3.81 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "Two pin crystal"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "quartz ceramic resonator oscillator"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_fp_filters" "Crystal*"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "Crystal_0_1"
-				(polyline
-					(pts
-						(xy -2.54 0) (xy -1.905 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.905 -1.27) (xy -1.905 1.27)
-					)
-					(stroke
-						(width 0.508)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.143 2.54)
-					(end 1.143 -2.54)
-					(stroke
-						(width 0.3048)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.905 -1.27) (xy 1.905 1.27)
-					)
-					(stroke
-						(width 0.508)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 0) (xy 1.905 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "Crystal_1_1"
-				(pin passive line
-					(at -3.81 0 0)
-					(length 1.27)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 3.81 0 180)
-					(length 1.27)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Device:FerriteBead"
 			(pin_numbers
 				(hide yes)
@@ -6750,6 +6561,253 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "rtcl-tp25k-usb3:ABM8-30.000MHZ-D1X-T"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "X"
+				(at -3.556 7.62 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "ABM8-30.000MHZ-D1X-T"
+				(at 0.508 -8.128 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "ABM8-30.000MHZ-D1X-T_0_1"
+				(rectangle
+					(start -7.62 -3.81)
+					(end -5.08 -3.81)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -5.08 0)
+					(end -5.08 -3.81)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -2.54 0)
+					(end -5.08 0)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -2.54 -2.54)
+					(end -2.54 2.54)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 2.54 0)
+					(end 5.08 0)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 2.54 -2.54)
+					(end 2.54 2.54)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 5.08 3.81)
+					(end 5.08 0)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 5.08 3.81)
+					(end 7.62 3.81)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "ABM8-30.000MHZ-D1X-T_1_1"
+				(rectangle
+					(start -7.62 6.35)
+					(end 7.62 -6.35)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start -1.27 2.54)
+					(end 1.27 -2.54)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -10.16 -3.81 0)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 10.16 -5.08 180)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 10.16 3.81 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -10.16 3.81 0)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "rtcl-tp25k-usb3:FT601Q"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -9601,6 +9659,12 @@
 		(uuid "0e0fee00-1a8a-4fc3-8449-1bde24174d0f")
 	)
 	(junction
+		(at 109.22 320.04)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "159f18d0-d0dc-4722-b587-f09c6be83815")
+	)
+	(junction
 		(at 251.46 175.26)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -9745,12 +9809,6 @@
 		(uuid "62f2e4c2-c527-41a2-bb85-2e0a5d772fac")
 	)
 	(junction
-		(at 129.54 312.42)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "69cd244c-a9b0-4e28-a944-21c4643916f1")
-	)
-	(junction
 		(at 443.23 250.19)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -9821,12 +9879,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9ed5e457-2edb-4aa7-8418-fa4e9771626e")
-	)
-	(junction
-		(at 147.32 312.42)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9fc95fea-bf7d-4d76-9505-566d58164ea9")
 	)
 	(junction
 		(at 464.82 90.17)
@@ -9967,6 +10019,12 @@
 		(uuid "f301df21-9583-4f89-bc2c-512d7746cd64")
 	)
 	(junction
+		(at 121.92 320.04)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f6c32a15-27c6-4559-ba53-72f61ee22b28")
+	)
+	(junction
 		(at 464.82 105.41)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -10101,6 +10159,16 @@
 			(type default)
 		)
 		(uuid "07b873ae-e6d9-44ce-a6fb-7aa1ce6dc699")
+	)
+	(wire
+		(pts
+			(xy 119.38 302.26) (xy 147.32 302.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "07dd7370-59a1-476b-a048-bae74fc7a02e")
 	)
 	(wire
 		(pts
@@ -10251,6 +10319,16 @@
 			(type default)
 		)
 		(uuid "0eb56856-f64d-49d7-8ac5-1dece7bee0de")
+	)
+	(wire
+		(pts
+			(xy 121.92 314.96) (xy 121.92 320.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0f0cdca4-6620-41f8-b31d-f085c6884e28")
 	)
 	(wire
 		(pts
@@ -10774,16 +10852,6 @@
 	)
 	(wire
 		(pts
-			(xy 158.75 312.42) (xy 147.32 312.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "293b78e9-419d-44a4-9759-c801c0d648f6")
-	)
-	(wire
-		(pts
 			(xy 127 207.01) (xy 127 208.28)
 		)
 		(stroke
@@ -10844,7 +10912,7 @@
 	)
 	(wire
 		(pts
-			(xy 158.75 304.8) (xy 158.75 312.42)
+			(xy 158.75 304.8) (xy 158.75 320.04)
 		)
 		(stroke
 			(width 0)
@@ -11124,6 +11192,16 @@
 	)
 	(wire
 		(pts
+			(xy 147.32 302.26) (xy 147.32 307.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "37f54da8-3e7d-4f82-9f23-94b39cfbc30a")
+	)
+	(wire
+		(pts
 			(xy 462.28 69.85) (xy 485.14 69.85)
 		)
 		(stroke
@@ -11264,6 +11342,16 @@
 	)
 	(wire
 		(pts
+			(xy 109.22 320.04) (xy 109.22 325.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3ddfd859-b3c9-4f3d-ba85-251042e879b6")
+	)
+	(wire
+		(pts
 			(xy 593.09 233.68) (xy 593.09 238.76)
 		)
 		(stroke
@@ -11341,6 +11429,16 @@
 			(type default)
 		)
 		(uuid "3fd937b9-48cd-4c5d-b80c-7c5e6e526698")
+	)
+	(wire
+		(pts
+			(xy 144.78 307.34) (xy 147.32 307.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "40022989-1c3d-4d54-93ff-f19e9c95f5f1")
 	)
 	(wire
 		(pts
@@ -11471,6 +11569,16 @@
 			(type default)
 		)
 		(uuid "4971c6f2-8383-45d6-893f-840fb81348d4")
+	)
+	(wire
+		(pts
+			(xy 124.46 307.34) (xy 119.38 307.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4a21e283-5833-42ad-a973-7efbb01f89a1")
 	)
 	(wire
 		(pts
@@ -11734,7 +11842,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 302.26) (xy 129.54 302.26)
+			(xy 111.76 302.26) (xy 109.22 302.26)
 		)
 		(stroke
 			(width 0)
@@ -11841,6 +11949,16 @@
 			(type default)
 		)
 		(uuid "5e733eb9-b017-499e-8391-a931235b1f50")
+	)
+	(wire
+		(pts
+			(xy 119.38 320.04) (xy 121.92 320.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ea07eb1-8a2a-4184-b37b-cc68dc5a50fa")
 	)
 	(wire
 		(pts
@@ -12184,6 +12302,16 @@
 	)
 	(wire
 		(pts
+			(xy 119.38 307.34) (xy 119.38 311.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6c8afb60-d963-4796-b6fc-4d78b3b9bf6b")
+	)
+	(wire
+		(pts
 			(xy 449.58 41.91) (xy 447.04 41.91)
 		)
 		(stroke
@@ -12251,16 +12379,6 @@
 			(type default)
 		)
 		(uuid "7132acee-3801-49b9-8434-e8eb535f81ae")
-	)
-	(wire
-		(pts
-			(xy 147.32 311.15) (xy 147.32 312.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "71fee434-fd03-48dd-ba45-a53fa4270369")
 	)
 	(polyline
 		(pts
@@ -12704,16 +12822,6 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 312.42) (xy 129.54 318.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "876a8bb0-65b8-474c-a04c-d46b69619b7a")
-	)
-	(wire
-		(pts
 			(xy 449.58 102.87) (xy 447.04 102.87)
 		)
 		(stroke
@@ -12721,16 +12829,6 @@
 			(type default)
 		)
 		(uuid "88191f16-98ba-476d-9d27-21eb6079cfd1")
-	)
-	(wire
-		(pts
-			(xy 147.32 303.53) (xy 147.32 302.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "88c1057d-d1d9-4c77-8cd4-6e505f9016b1")
 	)
 	(wire
 		(pts
@@ -13242,16 +13340,6 @@
 		)
 		(uuid "a6764827-8587-47d3-8ef6-a636294191cf")
 	)
-	(wire
-		(pts
-			(xy 129.54 302.26) (xy 129.54 312.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a6b4cc95-e1e3-4dfe-8256-3e78e35ee4fd")
-	)
 	(polyline
 		(pts
 			(xy 419.1 43.18) (xy 419.1 71.12)
@@ -13301,6 +13389,16 @@
 			(type default)
 		)
 		(uuid "a947d5be-e492-4998-a153-3e4e57982840")
+	)
+	(wire
+		(pts
+			(xy 109.22 302.26) (xy 109.22 320.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a9e36637-6923-46cb-9c6f-91a8f68e923b")
 	)
 	(wire
 		(pts
@@ -13404,6 +13502,16 @@
 	)
 	(wire
 		(pts
+			(xy 124.46 314.96) (xy 121.92 314.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b0c1473e-a56f-4e88-b63b-b0999d5511cf")
+	)
+	(wire
+		(pts
 			(xy 203.2 443.23) (xy 203.2 450.85)
 		)
 		(stroke
@@ -13431,6 +13539,16 @@
 			(type default)
 		)
 		(uuid "b2124381-b1d3-47b2-8ed2-27d59c831229")
+	)
+	(wire
+		(pts
+			(xy 147.32 316.23) (xy 147.32 323.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b21ba3ac-4d15-4da5-8c07-e3b1fdd6dd4e")
 	)
 	(wire
 		(pts
@@ -14274,6 +14392,16 @@
 	)
 	(wire
 		(pts
+			(xy 144.78 316.23) (xy 147.32 316.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dffae6ab-5885-49d9-833a-4b14040846c3")
+	)
+	(wire
+		(pts
 			(xy 538.48 200.66) (xy 571.5 200.66)
 		)
 		(stroke
@@ -14311,16 +14439,6 @@
 			(type default)
 		)
 		(uuid "e21665bd-28cc-43a7-b0df-320d870c5daa")
-	)
-	(wire
-		(pts
-			(xy 139.7 312.42) (xy 147.32 312.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e27774de-6eab-4749-8128-109d11300a8c")
 	)
 	(wire
 		(pts
@@ -14574,23 +14692,13 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 312.42) (xy 132.08 312.42)
+			(xy 109.22 320.04) (xy 111.76 320.04)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "efe65e08-6912-46d3-a487-df049cb968df")
-	)
-	(wire
-		(pts
-			(xy 139.7 302.26) (xy 147.32 302.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "eff5b3aa-1406-4e61-adac-25a6246b0b75")
 	)
 	(wire
 		(pts
@@ -14601,6 +14709,16 @@
 			(type default)
 		)
 		(uuid "f000e6ee-95b9-4abd-ae87-f8f7a44308b6")
+	)
+	(wire
+		(pts
+			(xy 121.92 320.04) (xy 158.75 320.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f0324519-ff44-4b07-96ca-27e35261069a")
 	)
 	(wire
 		(pts
@@ -17676,7 +17794,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 439.42 197.358 90)
 			(hide yes)
 			(show_name no)
@@ -17934,7 +18052,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 439.42 204.978 90)
 			(hide yes)
 			(show_name no)
@@ -18055,6 +18173,83 @@
 			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR039")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 119.38 311.15 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "1cf3f261-e71f-4722-8ac5-e975e7d4cfca")
+		(property "Reference" "#PWR052"
+			(at 119.38 317.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 115.316 314.452 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 119.38 311.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 119.38 311.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 119.38 311.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "37aa3f83-6a2c-41de-acb6-bd34de9878b5")
+		)
+		(instances
+			(project "rtcl-tp25k-usb3"
+				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
+					(reference "#PWR052")
 					(unit 1)
 				)
 			)
@@ -18731,7 +18926,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 135.89 302.26 90)
+		(at 115.57 302.26 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -18741,7 +18936,7 @@
 		(dnp no)
 		(uuid "391fc0a8-d4f1-462c-80bc-372491a33644")
 		(property "Reference" "C3"
-			(at 133.096 298.958 90)
+			(at 112.776 298.958 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18751,7 +18946,7 @@
 			)
 		)
 		(property "Value" "18pF"
-			(at 139.192 298.958 90)
+			(at 118.872 298.958 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18761,7 +18956,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 139.7 301.2948 0)
+			(at 119.38 301.2948 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18772,7 +18967,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 135.89 302.26 0)
+			(at 115.57 302.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18783,7 +18978,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 135.89 302.26 0)
+			(at 115.57 302.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22460,6 +22655,83 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 147.32 323.85 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "93c10abd-1be5-4ec8-a27f-037abb6f0e3b")
+		(property "Reference" "#PWR053"
+			(at 147.32 330.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 143.256 327.152 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 147.32 323.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 147.32 323.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 147.32 323.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "cd6530f0-9ae3-4dd3-8dad-cc28a6719115")
+		)
+		(instances
+			(project "rtcl-tp25k-usb3"
+				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
+					(reference "#PWR053")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+5V")
 		(at 34.29 497.84 0)
 		(unit 1)
@@ -24418,7 +24690,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 129.54 318.77 0)
+		(at 109.22 325.12 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -24429,7 +24701,7 @@
 		(fields_autoplaced yes)
 		(uuid "adcca2f1-7931-4563-bc7e-74032cbf0c1a")
 		(property "Reference" "#PWR07"
-			(at 129.54 325.12 0)
+			(at 109.22 331.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24440,7 +24712,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 129.54 323.85 0)
+			(at 109.22 330.2 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24450,7 +24722,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 129.54 318.77 0)
+			(at 109.22 325.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24461,7 +24733,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 129.54 318.77 0)
+			(at 109.22 325.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24472,7 +24744,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 129.54 318.77 0)
+			(at 109.22 325.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24644,6 +24916,91 @@
 			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR040")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "rtcl-tp25k-usb3:ABM8-30.000MHZ-D1X-T")
+		(at 134.62 311.15 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "b08e3fc1-544e-4685-bafd-cf657bf154d4")
+		(property "Reference" "X1"
+			(at 134.62 303.276 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "ABM8-30.000MHZ-D1X-T"
+			(at 136.906 300.228 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "rtcl-p25k-usb3:XTAL_ABM8-30.000MHz-D1X-T"
+			(at 134.62 311.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 134.62 311.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 134.62 311.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "264f8c03-f8a1-4aa3-a9a3-ef013463ab00")
+		)
+		(pin "3"
+			(uuid "46aad495-7e93-477e-aecc-aa57c2c4c2e0")
+		)
+		(pin "4"
+			(uuid "ef9b3da4-ce76-4b10-b1ae-f10e833a2658")
+		)
+		(pin "1"
+			(uuid "42af97e6-bfc2-4c77-8371-28851b6b74f3")
+		)
+		(instances
+			(project "rtcl-tp25k-usb3"
+				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
+					(reference "X1")
 					(unit 1)
 				)
 			)
@@ -25801,7 +26158,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 439.42 201.168 90)
 			(hide yes)
 			(show_name no)
@@ -26997,7 +27354,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 135.89 312.42 90)
+		(at 115.57 320.04 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -27007,7 +27364,7 @@
 		(dnp no)
 		(uuid "defad911-1e94-41a6-b41c-92866fe4cfb8")
 		(property "Reference" "C4"
-			(at 132.842 314.198 90)
+			(at 112.522 321.818 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -27017,7 +27374,7 @@
 			)
 		)
 		(property "Value" "18pF"
-			(at 139.954 314.198 90)
+			(at 119.634 321.818 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -27027,7 +27384,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 139.7 311.4548 0)
+			(at 119.38 319.0748 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27038,7 +27395,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 135.89 312.42 0)
+			(at 115.57 320.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27049,7 +27406,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 135.89 312.42 0)
+			(at 115.57 320.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27225,98 +27582,6 @@
 			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "C9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:Crystal")
-		(at 147.32 307.34 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "ea321131-8ee9-4173-955c-473c7ec66c42")
-		(property "Reference" "X1"
-			(at 151.13 306.0699 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "ABM3-30.000MHZ-D2Y-T"
-			(at 143.51 300.736 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 147.32 307.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 147.32 307.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Two pin crystal"
-			(at 147.32 307.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC" " C5371650"
-			(at 147.32 307.34 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "71ecacbf-3a34-4d53-ac15-6fdec13c7ea0")
-		)
-		(pin "2"
-			(uuid "d4efc878-68d8-412d-ad99-670837e1e646")
-		)
-		(instances
-			(project "rtcl-tp25k-usb3"
-				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
-					(reference "X1")
 					(unit 1)
 				)
 			)
