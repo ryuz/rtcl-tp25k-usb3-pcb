@@ -89,6 +89,7 @@
 		)
 		(capping no)
 		(filling no)
+		(zone_defaults)
 		(pcbplotparams
 			(layerselection 0x00000000_00000000_55555555_5755f5ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
@@ -7290,6 +7291,28 @@
 		(at 176.6825 100)
 		(descr "Through hole straight pin header, 2x06, 2.54mm pitch, double rows")
 		(tags "Through hole pin header THT 2x06 2.54mm double row")
+		(property "Reference" "J10"
+			(at 1.27 -2.33 0)
+			(layer "F.SilkS")
+			(uuid "c3e79360-78c9-4f95-b6b9-193abacc08de")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "SSQ-106-02-F-D-RA"
+			(at 1.27 15.03 0)
+			(layer "F.Fab")
+			(uuid "87e3b2ea-4a1f-4c91-a958-b76dcc5e4ad3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 0)
 			(unlocked yes)
@@ -7312,28 +7335,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Reference" "J10"
-			(at 1.27 -2.33 0)
-			(layer "F.SilkS")
-			(uuid "c3e79360-78c9-4f95-b6b9-193abacc08de")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "SSQ-106-02-F-D-RA"
-			(at 1.27 15.03 0)
-			(layer "F.Fab")
-			(uuid "87e3b2ea-4a1f-4c91-a958-b76dcc5e4ad3")
-			(effects
-				(font
-					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -8440,7 +8441,7 @@
 		)
 		(pad "1" smd rect
 			(at -5.24999 1.4 270)
-			(size 0.6 1.5)
+			(size 0.5 1.5)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "GND")
 			(pinfunction "GND_1")
@@ -8458,7 +8459,7 @@
 		)
 		(pad "3" smd rect
 			(at -4.249989 1.4 270)
-			(size 0.6 1.5)
+			(size 0.5 1.5)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "/M0_D0_P")
 			(pinfunction "DP0_3")
@@ -16093,6 +16094,14 @@
 		(uuid "e0327624-2679-4e8a-96b7-968dfba01a7d")
 	)
 	(segment
+		(start 148.6 108.32)
+		(end 148.6 107.4)
+		(width 0.1)
+		(layer "F.Cu")
+		(net "/E3_IOB60A_40P")
+		(uuid "a5ef9926-c667-4e53-a010-6feca13a2b2a")
+	)
+	(segment
 		(start 148.999999 108.32)
 		(end 149 107.4)
 		(width 0.1)
@@ -16141,12 +16150,20 @@
 		(uuid "cdff6b2f-548d-48f9-8f53-342de80de819")
 	)
 	(segment
-		(start 148.6 108.32)
-		(end 148.6 107.4)
+		(start 168.4 95.25001)
+		(end 163.94999 95.25001)
 		(width 0.1)
 		(layer "F.Cu")
-		(net "/E3_IOB60A_40P")
-		(uuid "a5ef9926-c667-4e53-a010-6feca13a2b2a")
+		(net "/M0_D0_N")
+		(uuid "e2e89bce-85fe-4bc8-9b14-373892c7f523")
+	)
+	(segment
+		(start 165.6 95.750011)
+		(end 164.050011 95.750011)
+		(width 0.1)
+		(layer "F.Cu")
+		(net "/M0_D0_P")
+		(uuid "5d389ad7-fa8b-4adb-8fc5-f80a6c4de5a7")
 	)
 	(embedded_fonts no)
 )
