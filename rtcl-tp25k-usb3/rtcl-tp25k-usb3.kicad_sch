@@ -10808,12 +10808,6 @@
 		(uuid "550a6948-29c6-4cd5-b753-5052393e89d0")
 	)
 	(junction
-		(at 127 208.28)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5597f162-63ee-4579-96ab-a246631d8934")
-	)
-	(junction
 		(at 370.84 273.05)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -12250,16 +12244,6 @@
 			(type default)
 		)
 		(uuid "292baa41-4c2c-49eb-817e-a5e0138ae76a")
-	)
-	(wire
-		(pts
-			(xy 127 207.01) (xy 127 208.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2975f6ef-666b-47f2-995d-781482a40a5c")
 	)
 	(wire
 		(pts
@@ -22534,85 +22518,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 127 213.36 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "43bbb2f6-758d-4ea6-b2b0-80fd53786e37")
-		(property "Reference" "C11"
-			(at 130.048 211.074 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "0.1uF"
-			(at 129.794 216.662 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 126.0348 209.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 127 213.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 127 213.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "aa9cfb94-912d-4682-bfdd-0cd9134a0502")
-		)
-		(pin "2"
-			(uuid "db74b5aa-1db0-4472-85df-f1276c5fe786")
-		)
-		(instances
-			(project "rtcl-tp25k-usb3"
-				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
-					(reference "C11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 43.18 500.38 0)
 		(unit 1)
@@ -24367,84 +24272,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:VCC")
-		(at 127 199.39 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7552bd5a-7fa8-438e-b924-d7bd29947c08")
-		(property "Reference" "#PWR033"
-			(at 127 203.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "VCC"
-			(at 127 194.31 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 127 199.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 127 199.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 127 199.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "d844a772-6d36-491b-8d7d-90f5fdd1ce74")
-		)
-		(instances
-			(project "rtcl-tp25k-usb3"
-				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
-					(reference "#PWR033")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "PCM_JLCPCB-Transistors:NMOS,2SK3018")
 		(at 220.98 500.38 0)
 		(unit 1)
@@ -26167,7 +25994,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 127 203.2 180)
+		(at 127 213.36 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -26177,7 +26004,7 @@
 		(dnp no)
 		(uuid "8b9f54fb-8cc9-4f1e-a6d1-8350b68b1b8e")
 		(property "Reference" "R3"
-			(at 130.302 199.39 0)
+			(at 130.302 209.55 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -26186,8 +26013,8 @@
 				)
 			)
 		)
-		(property "Value" "10k"
-			(at 131.064 204.978 0)
+		(property "Value" "4.7k"
+			(at 131.064 215.138 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -26197,7 +26024,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 128.778 203.2 90)
+			(at 128.778 213.36 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26208,7 +26035,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 127 203.2 0)
+			(at 127 213.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26219,7 +26046,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 127 203.2 0)
+			(at 127 213.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
