@@ -58,8 +58,17 @@ def read_pcb_lengths_mm() -> dict[str, float]:
     for encoding in ("cp932", "utf-8-sig", "utf-8"):
         try:
             with PCB_LENGTH_PATH.open("r", encoding=encoding, newline="") as handle:
-                reader = csv.reader(handle)
-                header = next(reader)
+                sample = handle.read(4096)
+                handle.seek(0)
+
+                try:
+                    dialect = csv.Sniffer().sniff(sample, delimiters=",;")
+                    delimiter = dialect.delimiter
+                except csv.Error:
+                    delimiter = ";" if sample.count(";") > sample.count(",") else ","
+
+                reader = csv.reader(handle, delimiter=delimiter)
+                next(reader, None)
                 net_name_index = 0
                 total_length_index = 2
                 lengths: dict[str, float] = {}
