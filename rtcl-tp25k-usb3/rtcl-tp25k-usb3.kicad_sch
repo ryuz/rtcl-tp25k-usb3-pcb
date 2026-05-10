@@ -17385,6 +17385,16 @@
 		)
 		(uuid "0ab3f891-1044-49ff-b207-2fedd8ba2167")
 	)
+	(label "G10_IOT7B"
+		(at 52.07 508 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0b794cbb-9c15-455b-8f1e-a7ae4ddafc42")
+	)
 	(label "E1_IOB12B_40P"
 		(at 491.49 389.89 180)
 		(effects
@@ -17834,16 +17844,6 @@
 			(justify right bottom)
 		)
 		(uuid "3a080de2-0ec8-42a9-8be0-c0cf2bed583c")
-	)
-	(label "B11_IOL12A"
-		(at 34.29 454.66 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "3a666da7-1af1-4812-a1d1-2315872b35a0")
 	)
 	(label "G4_IOB89A_40P"
 		(at 279.4 351.79 180)
@@ -18485,6 +18485,16 @@
 		)
 		(uuid "7d40ea8d-5237-4846-88b5-6bd80e5bbfd3")
 	)
+	(label "C11_IOL5A"
+		(at 189.23 500.38 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7de05ffc-d76d-4960-ae8c-b037f6cd0305")
+	)
 	(label "L1_IOR18B_40P"
 		(at 455.93 250.19 0)
 		(effects
@@ -19025,16 +19035,6 @@
 		)
 		(uuid "b912c0c1-30fd-4ba9-acff-180a52094691")
 	)
-	(label "C11_IOL5A"
-		(at 52.07 508 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "b9270a08-376e-4bca-92ac-a89b4e6287a6")
-	)
 	(label "G1_IOR24B_40P"
 		(at 455.93 265.43 0)
 		(effects
@@ -19225,16 +19225,6 @@
 		)
 		(uuid "c88082fa-e7a8-4a2b-bd0f-6319a362f648")
 	)
-	(label "C10_IOL5B"
-		(at 199.39 500.38 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "c8d32cd1-79d5-424c-8879-4f3b8109371b")
-	)
 	(label "F2_IOB26A_40P"
 		(at 491.49 379.73 180)
 		(effects
@@ -19355,6 +19345,26 @@
 		)
 		(uuid "d541f99a-c657-438d-a157-880fe0c3464a")
 	)
+	(label "D10_IOL9B"
+		(at 34.29 454.66 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d6e1c596-6872-420e-ae93-77f0b3c397a4")
+	)
+	(label "D11_IOL9A"
+		(at 34.29 452.12 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d745e83a-7f8f-4274-8cf0-193b7ae543b2")
+	)
 	(label "J4_IOR22A_40P"
 		(at 455.93 257.81 0)
 		(effects
@@ -19374,16 +19384,6 @@
 			(justify left bottom)
 		)
 		(uuid "d877d40b-b3cc-4152-9ad4-330d38e7ed93")
-	)
-	(label "B10_IOL12B"
-		(at 34.29 452.12 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "d8a699d6-64ea-4b32-a018-3f0dbd654394")
 	)
 	(label "A2_JTAG_TDO"
 		(at 412.75 427.99 0)
@@ -22203,201 +22203,6 @@
 		)
 	)
 	(symbol
-		(lib_id "PCM_JLCPCB-Transistors:NMOS,2SK3018")
-		(at 304.8 490.22 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4128c619-9c24-409b-9851-a4844bcdc021")
-		(property "Reference" "Q2"
-			(at 311.15 488.9499 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "2SK3018"
-			(at 311.15 491.49 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 0.8 0.8)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
-			(at 303.022 490.22 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2401111808_hongjiacheng-2SK3018_C20069148.pdf"
-			(at 304.8 490.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "-55°C~+150°C 1 N-channel 1.5V 100mA 13pF 200mW 30V 4pF 8Ω@4V、13Ω@2.5V 9pF N-Channel SOT-23 MOSFETs ROHS"
-			(at 304.8 490.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC" "C20069148"
-			(at 304.8 490.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Stock" "119703"
-			(at 304.8 490.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Price" "0.027USD"
-			(at 304.8 490.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Process" "SMT"
-			(at 304.8 490.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Minimum Qty" "10"
-			(at 304.8 490.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Attrition Qty" "4"
-			(at 304.8 490.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Class" "Preferred Component"
-			(at 304.8 490.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Category" "Triode/MOS Tube/Transistor,MOSFETs"
-			(at 304.8 490.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "hongjiacheng"
-			(at 304.8 490.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Part" "2SK3018"
-			(at 304.8 490.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "ef0e5f29-93b0-4471-8f7f-98dffbc50af7")
-		)
-		(pin "2"
-			(uuid "65dee0b1-b919-492e-bea0-33f399d7134a")
-		)
-		(pin "3"
-			(uuid "3e317d81-5305-4fbf-9acc-b5041258a1b6")
-		)
-		(instances
-			(project "rtcl-tp25k-usb3"
-				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
-					(reference "Q2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 43.18 500.38 0)
 		(unit 1)
@@ -22575,7 +22380,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "XL-1606UGC"
+		(property "Value" "150060VS55040"
 			(at 311.15 477.8374 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22586,7 +22391,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 307.34 474.98 0)
 			(hide yes)
 			(show_name no)
@@ -22630,7 +22435,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C965863"
+		(property "LCSC" "C6390388"
 			(at 307.34 474.98 90)
 			(hide yes)
 			(show_name no)
@@ -24174,7 +23979,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2SK3018"
+		(property "Value" "NTK3134NT1G"
 			(at 227.33 501.65 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24185,7 +23990,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-723"
 			(at 219.202 500.38 90)
 			(hide yes)
 			(show_name no)
@@ -24218,7 +24023,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C20069148"
+		(property "LCSC" "C97777"
 			(at 220.98 500.38 0)
 			(hide yes)
 			(show_name no)
@@ -26465,7 +26270,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "330"
+		(property "Value" "100"
 			(at 309.118 465.328 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31454,6 +31259,201 @@
 			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR056")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_JLCPCB-Transistors:NMOS,2SK3018")
+		(at 304.8 490.22 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "dcdaf1f1-e1ae-4475-9e7d-0ae637d69eb7")
+		(property "Reference" "Q2"
+			(at 311.15 488.9499 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "NTK3134NT1G"
+			(at 311.15 491.49 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-723"
+			(at 303.022 490.22 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2401111808_hongjiacheng-2SK3018_C20069148.pdf"
+			(at 304.8 490.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "-55°C~+150°C 1 N-channel 1.5V 100mA 13pF 200mW 30V 4pF 8Ω@4V、13Ω@2.5V 9pF N-Channel SOT-23 MOSFETs ROHS"
+			(at 304.8 490.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C97777"
+			(at 304.8 490.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Stock" "119703"
+			(at 304.8 490.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Price" "0.027USD"
+			(at 304.8 490.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Process" "SMT"
+			(at 304.8 490.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Minimum Qty" "10"
+			(at 304.8 490.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Attrition Qty" "4"
+			(at 304.8 490.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Class" "Preferred Component"
+			(at 304.8 490.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Category" "Triode/MOS Tube/Transistor,MOSFETs"
+			(at 304.8 490.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "hongjiacheng"
+			(at 304.8 490.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part" "2SK3018"
+			(at 304.8 490.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "ec9851be-ea1e-4146-9f50-1299dcbbe1ca")
+		)
+		(pin "2"
+			(uuid "a22a502f-a7df-43ea-9865-cb1dafb60dfa")
+		)
+		(pin "3"
+			(uuid "badd13b7-65ad-4b33-89fb-86571f2f3030")
+		)
+		(instances
+			(project "rtcl-tp25k-usb3"
+				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
+					(reference "Q2")
 					(unit 1)
 				)
 			)
