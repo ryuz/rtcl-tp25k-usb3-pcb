@@ -10275,6 +10275,16 @@
 		)
 		(uuid "a2e82e50-dafc-47d7-8a58-c34d62027bbb")
 	)
+	(text "Tang Primer 25K(GW5A-25K-MG121N)"
+		(exclude_from_sim no)
+		(at 432.054 235.966 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "a40e2c7a-90ce-46e8-b7f9-97e9e1198cf4")
+	)
 	(text "BANK10"
 		(exclude_from_sim no)
 		(at 528.066 270.51 0)

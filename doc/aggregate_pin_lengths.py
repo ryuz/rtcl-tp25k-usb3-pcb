@@ -31,6 +31,25 @@ def normalize_som_datasheet_key(value: str) -> str:
     return text
 
 
+def resolve_som_datasheet_key(som_key: str, som_lengths_mm: dict[str, float]) -> str:
+    if not som_key:
+        return ""
+    if som_key in som_lengths_mm:
+        return som_key
+
+    # Tang table naming can differ between IOTxx and IORxx for some pins.
+    if som_key.startswith("IOT"):
+        alias = "IOR" + som_key[3:]
+        if alias in som_lengths_mm:
+            return alias
+    if som_key.startswith("IOR"):
+        alias = "IOT" + som_key[3:]
+        if alias in som_lengths_mm:
+            return alias
+
+    return som_key
+
+
 def read_pin_assignments() -> list[dict[str, str]]:
     with PIN_ASSIGN_PATH.open("r", encoding="utf-8-sig", newline="") as handle:
         reader = csv.DictReader(handle)
@@ -101,7 +120,8 @@ def main() -> None:
     output_rows: list[dict[str, str]] = []
     for row in pin_assignments:
         som_key = normalize_som_datasheet_key(row.get("SoMネット名", ""))
-        som_inside_length = som_lengths_mm.get(som_key)
+        resolved_som_key = resolve_som_datasheet_key(som_key, som_lengths_mm)
+        som_inside_length = som_lengths_mm.get(resolved_som_key)
         board_som_length = pcb_lengths_mm.get(normalize_board_net_name(row.get("SoMネット名", "")))
         board_ft601_length = pcb_lengths_mm.get(normalize_board_net_name(row.get("FT601ネット名", "")))
 
@@ -111,6 +131,7 @@ def main() -> None:
 
         output_row = dict(row)
         output_row["SoMデータシート照合キー"] = som_key
+        output_row["SoMデータシート最終キー"] = resolved_som_key
         output_row["SoM内配線長(mm)"] = format_length(som_inside_length)
         output_row["設計基板_SoM側配線長(mm)"] = format_length(board_som_length)
         output_row["設計基板_FT601側配線長(mm)"] = format_length(board_ft601_length)
@@ -119,6 +140,7 @@ def main() -> None:
 
     fieldnames = list(pin_assignments[0].keys()) + [
         "SoMデータシート照合キー",
+        "SoMデータシート最終キー",
         "SoM内配線長(mm)",
         "設計基板_SoM側配線長(mm)",
         "設計基板_FT601側配線長(mm)",

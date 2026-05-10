@@ -7,7 +7,7 @@ from pathlib import Path
 MIL_TO_MM = 0.0254
 ROOT_DIR = Path(__file__).resolve().parents[1]
 SOURCE_PATH = ROOT_DIR / "datasheet" / "Tang_Primer_25K_52300_Pin_Length_table.csv"
-OUTPUT_PATH = ROOT_DIR / "datasheet" / "Tang_Primer_25K_52300_Pin_Length_table_normalized.csv"
+OUTPUT_PATH = ROOT_DIR / "doc" / "Tang_Primer_25K_52300_Pin_Length_table.csv"
 
 
 def clean_text(value: str) -> str:
