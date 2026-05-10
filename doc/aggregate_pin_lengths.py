@@ -101,6 +101,7 @@ def main() -> None:
             total_length = sum(value for value in (som_inside_length, board_som_length, board_ft601_length) if value is not None)
 
         output_row = dict(row)
+        output_row["SoMデータシート照合キー"] = som_key
         output_row["SoM内配線長(mm)"] = format_length(som_inside_length)
         output_row["設計基板_SoM側配線長(mm)"] = format_length(board_som_length)
         output_row["設計基板_FT601側配線長(mm)"] = format_length(board_ft601_length)
@@ -108,6 +109,7 @@ def main() -> None:
         output_rows.append(output_row)
 
     fieldnames = list(pin_assignments[0].keys()) + [
+        "SoMデータシート照合キー",
         "SoM内配線長(mm)",
         "設計基板_SoM側配線長(mm)",
         "設計基板_FT601側配線長(mm)",
