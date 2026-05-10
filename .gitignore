@@ -1,4 +1,8 @@
 
+.*
+!.gitignore
+
+
 datasheet/
 *-backups/
 \#auto_saved_files\#
