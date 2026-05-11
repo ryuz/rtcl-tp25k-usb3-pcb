@@ -740,7 +740,7 @@
         "uuid": "3111823c-3b86-4a35-a2d4-382a0824eec6"
       }
     ],
-    "used_designators": "Q2,J6,#PWR33,#PWR36",
+    "used_designators": "#PWR37-40,#PWR61-63,#PWR105-106,#PWR110,#PWR113-118,#PWR123,C11-12,LED2-4,Q3-5,J7,R71-80,SW1-4",
     "variants": []
   },
   "sheets": [
