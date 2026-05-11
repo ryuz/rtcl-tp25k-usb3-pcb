@@ -205,12 +205,6 @@
 		(path "/ab0c4cf4-7ecd-44f4-9a8c-f36770dfb5c4")
 		(sheetname "/")
 		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "4" "3")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -829,7 +823,7 @@
 		(embedded_fonts no)
 		(model "C:/Users/ryuji/OneDrive/Documents/Development/kicad/rtcl-tp25k-usb3/datasheet/model/218-2LP.STEP"
 			(offset
-				(xyz -0.5 -2 0)
+				(xyz -0.4 -1.9 1)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -11958,7 +11952,7 @@
 		(descr "Through hole straight pin header, 1x03, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x03 2.54mm single row")
 		(property "Reference" "J7"
-			(at -2.5 3.1 180)
+			(at 0.2 7.8 180)
 			(layer "F.SilkS")
 			(uuid "5e3c5495-5448-44a1-9526-0b0f6dc07387")
 			(effects
@@ -24072,6 +24066,54 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "RECON"
+		(at 177 84.2 0)
+		(layer "F.SilkS")
+		(uuid "96283227-9962-4564-b811-5206e4ea728c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "GND"
+		(at 153.2 113.9 90)
+		(layer "F.SilkS")
+		(uuid "81dca194-927c-40e8-8b84-05dee56ca043")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "READY"
+		(at 155.9 113.9 90)
+		(layer "F.SilkS")
+		(uuid "ea96cc63-2dd3-4b97-adbb-0440e40e712a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "DONE"
+		(at 158.4 113.8 90)
+		(layer "F.SilkS")
+		(uuid "0045f470-05a6-4c91-ba69-782b8a954e56")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "1"
 		(at 175.5 117.2 0)
 		(layer "F.SilkS")
@@ -24157,7 +24199,7 @@
 		)
 	)
 	(gr_text "TDO"
-		(at 146.378103 88.321806 90)
+		(at 146.7 88.8 90)
 		(layer "F.SilkS")
 		(uuid "dbf704e3-a223-4fb1-8c45-09a1eda7a2a2")
 		(effects
