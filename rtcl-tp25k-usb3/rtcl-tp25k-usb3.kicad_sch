@@ -11481,7 +11481,7 @@
 		(uuid "62f2e4c2-c527-41a2-bb85-2e0a5d772fac")
 	)
 	(junction
-		(at 289.56 490.22)
+		(at 293.37 490.22)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "649865b5-9290-4a86-b56a-3bcc308ccedc")
@@ -12044,7 +12044,7 @@
 	)
 	(wire
 		(pts
-			(xy 289.56 499.11) (xy 289.56 500.38)
+			(xy 293.37 499.11) (xy 293.37 500.38)
 		)
 		(stroke
 			(width 0)
@@ -12284,7 +12284,7 @@
 	)
 	(wire
 		(pts
-			(xy 289.56 490.22) (xy 289.56 491.49)
+			(xy 293.37 490.22) (xy 293.37 491.49)
 		)
 		(stroke
 			(width 0)
@@ -12644,7 +12644,7 @@
 	)
 	(wire
 		(pts
-			(xy 289.56 490.22) (xy 299.72 490.22)
+			(xy 293.37 490.22) (xy 303.53 490.22)
 		)
 		(stroke
 			(width 0)
@@ -12894,7 +12894,7 @@
 	)
 	(wire
 		(pts
-			(xy 307.34 495.3) (xy 307.34 500.38)
+			(xy 311.15 495.3) (xy 311.15 500.38)
 		)
 		(stroke
 			(width 0)
@@ -13204,7 +13204,7 @@
 	)
 	(wire
 		(pts
-			(xy 284.48 482.6) (xy 278.13 482.6)
+			(xy 288.29 482.6) (xy 281.94 482.6)
 		)
 		(stroke
 			(width 0)
@@ -13614,7 +13614,7 @@
 	)
 	(wire
 		(pts
-			(xy 292.1 482.6) (xy 295.91 482.6)
+			(xy 295.91 482.6) (xy 299.72 482.6)
 		)
 		(stroke
 			(width 0)
@@ -15644,7 +15644,7 @@
 	)
 	(wire
 		(pts
-			(xy 307.34 485.14) (xy 307.34 482.6)
+			(xy 311.15 485.14) (xy 311.15 482.6)
 		)
 		(stroke
 			(width 0)
@@ -16104,7 +16104,7 @@
 	)
 	(wire
 		(pts
-			(xy 307.34 482.6) (xy 303.53 482.6)
+			(xy 311.15 482.6) (xy 307.34 482.6)
 		)
 		(stroke
 			(width 0)
@@ -16954,7 +16954,7 @@
 	)
 	(wire
 		(pts
-			(xy 278.13 476.25) (xy 278.13 482.6)
+			(xy 281.94 476.25) (xy 281.94 482.6)
 		)
 		(stroke
 			(width 0)
@@ -17144,7 +17144,7 @@
 	)
 	(wire
 		(pts
-			(xy 273.05 490.22) (xy 289.56 490.22)
+			(xy 276.86 490.22) (xy 293.37 490.22)
 		)
 		(stroke
 			(width 0)
@@ -18682,7 +18682,7 @@
 		)
 		(uuid "0055b2dc-a98d-4167-986f-2ff801f41435")
 	)
-	(label "E11_IOL3A"
+	(label "A10_IOL14B"
 		(at 326.39 527.05 0)
 		(effects
 			(font
@@ -19832,7 +19832,7 @@
 		)
 		(uuid "7ea32760-dd4e-405b-af8e-5616dd0dc0ae")
 	)
-	(label "E11_IOL3A"
+	(label "A11_IOL14A"
 		(at 276.86 527.05 0)
 		(effects
 			(font
@@ -20032,7 +20032,7 @@
 		)
 		(uuid "9d4364c3-c1d0-4de9-9798-f07dcaf2d1f1")
 	)
-	(label "E11_IOL3A"
+	(label "E10_IOL3B"
 		(at 326.39 490.22 0)
 		(effects
 			(font
@@ -20383,7 +20383,7 @@
 		(uuid "bbd1a173-e9f6-48ec-8d79-ccc325e4c0e9")
 	)
 	(label "E11_IOL3A"
-		(at 273.05 490.22 0)
+		(at 276.86 490.22 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -22919,7 +22919,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 278.13 476.25 0)
+		(at 281.94 476.25 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -22930,7 +22930,7 @@
 		(fields_autoplaced yes)
 		(uuid "1ee013fa-ff8b-4708-88cc-19b440ebe0d8")
 		(property "Reference" "#PWR059"
-			(at 278.13 480.06 0)
+			(at 281.94 480.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22941,7 +22941,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 280.67 474.9799 0)
+			(at 284.48 474.9799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22952,7 +22952,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 278.13 476.25 0)
+			(at 281.94 476.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22963,7 +22963,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 278.13 476.25 0)
+			(at 281.94 476.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22974,7 +22974,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 278.13 476.25 0)
+			(at 281.94 476.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23571,7 +23571,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "2dc2c64d-5614-4b8c-beac-f338e11d2eab")
 		(property "Reference" "Q4"
 			(at 314.96 525.7799 0)
@@ -23585,12 +23584,12 @@
 			)
 		)
 		(property "Value" "NTK3134NT1G"
-			(at 314.96 528.32 0)
+			(at 294.386 524.256 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 0.8 0.8)
+					(size 1.27 1.27)
 				)
 				(justify left)
 			)
@@ -23865,7 +23864,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "rtcl-tp25k-usb3:B3U-1100P"
 			(at 467.36 518.16 0)
 			(hide yes)
 			(show_name no)
@@ -24767,7 +24766,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 299.72 482.6 180)
+		(at 303.53 482.6 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -24777,7 +24776,7 @@
 		(dnp no)
 		(uuid "4978e6c9-9312-4e51-bd47-8ee10b286472")
 		(property "Reference" "LED1"
-			(at 296.926 476.25 0)
+			(at 300.736 476.25 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24788,7 +24787,7 @@
 			)
 		)
 		(property "Value" "150060VS55040"
-			(at 297.18 478.79 0)
+			(at 300.99 478.79 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24799,7 +24798,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 299.72 482.6 0)
+			(at 303.53 482.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24810,7 +24809,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 299.72 482.6 0)
+			(at 303.53 482.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24821,7 +24820,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 299.72 482.6 0)
+			(at 303.53 482.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24832,7 +24831,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 299.72 482.6 0)
+			(at 303.53 482.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24843,7 +24842,7 @@
 			)
 		)
 		(property "LCSC" "C6390388"
-			(at 299.72 482.6 90)
+			(at 303.53 482.6 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24878,7 +24877,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "4b5d56c4-e326-470f-9f43-a8daf47a0f76")
 		(property "Reference" "Q5"
 			(at 364.49 525.7799 0)
@@ -24892,12 +24890,12 @@
 			)
 		)
 		(property "Value" "NTK3134NT1G"
-			(at 364.49 528.32 0)
+			(at 343.662 524.002 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 0.8 0.8)
+					(size 1.27 1.27)
 				)
 				(justify left)
 			)
@@ -29908,7 +29906,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 288.29 482.6 90)
+		(at 292.1 482.6 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -29918,7 +29916,7 @@
 		(dnp no)
 		(uuid "95ea64f9-c6b8-43e5-8649-aa430294a202")
 		(property "Reference" "R70"
-			(at 286.766 480.06 90)
+			(at 290.576 480.06 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -29929,7 +29927,7 @@
 			)
 		)
 		(property "Value" "100"
-			(at 293.116 480.314 90)
+			(at 296.926 480.314 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -29940,7 +29938,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 288.29 484.378 90)
+			(at 292.1 484.378 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29951,7 +29949,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 288.29 482.6 0)
+			(at 292.1 482.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29962,7 +29960,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 288.29 482.6 0)
+			(at 292.1 482.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32447,7 +32445,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "rtcl-tp25k-usb3:218-2LP_CTS"
 			(at 466.09 508 0)
 			(hide yes)
 			(show_name no)
@@ -32821,7 +32819,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 289.56 495.3 0)
+		(at 293.37 495.3 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -32831,7 +32829,7 @@
 		(dnp no)
 		(uuid "b233cb97-1365-4b39-ac5d-8ac6d3e7db9d")
 		(property "Reference" "R69"
-			(at 291.338 493.268 0)
+			(at 295.148 493.268 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -32842,7 +32840,7 @@
 			)
 		)
 		(property "Value" "4.7k"
-			(at 291.338 497.078 0)
+			(at 295.148 497.078 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -32853,7 +32851,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 287.782 495.3 90)
+			(at 291.592 495.3 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32864,7 +32862,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 289.56 495.3 0)
+			(at 293.37 495.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32875,7 +32873,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 289.56 495.3 0)
+			(at 293.37 495.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35118,7 +35116,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "rtcl-tp25k-usb3:B3U-1100P"
 			(at 422.91 500.38 0)
 			(hide yes)
 			(show_name no)
@@ -35638,7 +35636,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "rtcl-tp25k-usb3:B3U-1100P"
 			(at 422.91 524.51 0)
 			(hide yes)
 			(show_name no)
@@ -35924,7 +35922,7 @@
 	)
 	(symbol
 		(lib_id "PCM_JLCPCB-Transistors:NMOS,2SK3018")
-		(at 304.8 490.22 0)
+		(at 308.61 490.22 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -35932,10 +35930,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "dcdaf1f1-e1ae-4475-9e7d-0ae637d69eb7")
 		(property "Reference" "Q2"
-			(at 311.15 488.9499 0)
+			(at 314.96 488.9499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -35946,18 +35943,18 @@
 			)
 		)
 		(property "Value" "NTK3134NT1G"
-			(at 311.15 491.49 0)
+			(at 294.64 487.172 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 0.8 0.8)
+					(size 1.27 1.27)
 				)
 				(justify left)
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-723"
-			(at 303.022 490.22 90)
+			(at 306.832 490.22 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35968,7 +35965,7 @@
 			)
 		)
 		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2401111808_hongjiacheng-2SK3018_C20069148.pdf"
-			(at 304.8 490.22 0)
+			(at 308.61 490.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35979,7 +35976,7 @@
 			)
 		)
 		(property "Description" "-55°C~+150°C 1 N-channel 1.5V 100mA 13pF 200mW 30V 4pF 8Ω@4V、13Ω@2.5V 9pF N-Channel SOT-23 MOSFETs ROHS"
-			(at 304.8 490.22 0)
+			(at 308.61 490.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35990,7 +35987,7 @@
 			)
 		)
 		(property "LCSC" "C97777"
-			(at 304.8 490.22 0)
+			(at 308.61 490.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36001,7 +35998,7 @@
 			)
 		)
 		(property "Stock" "119703"
-			(at 304.8 490.22 0)
+			(at 308.61 490.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36012,7 +36009,7 @@
 			)
 		)
 		(property "Price" "0.027USD"
-			(at 304.8 490.22 0)
+			(at 308.61 490.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36023,7 +36020,7 @@
 			)
 		)
 		(property "Process" "SMT"
-			(at 304.8 490.22 0)
+			(at 308.61 490.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36034,7 +36031,7 @@
 			)
 		)
 		(property "Minimum Qty" "10"
-			(at 304.8 490.22 0)
+			(at 308.61 490.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36045,7 +36042,7 @@
 			)
 		)
 		(property "Attrition Qty" "4"
-			(at 304.8 490.22 0)
+			(at 308.61 490.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36056,7 +36053,7 @@
 			)
 		)
 		(property "Class" "Preferred Component"
-			(at 304.8 490.22 0)
+			(at 308.61 490.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36067,7 +36064,7 @@
 			)
 		)
 		(property "Category" "Triode/MOS Tube/Transistor,MOSFETs"
-			(at 304.8 490.22 0)
+			(at 308.61 490.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36078,7 +36075,7 @@
 			)
 		)
 		(property "Manufacturer" "hongjiacheng"
-			(at 304.8 490.22 0)
+			(at 308.61 490.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36089,7 +36086,7 @@
 			)
 		)
 		(property "Part" "2SK3018"
-			(at 304.8 490.22 0)
+			(at 308.61 490.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36119,7 +36116,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 289.56 500.38 0)
+		(at 293.37 500.38 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -36130,7 +36127,7 @@
 		(fields_autoplaced yes)
 		(uuid "dd1dc180-1869-4055-a605-de27e88f57ee")
 		(property "Reference" "#PWR0104"
-			(at 289.56 506.73 0)
+			(at 293.37 506.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36141,7 +36138,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 289.56 505.46 0)
+			(at 293.37 505.46 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -36151,7 +36148,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 289.56 500.38 0)
+			(at 293.37 500.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36162,7 +36159,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 289.56 500.38 0)
+			(at 293.37 500.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36173,7 +36170,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 289.56 500.38 0)
+			(at 293.37 500.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36592,7 +36589,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 307.34 500.38 0)
+		(at 311.15 500.38 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -36603,7 +36600,7 @@
 		(fields_autoplaced yes)
 		(uuid "e6619363-cf6f-4b1b-880a-8f4296b3abe4")
 		(property "Reference" "#PWR0103"
-			(at 307.34 506.73 0)
+			(at 311.15 506.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36614,7 +36611,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 307.34 505.46 0)
+			(at 311.15 505.46 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -36624,7 +36621,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 307.34 500.38 0)
+			(at 311.15 500.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36635,7 +36632,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 307.34 500.38 0)
+			(at 311.15 500.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36646,7 +36643,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 307.34 500.38 0)
+			(at 311.15 500.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
