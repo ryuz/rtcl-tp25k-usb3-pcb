@@ -11330,6 +11330,12 @@
 		(uuid "651b6566-83a5-4ea5-9f84-f7d3ace03ac5")
 	)
 	(junction
+		(at 337.82 86.36)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "654c66bb-794d-4093-9479-d269a010075a")
+	)
+	(junction
 		(at 279.4 80.01)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -13927,7 +13933,7 @@
 	)
 	(wire
 		(pts
-			(xy 339.09 86.36) (xy 339.09 69.85)
+			(xy 342.9 86.36) (xy 342.9 69.85)
 		)
 		(stroke
 			(width 0)
@@ -14427,6 +14433,16 @@
 	)
 	(wire
 		(pts
+			(xy 337.82 99.06) (xy 337.82 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "60979b68-894b-4120-8f64-cd07ac8562d9")
+	)
+	(wire
+		(pts
 			(xy 82.55 240.03) (xy 82.55 241.3)
 		)
 		(stroke
@@ -14544,6 +14560,16 @@
 			(type default)
 		)
 		(uuid "62b9d314-abcd-49e0-812a-ad58404ce2a3")
+	)
+	(wire
+		(pts
+			(xy 337.82 86.36) (xy 337.82 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "63385801-0d94-4ced-8737-5e1d13b79bc1")
 	)
 	(wire
 		(pts
@@ -14737,7 +14763,7 @@
 	)
 	(wire
 		(pts
-			(xy 321.31 88.9) (xy 341.63 88.9)
+			(xy 321.31 88.9) (xy 345.44 88.9)
 		)
 		(stroke
 			(width 0)
@@ -14924,6 +14950,16 @@
 			(type default)
 		)
 		(uuid "73744a7a-056b-4d81-938e-25dd58ecdc46")
+	)
+	(wire
+		(pts
+			(xy 337.82 86.36) (xy 342.9 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "737675f7-22b4-43ba-a9d3-51f2bb1f4c95")
 	)
 	(wire
 		(pts
@@ -15617,7 +15653,7 @@
 	)
 	(wire
 		(pts
-			(xy 341.63 72.39) (xy 372.11 72.39)
+			(xy 345.44 72.39) (xy 372.11 72.39)
 		)
 		(stroke
 			(width 0)
@@ -16737,7 +16773,7 @@
 	)
 	(wire
 		(pts
-			(xy 339.09 69.85) (xy 372.11 69.85)
+			(xy 342.9 69.85) (xy 372.11 69.85)
 		)
 		(stroke
 			(width 0)
@@ -16867,7 +16903,7 @@
 	)
 	(wire
 		(pts
-			(xy 321.31 86.36) (xy 339.09 86.36)
+			(xy 321.31 86.36) (xy 337.82 86.36)
 		)
 		(stroke
 			(width 0)
@@ -17507,7 +17543,7 @@
 	)
 	(wire
 		(pts
-			(xy 341.63 72.39) (xy 341.63 88.9)
+			(xy 345.44 72.39) (xy 345.44 88.9)
 		)
 		(stroke
 			(width 0)
@@ -27106,6 +27142,87 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 337.82 95.25 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "79d9d8d2-4eba-4da3-bd95-5fe683b7e57a")
+		(property "Reference" "R81"
+			(at 339.598 93.218 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "4.7k"
+			(at 339.598 97.028 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 336.042 95.25 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 337.82 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 337.82 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "307cfc65-f3f5-4773-ab47-2b0f387ac843")
+		)
+		(pin "2"
+			(uuid "170349b3-f00d-4055-8e02-ecdc27d351b2")
+		)
+		(instances
+			(project "rtcl-tp25k-usb3"
+				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
+					(reference "R81")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Pack04")
 		(at 189.23 137.16 270)
 		(mirror x)
@@ -35830,6 +35947,83 @@
 			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR0117")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 337.82 100.33 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "e3a22aeb-4394-4d48-bd54-3c4dd4f53e6e")
+		(property "Reference" "#PWR0111"
+			(at 337.82 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 341.63 102.362 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 337.82 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 337.82 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 337.82 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "8db3d35e-4457-4478-8b5a-11ec744b6f00")
+		)
+		(instances
+			(project "rtcl-tp25k-usb3"
+				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
+					(reference "#PWR0111")
 					(unit 1)
 				)
 			)
