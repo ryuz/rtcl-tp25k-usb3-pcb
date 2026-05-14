@@ -27619,7 +27619,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "rtcl-p25k-usb3:CON_525592253_MOL"
+		(property "Footprint" "rtcl-tp25k-usb3:CON_525592253_MOL"
 			(at 176.784 390.652 0)
 			(hide yes)
 			(show_name no)
@@ -29679,7 +29679,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rtcl-p25k-usb3:CONN_DF40C-60DS_HIR"
+		(property "Footprint" "rtcl-tp25k-usb3:CONN_DF40C-60DS_HIR"
 			(at 383.54 278.13 0)
 			(hide yes)
 			(show_name no)
@@ -35025,7 +35025,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rtcl-p25k-usb3:CONN10_ZX360D-B-10P30_HIR"
+		(property "Footprint" "rtcl-tp25k-usb3:CONN10_ZX360D-B-10P30_HIR"
 			(at 52.07 186.69 0)
 			(hide yes)
 			(show_name no)
