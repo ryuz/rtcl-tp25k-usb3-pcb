@@ -22022,7 +22022,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rtcl-p25k-usb3:RES_YC104_YAG"
+		(property "Footprint" "rtcl-tp25k-usb3:RES_YC104_YAG"
 			(at 251.46 203.835 90)
 			(hide yes)
 			(show_name no)
@@ -22280,7 +22280,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rtcl-p25k-usb3:RES_YC104_YAG"
+		(property "Footprint" "rtcl-tp25k-usb3:RES_YC104_YAG"
 			(at 251.46 306.705 90)
 			(hide yes)
 			(show_name no)
@@ -23907,7 +23907,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rtcl-p25k-usb3:DMQ0006A"
+		(property "Footprint" "rtcl-tp25k-usb3:DMQ0006A"
 			(at 97.79 525.526 0)
 			(hide yes)
 			(show_name no)
@@ -27237,7 +27237,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rtcl-p25k-usb3:RES_YC104_YAG"
+		(property "Footprint" "rtcl-tp25k-usb3:RES_YC104_YAG"
 			(at 251.46 276.225 90)
 			(hide yes)
 			(show_name no)
@@ -27519,7 +27519,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rtcl-p25k-usb3:RES_YC104_YAG"
+		(property "Footprint" "rtcl-tp25k-usb3:RES_YC104_YAG"
 			(at 251.46 342.265 90)
 			(hide yes)
 			(show_name no)
@@ -30321,7 +30321,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rtcl-p25k-usb3:CONN_DF40C-60DS_HIR"
+		(property "Footprint" "rtcl-tp25k-usb3:CONN_DF40C-60DS_HIR"
 			(at 486.41 278.13 0)
 			(hide yes)
 			(show_name no)
@@ -30575,7 +30575,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rtcl-p25k-usb3:RES_YC104_YAG"
+		(property "Footprint" "rtcl-tp25k-usb3:RES_YC104_YAG"
 			(at 251.46 250.825 90)
 			(hide yes)
 			(show_name no)
@@ -31070,7 +31070,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rtcl-p25k-usb3:RES_YC104_YAG"
+		(property "Footprint" "rtcl-tp25k-usb3:RES_YC104_YAG"
 			(at 251.46 286.385 90)
 			(hide yes)
 			(show_name no)
@@ -32270,7 +32270,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rtcl-p25k-usb3:XTAL_ABM8-30.000MHz-D1X-T"
+		(property "Footprint" "rtcl-tp25k-usb3:XTAL_ABM8-30.000MHz-D1X-T"
 			(at 134.62 311.15 0)
 			(hide yes)
 			(show_name no)
@@ -33726,7 +33726,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rtcl-p25k-usb3:RES_YC104_YAG"
+		(property "Footprint" "rtcl-tp25k-usb3:RES_YC104_YAG"
 			(at 251.46 316.865 90)
 			(hide yes)
 			(show_name no)
@@ -34140,7 +34140,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rtcl-p25k-usb3:RES_YC104_YAG"
+		(property "Footprint" "rtcl-tp25k-usb3:RES_YC104_YAG"
 			(at 251.46 332.105 90)
 			(hide yes)
 			(show_name no)
@@ -36283,7 +36283,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rtcl-p25k-usb3:RES_YC104_YAG"
+		(property "Footprint" "rtcl-tp25k-usb3:RES_YC104_YAG"
 			(at 251.46 260.985 90)
 			(hide yes)
 			(show_name no)
@@ -36537,7 +36537,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rtcl-p25k-usb3:INDC2016X100N"
+		(property "Footprint" "rtcl-tp25k-usb3:INDC2016X100N"
 			(at 125.73 502.92 0)
 			(hide yes)
 			(show_name no)
@@ -36707,7 +36707,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rtcl-p25k-usb3:PMOD_02x06_2.54mm"
+		(property "Footprint" "rtcl-tp25k-usb3:PMOD_02x06_2.54mm"
 			(at 488.95 415.29 0)
 			(hide yes)
 			(show_name no)
