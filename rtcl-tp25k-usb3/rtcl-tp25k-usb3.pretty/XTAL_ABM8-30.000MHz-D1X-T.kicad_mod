@@ -6,7 +6,7 @@
 	(property "Reference" "REF**"
 		(at 1.525 -2.885 0)
 		(layer "F.SilkS")
-		(uuid "e8e43b51-6000-40df-ad57-ba1b797fabad")
+		(uuid "df980edd-9c40-464d-8a9d-46ae9df183d2")
 		(effects
 			(font
 				(size 1 1)
@@ -17,7 +17,7 @@
 	(property "Value" "XTAL_ABM8-30.000MHz-D1X-T"
 		(at 14.225 2.885 0)
 		(layer "F.Fab")
-		(uuid "b558c7e6-2ff2-47ec-9a7b-2f770db2fed4")
+		(uuid "d32c6901-f085-49c9-8532-43b0c1667830")
 		(effects
 			(font
 				(size 1 1)
@@ -29,7 +29,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "b898f0f1-122d-4a6b-a484-a165b09629c2")
+		(uuid "b57a63dc-4b13-4d2c-825e-293e2e316649")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -40,7 +40,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "d7c580cb-636e-4e3b-9b36-4bf8bc432c54")
+		(uuid "489d2901-6e79-4119-93f1-48892826c545")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -57,7 +57,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "ffecd05c-475f-4e6d-b9f2-f94a315f7449")
+		(uuid "3d8b0107-a6c1-49ae-9398-9754e9c0e388")
 	)
 	(fp_line
 		(start 1.25 -0.18)
@@ -67,7 +67,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "641df1b1-aaa0-44ce-8712-8ca488b7d835")
+		(uuid "559c301e-4403-4afd-9213-144786071040")
 	)
 	(fp_circle
 		(center -2.15 -1.15)
@@ -78,7 +78,7 @@
 		)
 		(fill no)
 		(layer "F.SilkS")
-		(uuid "9c96ef80-a8e6-4525-9c01-cdad36b5ae3a")
+		(uuid "0be7c44d-0a24-47ab-ab6b-58aeb4c0eaea")
 	)
 	(fp_line
 		(start -1.65 -2.05)
@@ -88,7 +88,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "f0bf2a93-c43b-4535-893a-b61fde2485e2")
+		(uuid "339b6734-4a77-4307-b8f9-8373485ef9a2")
 	)
 	(fp_line
 		(start -1.65 -2.05)
@@ -98,7 +98,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "5fd85456-bfd0-492b-b228-9f3750c2c8d1")
+		(uuid "b47eb2e4-d2bf-4f85-967e-3fe26c76af76")
 	)
 	(fp_line
 		(start 1.65 -2.05)
@@ -108,7 +108,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "77497d52-9687-4369-9e3c-0fba3d49b1d6")
+		(uuid "444c1ca6-5a08-4f25-b726-53af797d3f04")
 	)
 	(fp_line
 		(start 1.65 2.05)
@@ -118,7 +118,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "4083365c-327c-43b8-b4f4-1d2b8f2457d5")
+		(uuid "dab267e6-89e3-4565-b9fe-e9d55988458e")
 	)
 	(fp_line
 		(start -1.25 -1.6)
@@ -128,7 +128,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "75e574db-b5e0-4d48-9a61-7e6a9c00d267")
+		(uuid "6f1d5493-6b40-499b-8537-292d61e6fd5e")
 	)
 	(fp_line
 		(start -1.25 -1.6)
@@ -138,7 +138,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "2c7dde61-97b4-44db-a8c4-367215aee4d4")
+		(uuid "ec84b68b-6ebb-4be3-af7c-7f36b08cbad1")
 	)
 	(fp_line
 		(start 1.25 -1.6)
@@ -148,7 +148,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "817c23d5-c8e1-42bf-8432-dd4a2962ebd1")
+		(uuid "8d694587-c132-402e-8782-9345c7e0f465")
 	)
 	(fp_line
 		(start 1.25 1.6)
@@ -158,7 +158,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "bc36a094-0e31-4501-811e-aa28baa3900a")
+		(uuid "b5eb3ab0-9d90-4c76-b70c-68b1ecb41f13")
 	)
 	(fp_circle
 		(center -2.15 -1.15)
@@ -169,35 +169,46 @@
 		)
 		(fill no)
 		(layer "F.Fab")
-		(uuid "3e0df2f0-2507-4dae-990a-6e667ff18de4")
+		(uuid "11f6bae4-ac8f-4aca-89c6-0be0134e568a")
 	)
 	(pad "1" smd rect
 		(at -0.875 -1.15)
 		(size 1.05 1.3)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
-		(uuid "32bfb379-9991-4e51-b2b2-8dec402a4ea6")
+		(uuid "9d4d5b46-960e-4189-9de2-e22e448f9d55")
 	)
 	(pad "2" smd rect
 		(at -0.875 1.15)
 		(size 1.05 1.3)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
-		(uuid "b67e4b4f-31d8-4944-8b35-47528cddbd50")
+		(uuid "cd5dfab1-e2ee-4220-9905-5f71f1b37a11")
 	)
 	(pad "3" smd rect
 		(at 0.875 1.15)
 		(size 1.05 1.3)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
-		(uuid "979712d7-b4f1-4bcf-b80f-2e0c72bcb999")
+		(uuid "26bfcb2e-9673-4c9d-a866-0f85fd8c1880")
 	)
 	(pad "4" smd rect
 		(at 0.875 -1.15)
 		(size 1.05 1.3)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
-		(uuid "d03101eb-5e2f-4d58-b375-5f243fb2ed27")
+		(uuid "76c24ac6-1228-4da2-a670-2b3f83b59541")
 	)
 	(embedded_fonts no)
+	(model "C:/Users/ryuji/OneDrive/Documents/Development/kicad/rtcl-tp25k-usb3/datasheet/model/ABM8_30_000MHz_D1X_T (1)/ABM8-30.000MHz-D1X-T.STEP"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
 )

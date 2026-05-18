@@ -23128,7 +23128,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-723"
+		(property "Footprint" "rtcl-tp25k-usb3:SOT-723"
 			(at 96.012 231.14 90)
 			(hide yes)
 			(show_name no)
@@ -24123,7 +24123,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-723"
+		(property "Footprint" "rtcl-tp25k-usb3:SOT-723"
 			(at 46.482 265.43 90)
 			(hide yes)
 			(show_name no)
@@ -24653,7 +24653,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-723"
+		(property "Footprint" "rtcl-tp25k-usb3:SOT-723"
 			(at 244.602 132.08 90)
 			(hide yes)
 			(show_name no)
@@ -25853,7 +25853,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-723"
+		(property "Footprint" "rtcl-tp25k-usb3:SOT-723"
 			(at 96.012 265.43 90)
 			(hide yes)
 			(show_name no)
@@ -33870,6 +33870,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C1986781"
+			(at 72.39 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "264f8c03-f8a1-4aa3-a9a3-ef013463ab00")
 		)
@@ -37029,7 +37040,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-723"
+		(property "Footprint" "rtcl-tp25k-usb3:SOT-723"
 			(at 46.482 231.14 90)
 			(hide yes)
 			(show_name no)

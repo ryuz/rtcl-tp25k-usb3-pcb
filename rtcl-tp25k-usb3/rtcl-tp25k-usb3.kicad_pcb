@@ -1164,6 +1164,12 @@
 		(path "/7fd8cd6f-be31-4d9d-a1f4-e5bb908bd82a")
 		(sheetname "/")
 		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "8" "1" "7" "2" "6" "3" "5" "4")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -3687,6 +3693,12 @@
 		(path "/12b7275e-4b0e-49ce-b60c-84a2bd0e051c")
 		(sheetname "/")
 		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "8" "1" "7" "2" "6" "3" "5" "4")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -6814,6 +6826,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C1986781"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d27e515d-1016-42cb-afd5-a16742adc372")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/b08e3fc1-544e-4685-bafd-cf657bf154d4")
 		(sheetname "/")
 		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
@@ -6986,6 +7011,17 @@
 			(uuid "52b23659-9824-4e05-85c0-fda3cf315edb")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/ryuji/OneDrive/Documents/Development/kicad/rtcl-tp25k-usb3/datasheet/model/ABM8_30_000MHz_D1X_T (1)/ABM8-30.000MHz-D1X-T.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0402_1005Metric"
 		(layer "F.Cu")
@@ -7456,6 +7492,12 @@
 		(path "/7aeceae4-dfbe-4f95-a1d4-8d06242efaa1")
 		(sheetname "/")
 		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "8" "1" "7" "2" "6" "3" "5" "4")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -8322,6 +8364,12 @@
 		(path "/c5f7ac7c-f99a-4485-9b93-ee6725430a4a")
 		(sheetname "/")
 		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "8" "1" "7" "2" "6" "3" "5" "4")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -8870,6 +8918,12 @@
 		(path "/a17835ad-ed05-4678-9459-393707b3017e")
 		(sheetname "/")
 		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "8" "1" "7" "2" "6" "3" "5" "4")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -9576,6 +9630,12 @@
 		(path "/9d9b5d2f-b0f0-4916-81d5-19489d9a4d1c")
 		(sheetname "/")
 		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "8" "1" "7" "2" "6" "3" "5" "4")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -10702,14 +10762,14 @@
 			)
 		)
 	)
-	(footprint "Package_TO_SOT_SMD:SOT-723"
+	(footprint "rtcl-tp25k-usb3:SOT-723"
 		(layer "F.Cu")
 		(uuid "7113ab41-7337-4154-a686-15ba69902017")
 		(at 179.6 110.7 -90)
 		(descr "http://toshiba.semicon-storage.com/info/docget.jsp?did=5879&prodName=RN1104MFV")
 		(tags "sot 723")
 		(property "Reference" "Q4"
-			(at 0.1 -1.6 90)
+			(at 0.1 -1.6 270)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "08da6e8c-7669-4148-bffd-b1f765e9babc")
@@ -10721,7 +10781,7 @@
 			)
 		)
 		(property "Value" "NTK3134NT1G"
-			(at 0 1.75 90)
+			(at 0 1.75 270)
 			(layer "F.Fab")
 			(uuid "d30ff512-ee4e-498c-8c21-18d9a938ee9f")
 			(effects
@@ -10762,7 +10822,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "11c04d2a-8826-497e-9be5-791bd7efaf41")
+			(uuid "c407501f-642c-403a-bf2e-a15badda6055")
 			(effects
 				(font
 					(size 1 1)
@@ -10775,7 +10835,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f14a7eef-fafc-4ded-b250-932a87c2e30d")
+			(uuid "5ae1d33d-5fb5-40a6-b5f5-c7a1e9a2de58")
 			(effects
 				(font
 					(size 1 1)
@@ -10788,7 +10848,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e68bf18d-0407-42b2-86a2-012aa6820b92")
+			(uuid "8377ee1f-def7-4f7c-bf2f-3f1b04475e9b")
 			(effects
 				(font
 					(size 1 1)
@@ -10801,7 +10861,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3a64bf09-6c9a-4566-9064-a8dbc5c6865c")
+			(uuid "d5e4f629-9464-4d4d-8382-ce71ccfbb67e")
 			(effects
 				(font
 					(size 1 1)
@@ -10814,7 +10874,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "db391a17-7319-4fbf-aec1-43f1c30eded4")
+			(uuid "a621599c-7df3-4f98-8f47-a91d547dd2d2")
 			(effects
 				(font
 					(size 1 1)
@@ -10827,7 +10887,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "714e4b44-9c93-4c07-9700-316360a57e95")
+			(uuid "28c9fd1e-c04e-4256-afcb-50cad7c5c23d")
 			(effects
 				(font
 					(size 1 1)
@@ -10840,7 +10900,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5d0fa65d-3399-4392-aaa3-fc3449a9d52f")
+			(uuid "1b4ddc01-e908-47a4-a16a-51537805438c")
 			(effects
 				(font
 					(size 1 1)
@@ -10853,7 +10913,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1f60d54a-0321-4148-a3aa-afc54cc6ff3f")
+			(uuid "2e32c53f-ad71-499b-a257-f7aff3705af6")
 			(effects
 				(font
 					(size 1 1)
@@ -10866,7 +10926,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e11cf55c-5c74-44c9-81f1-3cdf8bbbd955")
+			(uuid "e1bc61b5-e7a4-49b5-b217-60303830d3b1")
 			(effects
 				(font
 					(size 1 1)
@@ -10879,7 +10939,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1ee6b67a-b599-419f-8485-acdd204a75a8")
+			(uuid "f5c29f6d-0732-4543-a5d4-7ffebecfbfe4")
 			(effects
 				(font
 					(size 1 1)
@@ -11072,7 +11132,7 @@
 			(uuid "ea2f42f7-2fbf-40e2-b6fd-379c6f598633")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-723.step"
+		(model "C:/Users/ryuji/OneDrive/Documents/Development/kicad/rtcl-tp25k-usb3/datasheet/model/NTK3134NT1G/SOT_34NT1G_ONS.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -11080,7 +11140,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 90)
 			)
 		)
 	)
@@ -15565,14 +15625,14 @@
 			)
 		)
 	)
-	(footprint "Package_TO_SOT_SMD:SOT-723"
+	(footprint "rtcl-tp25k-usb3:SOT-723"
 		(layer "F.Cu")
 		(uuid "a211786d-0d83-4c57-9ed9-7050875e57b9")
 		(at 181.5 110.7 -90)
 		(descr "http://toshiba.semicon-storage.com/info/docget.jsp?did=5879&prodName=RN1104MFV")
 		(tags "sot 723")
 		(property "Reference" "Q5"
-			(at 0.1 -1.6 90)
+			(at 0.1 -1.6 270)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "97681580-a0df-4104-9894-69638f6b43e6")
@@ -15584,7 +15644,7 @@
 			)
 		)
 		(property "Value" "NTK3134NT1G"
-			(at 0 1.75 90)
+			(at 0 1.75 270)
 			(layer "F.Fab")
 			(uuid "168b5110-58df-4672-989f-a3b929970a6f")
 			(effects
@@ -15625,7 +15685,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4247fbc2-d532-4cb1-bc1a-38ba02165e26")
+			(uuid "c9f902e5-d96c-4446-83c8-7cffed640aed")
 			(effects
 				(font
 					(size 1 1)
@@ -15638,7 +15698,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e5c1685b-dbe3-4261-8edc-67e95aed847c")
+			(uuid "1caa3f86-0763-40f3-91ae-ff4035e7e575")
 			(effects
 				(font
 					(size 1 1)
@@ -15651,7 +15711,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b66d347b-4236-499c-889c-ec77ef4af5f3")
+			(uuid "49963869-2598-4d1a-9585-16e89812efff")
 			(effects
 				(font
 					(size 1 1)
@@ -15664,7 +15724,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7002294e-84cb-482a-bfcf-703cbb06a0df")
+			(uuid "7b4776cc-5498-4783-b020-e75970d10a9a")
 			(effects
 				(font
 					(size 1 1)
@@ -15677,7 +15737,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0365c4b0-4099-46dd-b2f1-28af1021b725")
+			(uuid "0cfd83ca-030c-4a64-a46a-0ddb45705a29")
 			(effects
 				(font
 					(size 1 1)
@@ -15690,7 +15750,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c81d6cfb-90d0-4970-b000-f6c75456c1f2")
+			(uuid "2953170f-1a61-4fb7-9df7-0e0a931a85ab")
 			(effects
 				(font
 					(size 1 1)
@@ -15703,7 +15763,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a6081301-dff8-4c46-8e30-6f122232946e")
+			(uuid "940fdc1c-db67-4e01-b195-96658dc5939f")
 			(effects
 				(font
 					(size 1 1)
@@ -15716,7 +15776,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "cc86d00c-aab6-448f-af47-4d7a216c8723")
+			(uuid "18562de5-7579-4203-a853-cd071af1724f")
 			(effects
 				(font
 					(size 1 1)
@@ -15729,7 +15789,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "16cdf534-ba95-48ff-9132-c1fba10eacb4")
+			(uuid "035ef6d0-fb41-436a-8ec8-cbe7c49acbcf")
 			(effects
 				(font
 					(size 1 1)
@@ -15742,7 +15802,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3efee707-1f14-4c5f-a2be-512b8d925ba2")
+			(uuid "2488394a-03bf-4645-8690-0c0d9de09a72")
 			(effects
 				(font
 					(size 1 1)
@@ -15935,7 +15995,7 @@
 			(uuid "e0e859bf-823b-4fcb-8826-2196ec8095ee")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-723.step"
+		(model "C:/Users/ryuji/OneDrive/Documents/Development/kicad/rtcl-tp25k-usb3/datasheet/model/NTK3134NT1G/SOT_34NT1G_ONS.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -15943,7 +16003,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 90)
 			)
 		)
 	)
@@ -16500,14 +16560,14 @@
 			)
 		)
 	)
-	(footprint "Package_TO_SOT_SMD:SOT-723"
+	(footprint "rtcl-tp25k-usb3:SOT-723"
 		(layer "F.Cu")
 		(uuid "aaf8d3fb-21db-4848-893b-5a7274e801eb")
 		(at 177.7 110.6875 -90)
 		(descr "http://toshiba.semicon-storage.com/info/docget.jsp?did=5879&prodName=RN1104MFV")
 		(tags "sot 723")
 		(property "Reference" "Q3"
-			(at 0.1 -1.6 90)
+			(at 0.1 -1.6 270)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "f7359810-b74c-4574-97fe-c6b31af43eed")
@@ -16519,7 +16579,7 @@
 			)
 		)
 		(property "Value" "NTK3134NT1G"
-			(at 0 1.75 90)
+			(at 0 1.75 270)
 			(layer "F.Fab")
 			(uuid "32ccab23-810e-4ff5-bc5f-513facdc27e6")
 			(effects
@@ -16560,7 +16620,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e6c66ecb-8f1f-46c4-ba8f-33249c3f4826")
+			(uuid "2cb0e885-3432-46ed-9d0e-731531c9c52f")
 			(effects
 				(font
 					(size 1 1)
@@ -16573,7 +16633,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f8884ba1-bed4-4e1d-8f5c-48a336fda97a")
+			(uuid "23b6f9a5-fdf3-41b1-b1ef-64b5c5ddf30e")
 			(effects
 				(font
 					(size 1 1)
@@ -16586,7 +16646,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b30f396c-4b78-43b9-832c-0a467695a267")
+			(uuid "160fd475-6900-4180-ad67-4999f25d1bfe")
 			(effects
 				(font
 					(size 1 1)
@@ -16599,7 +16659,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "fde58408-8e7f-4607-ad00-10be26b17b46")
+			(uuid "af17d726-7005-460a-8629-b35c85e3f337")
 			(effects
 				(font
 					(size 1 1)
@@ -16612,7 +16672,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8cf1f71b-e6fb-4731-b4e7-413b51c35928")
+			(uuid "6cba4e30-c079-45c0-b616-16f99280f760")
 			(effects
 				(font
 					(size 1 1)
@@ -16625,7 +16685,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0447139c-46d5-4312-b63d-552d43f5a4b8")
+			(uuid "f739cfe2-95ce-4845-a01b-5f20c02819ed")
 			(effects
 				(font
 					(size 1 1)
@@ -16638,7 +16698,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1639ed79-7ee4-4d08-b810-cb83ab325159")
+			(uuid "1485af79-63d0-473b-b061-e6524ffba642")
 			(effects
 				(font
 					(size 1 1)
@@ -16651,7 +16711,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ce1c9991-bfc3-443c-b79f-c1f3d43078e1")
+			(uuid "a20ab628-456e-4b41-b6d7-68a703f4ef3b")
 			(effects
 				(font
 					(size 1 1)
@@ -16664,7 +16724,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "16dd2b1a-9ade-41f6-ba08-cf0a43be3c10")
+			(uuid "27caafc4-59ec-4d64-b712-f3b3d3450b7d")
 			(effects
 				(font
 					(size 1 1)
@@ -16677,7 +16737,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "49f4eae6-cf67-4a6e-b284-095990a0e7dc")
+			(uuid "2aa64ef3-2ab9-40ae-9033-bc8b0fa32638")
 			(effects
 				(font
 					(size 1 1)
@@ -16870,7 +16930,7 @@
 			(uuid "c05d8952-8e44-47b5-b89e-70955a1dd3ef")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-723.step"
+		(model "C:/Users/ryuji/OneDrive/Documents/Development/kicad/rtcl-tp25k-usb3/datasheet/model/NTK3134NT1G/SOT_34NT1G_ONS.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -16878,7 +16938,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 90)
 			)
 		)
 	)
@@ -19292,6 +19352,12 @@
 		(path "/eb9fcad9-056d-4267-9e06-ba73c4dd1344")
 		(sheetname "/")
 		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "8" "1" "7" "2" "6" "3" "5" "4")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -19627,14 +19693,14 @@
 			)
 		)
 	)
-	(footprint "Package_TO_SOT_SMD:SOT-723"
+	(footprint "rtcl-tp25k-usb3:SOT-723"
 		(layer "F.Cu")
 		(uuid "d1a7b69f-f12b-4291-9366-b29c550923ed")
 		(at 117.5 109.5 -90)
 		(descr "http://toshiba.semicon-storage.com/info/docget.jsp?did=5879&prodName=RN1104MFV")
 		(tags "sot 723")
 		(property "Reference" "Q6"
-			(at -0.1 1.5 90)
+			(at 0.04 1.58 270)
 			(layer "F.SilkS")
 			(uuid "c91799a2-5707-4bf4-b022-c6d6dc28df5f")
 			(effects
@@ -19645,7 +19711,7 @@
 			)
 		)
 		(property "Value" "NTK3134NT1G"
-			(at 0 1.75 90)
+			(at 0 1.75 270)
 			(layer "F.Fab")
 			(uuid "6e9b66a5-1f18-4e0e-9ac9-5fd4a5fffe4c")
 			(effects
@@ -19686,7 +19752,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7c2f59d9-6772-4cd8-b168-aa358810b011")
+			(uuid "ad69e605-f080-4518-a4e2-37a54ecf0b66")
 			(effects
 				(font
 					(size 1 1)
@@ -19699,7 +19765,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "52273ff5-d2e7-4cad-9475-0e6633c0c1c6")
+			(uuid "af23153d-fd12-47b8-bf50-53a9f1db217a")
 			(effects
 				(font
 					(size 1 1)
@@ -19712,7 +19778,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f091e71c-3bc6-479c-8975-610c4ce44ea6")
+			(uuid "3ef4f336-d253-4936-a029-be451b1ca154")
 			(effects
 				(font
 					(size 1 1)
@@ -19725,7 +19791,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "89b9214e-a3b9-43c3-9d6c-03f1dead730e")
+			(uuid "174b996c-bec9-4bc1-801b-950aef19d05b")
 			(effects
 				(font
 					(size 1 1)
@@ -19738,7 +19804,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d9d04caa-b226-4b33-85ab-1c0a179a8b89")
+			(uuid "4699e228-4fb8-410a-8d91-ed40ded435ad")
 			(effects
 				(font
 					(size 1 1)
@@ -19751,7 +19817,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8aac016e-1212-4b1c-95a2-0e07acabd867")
+			(uuid "5c32bd8a-166f-4401-b1df-7254a690a602")
 			(effects
 				(font
 					(size 1 1)
@@ -19764,7 +19830,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7dc306be-6214-4b95-b42c-bf97bd5f33b7")
+			(uuid "1f3d512c-c75a-48f9-93ee-bdcd1dc91192")
 			(effects
 				(font
 					(size 1 1)
@@ -19777,7 +19843,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5a975ee0-12f8-4a00-a896-1e5fa9900df1")
+			(uuid "ce35c790-01a5-482e-804d-91f49cf2d58f")
 			(effects
 				(font
 					(size 1 1)
@@ -19790,7 +19856,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "29ddbc9d-0cb3-429c-a0fb-ccc102b64b04")
+			(uuid "3c5825f6-92e2-4eb7-8341-577abf557dcc")
 			(effects
 				(font
 					(size 1 1)
@@ -19803,7 +19869,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1a6a4afd-436b-48ef-abe2-2d988282ba06")
+			(uuid "b86c7a2a-4aa2-4502-8626-4068f46e6e99")
 			(effects
 				(font
 					(size 1 1)
@@ -19996,7 +20062,7 @@
 			(uuid "a36adfdb-5ad1-4454-b17d-1f80ee0a58fa")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-723.step"
+		(model "C:/Users/ryuji/OneDrive/Documents/Development/kicad/rtcl-tp25k-usb3/datasheet/model/NTK3134NT1G/SOT_34NT1G_ONS.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -20004,7 +20070,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 90)
 			)
 		)
 	)
@@ -22613,6 +22679,12 @@
 		(path "/c12d62ff-e70f-4edd-93b4-e992177c121d")
 		(sheetname "/")
 		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "8" "1" "7" "2" "6" "3" "5" "4")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -23402,6 +23474,12 @@
 		(path "/19adeea4-ab65-4755-9c54-a0067b0cfa58")
 		(sheetname "/")
 		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "8" "1" "7" "2" "6" "3" "5" "4")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -25317,7 +25395,7 @@
 			(effects
 				(font
 					(size 0.393701 0.393701)
-					(thickness 0.15)
+					(thickness 0.098425)
 				)
 			)
 		)
@@ -25469,15 +25547,26 @@
 			(uuid "fbfc7fac-5fba-47d5-ad68-244e9514f26f")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/ryuji/OneDrive/Documents/Development/kicad/rtcl-tp25k-usb3/datasheet/model/TFM201610ALM_R47MTAA/TFM201610ALM-R47MTAA.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
-	(footprint "Package_TO_SOT_SMD:SOT-723"
+	(footprint "rtcl-tp25k-usb3:SOT-723"
 		(layer "F.Cu")
 		(uuid "fea094f6-13fb-4a44-9135-65ffd5462d4d")
 		(at 175.8 110.7 -90)
 		(descr "http://toshiba.semicon-storage.com/info/docget.jsp?did=5879&prodName=RN1104MFV")
 		(tags "sot 723")
 		(property "Reference" "Q2"
-			(at 0.1 -1.6 90)
+			(at 0.1 -1.6 270)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "806ac6f8-87f3-4dda-9c8d-d50770bd7243")
@@ -25489,7 +25578,7 @@
 			)
 		)
 		(property "Value" "NTK3134NT1G"
-			(at 0 1.75 90)
+			(at 0 1.75 270)
 			(layer "F.Fab")
 			(uuid "84cb007d-5a12-49d6-a813-1713f413ee3f")
 			(effects
@@ -25530,7 +25619,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "bd3ea797-d437-4d8a-b44a-a41e943a08a5")
+			(uuid "d296d4cf-ef30-4d9a-bab7-86da4adbf08f")
 			(effects
 				(font
 					(size 1 1)
@@ -25543,7 +25632,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "362ba5d7-701c-4e73-a079-aa44b59f0c30")
+			(uuid "21996efe-15e0-4efb-b3ac-00a1bd9d6155")
 			(effects
 				(font
 					(size 1 1)
@@ -25556,7 +25645,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "47f7d469-c352-49be-b0e1-1c95335ba64a")
+			(uuid "6720324f-ccd8-4b5c-9347-97f53aa7516e")
 			(effects
 				(font
 					(size 1 1)
@@ -25569,7 +25658,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7ea2bcee-226c-48b0-8334-fc57b233a8df")
+			(uuid "825c987c-91af-4adf-aa85-630ba055f082")
 			(effects
 				(font
 					(size 1 1)
@@ -25582,7 +25671,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "23115dfe-0556-4324-912c-f4cd081c567b")
+			(uuid "036efcb3-7749-4f02-b818-23f779106178")
 			(effects
 				(font
 					(size 1 1)
@@ -25595,7 +25684,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1751e0d2-9f7b-452f-9b44-f317e3f2ba31")
+			(uuid "8846caf4-1098-4303-968e-9582eb3d139b")
 			(effects
 				(font
 					(size 1 1)
@@ -25608,7 +25697,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5a14dd0d-35cc-41e2-8a58-f456abca1465")
+			(uuid "55ce4f70-1672-4dac-85ba-6dc5bc9fbbd2")
 			(effects
 				(font
 					(size 1 1)
@@ -25621,7 +25710,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b0523708-6dc3-466d-b7bd-0c0988d4f927")
+			(uuid "c54e2ae6-446a-4400-b1dc-6290618fdf04")
 			(effects
 				(font
 					(size 1 1)
@@ -25634,7 +25723,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "537650e9-6f82-4664-a159-8add796c4c50")
+			(uuid "584f96d8-895a-4d0f-a479-8ba68e39d019")
 			(effects
 				(font
 					(size 1 1)
@@ -25647,7 +25736,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c7dc9bb8-f802-49b3-9299-7eeb6c330b4e")
+			(uuid "6382f91d-c827-4302-9131-0e5130a120b2")
 			(effects
 				(font
 					(size 1 1)
@@ -25840,7 +25929,7 @@
 			(uuid "9fc0080c-7c05-4b97-b914-71aad991ab7b")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-723.step"
+		(model "C:/Users/ryuji/OneDrive/Documents/Development/kicad/rtcl-tp25k-usb3/datasheet/model/NTK3134NT1G/SOT_34NT1G_ONS.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -25848,7 +25937,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 90)
 			)
 		)
 	)

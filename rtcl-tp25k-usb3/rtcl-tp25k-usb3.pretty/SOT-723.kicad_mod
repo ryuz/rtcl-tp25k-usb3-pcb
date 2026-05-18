@@ -1,0 +1,233 @@
+(footprint "SOT-723"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "http://toshiba.semicon-storage.com/info/docget.jsp?did=5879&prodName=RN1104MFV")
+	(tags "sot 723")
+	(property "Reference" "REF**"
+		(at 0.1 -1.6 0)
+		(layer "F.SilkS")
+		(uuid "ba231a11-94d8-4059-9a19-cc77ec4871cb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SOT-723"
+		(at 0 1.75 0)
+		(layer "F.Fab")
+		(uuid "72872d1d-a19f-4a14-b3fa-a8c687c012ee")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4dbccac6-210f-46c7-8ec1-48816eb7e5a7")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e32384ca-1b19-4db3-b7cb-e5fe9becf82d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start 0.3 0.86)
+		(end -0.3 0.86)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7b401ec3-8191-404f-a69e-8fdfeb0098bc")
+	)
+	(fp_line
+		(start 0.5 -0.86)
+		(end -0.7 -0.86)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1ba7b9c2-8266-414d-a00d-10822003a2e4")
+	)
+	(fp_circle
+		(center -1.15 -0.4)
+		(end -1 -0.4)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "40d758c2-699f-43ee-b5bb-fa2feaf9f142")
+	)
+	(fp_line
+		(start -0.9 -0.9)
+		(end -0.9 -0.9)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "bf410f7a-38f0-445c-92dc-bb647996cc11")
+	)
+	(fp_line
+		(start -0.9 -0.9)
+		(end 0.9 -0.9)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "40ea29b7-fb75-4040-b495-5a40bdb28cd0")
+	)
+	(fp_line
+		(start -0.9 0.9)
+		(end -0.9 -0.9)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d3d53ea6-f962-46a7-83aa-c08456ab0320")
+	)
+	(fp_line
+		(start 0.9 -0.9)
+		(end 0.9 0.9)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "9e9821e1-bb18-4601-bff7-265adf3d0f91")
+	)
+	(fp_line
+		(start 0.9 0.9)
+		(end -0.9 0.9)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "52c1c6ec-67a1-418c-a108-ec062ddf50f3")
+	)
+	(fp_line
+		(start -0.4 -0.3)
+		(end -0.1 -0.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b169322f-7683-408e-9a77-26eba8b7288b")
+	)
+	(fp_line
+		(start -0.4 0.6)
+		(end -0.4 -0.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "84508f4e-db49-4178-862b-4e7051ebae03")
+	)
+	(fp_line
+		(start -0.1 -0.6)
+		(end 0.4 -0.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e0fdb7fb-b2b2-40ba-b359-794e35a78171")
+	)
+	(fp_line
+		(start 0.4 -0.6)
+		(end 0.4 0.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7df72960-f32e-43aa-8a9e-80d06b94302c")
+	)
+	(fp_line
+		(start 0.4 0.6)
+		(end -0.4 0.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a20d1482-1b9a-4989-a402-fb0bf88b53b4")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0.8 0 90)
+		(layer "F.Fab")
+		(uuid "3f87daa3-0c5c-4a78-a79c-569316257a21")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.075)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at -0.575 -0.4)
+		(size 0.45 0.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "8a6adbfe-0c1e-4173-8914-ca22fe011c75")
+	)
+	(pad "2" smd roundrect
+		(at -0.575 0.4)
+		(size 0.45 0.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "35579acc-c6ed-4817-87ff-d4ef4fe70959")
+	)
+	(pad "3" smd roundrect
+		(at 0.575 0)
+		(size 0.45 0.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "321b7a85-a115-4a4f-be07-5a245094045f")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/ryuji/OneDrive/Documents/Development/kicad/rtcl-tp25k-usb3/datasheet/model/NTK3134NT1G/SOT_34NT1G_ONS.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 90)
+		)
+	)
+)
