@@ -22822,6 +22822,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C15402"
+			(at 40.64 199.39 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ff049550-72dd-4bf7-967b-1e6dbc58ed73")
 		)
@@ -23893,6 +23904,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 334.01 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C40059"
 			(at 334.01 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -29968,7 +29990,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "AFC11-S22ICA-00"
+		(property "Value" "MIPI_22pin"
 			(at 386.08 57.1499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33552,6 +33574,17 @@
 			)
 		)
 		(property "Description" "2x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol"
+			(at 195.58 260.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C4364316"
 			(at 195.58 260.35 0)
 			(hide yes)
 			(show_name no)
@@ -38599,7 +38632,7 @@
 				)
 			)
 		)
-		(property "Value" "SSQ-106-02-F-D-RA"
+		(property "Value" "PMOD"
 			(at 251.46 24.13 0)
 			(show_name no)
 			(do_not_autoplace no)

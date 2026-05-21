@@ -201,6 +201,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C4364316"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "41f87545-706c-4323-a135-0adfb56ad180")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "SW?DIP?x2*")
 		(path "/ab0c4cf4-7ecd-44f4-9a8c-f36770dfb5c4")
 		(sheetname "/")
@@ -2222,7 +2235,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C24"
-			(at -2.1 0.06 90)
+			(at -2.1 0.1 90)
 			(layer "F.SilkS")
 			(uuid "28b3f9b4-a3e3-4a3d-9742-8d1fedf21faa")
 			(effects
@@ -4199,7 +4212,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R60"
-			(at 3.65 -3.222499 0)
+			(at 3.8 -4.072499 0)
 			(layer "F.SilkS")
 			(uuid "c37e6386-ea58-44b9-89ae-d74d39b217b5")
 			(effects
@@ -6688,6 +6701,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "1dd73e85-3253-4f28-9cb9-093c505fad97")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C15402"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3808c764-9c76-4c4c-b697-c9251c2d67c0")
 			(effects
 				(font
 					(size 1 1)
@@ -9594,7 +9620,7 @@
 		(at 124.3 107.4 -90)
 		(tags "YC104-FR-072K2L ")
 		(property "Reference" "RN2"
-			(at 1.9 -0.1 0)
+			(at 1.8 0.9 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "cf83bda6-2580-424c-b4d8-b9e8a6a19f5b")
@@ -9991,7 +10017,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C7"
-			(at -2.1 0.05 90)
+			(at -2.1 0.1 90)
 			(layer "F.SilkS")
 			(uuid "d87c45ee-408f-4168-8bac-d31785fbdb6c")
 			(effects
@@ -11807,7 +11833,7 @@
 				)
 			)
 		)
-		(property "Value" "SSQ-106-02-F-D-RA"
+		(property "Value" "PMOD"
 			(at 0 8.68 0)
 			(layer "F.Fab")
 			(uuid "389de574-ad89-4871-9b36-9c520010735d")
@@ -12989,7 +13015,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C73"
-			(at -3.8 3.272499 0)
+			(at -3.95 4.122499 0)
 			(layer "F.SilkS")
 			(uuid "0c438ca2-4b74-4761-ac29-2d8558980662")
 			(effects
@@ -13037,6 +13063,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "ce009d8a-97ab-438f-82b1-27896d109706")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C40059"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "22c35168-d050-480b-bfa4-090412adadac")
 			(effects
 				(font
 					(size 1 1)
@@ -14484,7 +14523,7 @@
 				)
 			)
 		)
-		(property "Value" "AFC11-S22ICA-00"
+		(property "Value" "MIPI_22pin"
 			(at 0 -5.08 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15355,7 +15394,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R61"
-			(at -3.8 3.257499 0)
+			(at -3.95 4.107499 0)
 			(layer "F.SilkS")
 			(uuid "6a89ad82-65e8-4826-b746-48053684abe8")
 			(effects
@@ -19184,7 +19223,7 @@
 		(at 126.9 107.4 -90)
 		(tags "YC104-FR-072K2L ")
 		(property "Reference" "RN3"
-			(at 1.9 0 0)
+			(at 2.4 -1 90)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "e303bf99-5afe-4082-a26b-9c7357be5a5d")
@@ -22908,7 +22947,7 @@
 		(descr "Through hole straight pin header, 1x02, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x02 2.54mm single row")
 		(property "Reference" "J6"
-			(at 2.4 3.6 180)
+			(at 0.4 5.2 270)
 			(layer "F.SilkS")
 			(uuid "51989bb6-3ac7-4031-b781-b8c9cf432ae8")
 			(effects
@@ -25853,8 +25892,8 @@
 		(uuid "f4af568f-3f55-4d7d-b50d-50a58e7c824c")
 	)
 	(gr_line
-		(start 123.1 113.76875)
-		(end 124.6 113.3)
+		(start 123.1 113.35)
+		(end 124.75 112.45)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -25873,8 +25912,8 @@
 		(uuid "406920bb-4cdf-4772-a377-7728af7652da")
 	)
 	(gr_line
-		(start 124.6 110.05)
-		(end 124.6 113.3)
+		(start 124.75 109.2)
+		(end 124.75 112.45)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -25883,8 +25922,8 @@
 		(uuid "06c4c44e-768e-4313-b009-338c901adde8")
 	)
 	(gr_line
-		(start 124.6 113.3)
-		(end 127.175 113.3)
+		(start 124.75 112.45)
+		(end 127.325 112.45)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -25893,8 +25932,8 @@
 		(uuid "c3ba4ea1-1bf0-486a-99fd-798f57348fec")
 	)
 	(gr_line
-		(start 124.625 110.05)
-		(end 127.175 110.05)
+		(start 124.775 109.2)
+		(end 127.325 109.2)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -25903,8 +25942,8 @@
 		(uuid "46df14dd-5f86-4f5e-9765-4fac5cb67dc0")
 	)
 	(gr_line
-		(start 127.175 110.05)
-		(end 127.175 113.3)
+		(start 127.325 109.2)
+		(end 127.325 112.45)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -26170,10 +26209,34 @@
 		(layer "User.4")
 		(uuid "c41164e4-3b93-4370-924b-e4ac9fd6babe")
 	)
-	(gr_text "© 2026 RTC-Lab"
-		(at 130.51 116.51 0)
+	(gr_text "5V"
+		(at 124.4 113.6 0)
 		(layer "F.SilkS")
-		(uuid "cf44860f-2529-4b0c-ae08-be25a3dcbb99")
+		(uuid "5485bfea-0616-4857-b01b-f8120e036f97")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "GND"
+		(at 126.3 113.6 0)
+		(layer "F.SilkS")
+		(uuid "bb366ffb-7b58-4dea-ac2e-47bb5732fcc9")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "RTCL-TP25K-USB3-V1\n"
+		(at 130.8 112.7 0)
+		(layer "F.SilkS")
+		(uuid "32c705fe-bbfc-442a-baf9-e29133b44fff")
 		(effects
 			(font
 				(size 1 1)
@@ -26182,10 +26245,10 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "RTCL-TP25K-USB3-V1\n"
-		(at 130.61 114.64 0)
+	(gr_text "© 2026 RTC-Lab"
+		(at 131.5 114.3 0)
 		(layer "F.SilkS")
-		(uuid "32c705fe-bbfc-442a-baf9-e29133b44fff")
+		(uuid "cf44860f-2529-4b0c-ae08-be25a3dcbb99")
 		(effects
 			(font
 				(size 1 1)
