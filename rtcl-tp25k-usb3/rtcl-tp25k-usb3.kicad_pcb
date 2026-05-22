@@ -201,7 +201,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C4364316"
+		(property "LCSC" "C2961921"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6289,6 +6289,17 @@
 			(layer "F.SilkS")
 			(uuid "93768ce6-efa0-4eb1-88b0-b231f6b8610f")
 		)
+		(fp_circle
+			(center -1.25 -0.5)
+			(end -1.15 -0.6)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill yes)
+			(layer "F.SilkS")
+			(uuid "2287e18c-3905-4329-a962-a349d7c9f34d")
+		)
 		(fp_poly
 			(pts
 				(xy 0.1 -0.449999) (xy 0.1 -0.549999) (xy 0.10096 -0.559752) (xy 0.103805 -0.569133) (xy 0.108428 -0.577776)
@@ -6495,7 +6506,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R67"
-			(at -0.1 -1 90)
+			(at -0.4 -1 90)
 			(layer "F.SilkS")
 			(uuid "7c0be99d-695e-4992-b46e-3a2c06a16804")
 			(effects
