@@ -22601,7 +22601,7 @@
 				)
 			)
 		)
-		(property "Value" "YC104-JR-0722RL"
+		(property "Value" "YC124-FR-0722RL"
 			(at 189.23 57.15 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22611,7 +22611,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rtcl-tp25k-usb3:ARRAY_FR-072K2L_YAG"
+		(property "Footprint" "rtcl-tp25k-usb3:RES_YC124_2X1_YAG"
 			(at 189.23 57.785 90)
 			(hide yes)
 			(show_name no)
@@ -22870,7 +22870,7 @@
 				)
 			)
 		)
-		(property "Value" "YC104-JR-0722RL"
+		(property "Value" "YC124-FR-0722RL"
 			(at 175.768 161.544 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22880,7 +22880,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rtcl-tp25k-usb3:ARRAY_FR-072K2L_YAG"
+		(property "Footprint" "rtcl-tp25k-usb3:RES_YC124_2X1_YAG"
 			(at 189.23 160.655 90)
 			(hide yes)
 			(show_name no)
@@ -28664,7 +28664,7 @@
 				)
 			)
 		)
-		(property "Value" "YC104-JR-0722RL"
+		(property "Value" "YC124-FR-0722RL"
 			(at 176.53 131.064 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28674,7 +28674,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rtcl-tp25k-usb3:ARRAY_FR-072K2L_YAG"
+		(property "Footprint" "rtcl-tp25k-usb3:RES_YC124_2X1_YAG"
 			(at 189.23 130.175 90)
 			(hide yes)
 			(show_name no)
@@ -28946,7 +28946,7 @@
 				)
 			)
 		)
-		(property "Value" "YC104-JR-0722RL"
+		(property "Value" "YC124-FR-0722RL"
 			(at 175.514 211.328 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28956,7 +28956,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rtcl-tp25k-usb3:ARRAY_FR-072K2L_YAG"
+		(property "Footprint" "rtcl-tp25k-usb3:RES_YC124_2X1_YAG"
 			(at 189.23 196.215 90)
 			(hide yes)
 			(show_name no)
@@ -32087,7 +32087,7 @@
 				)
 			)
 		)
-		(property "Value" "YC104-JR-0722RL"
+		(property "Value" "YC124-FR-0722RL"
 			(at 176.53 105.918 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32097,7 +32097,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rtcl-tp25k-usb3:ARRAY_FR-072K2L_YAG"
+		(property "Footprint" "rtcl-tp25k-usb3:RES_YC124_2X1_YAG"
 			(at 189.23 104.775 90)
 			(hide yes)
 			(show_name no)
@@ -32659,7 +32659,7 @@
 				)
 			)
 		)
-		(property "Value" "YC104-JR-0722RL"
+		(property "Value" "YC124-FR-0722RL"
 			(at 175.768 154.178 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32669,7 +32669,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rtcl-tp25k-usb3:ARRAY_FR-072K2L_YAG"
+		(property "Footprint" "rtcl-tp25k-usb3:RES_YC124_2X1_YAG"
 			(at 189.23 140.335 90)
 			(hide yes)
 			(show_name no)
@@ -35337,7 +35337,7 @@
 				)
 			)
 		)
-		(property "Value" "YC104-JR-0722RL"
+		(property "Value" "YC124-FR-0722RL"
 			(at 176.53 184.912 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35347,7 +35347,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rtcl-tp25k-usb3:ARRAY_FR-072K2L_YAG"
+		(property "Footprint" "rtcl-tp25k-usb3:RES_YC124_2X1_YAG"
 			(at 189.23 170.815 90)
 			(hide yes)
 			(show_name no)
@@ -35751,7 +35751,7 @@
 				)
 			)
 		)
-		(property "Value" "YC104-JR-0722RL"
+		(property "Value" "YC124-FR-0722RL"
 			(at 176.53 186.944 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35761,7 +35761,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rtcl-tp25k-usb3:ARRAY_FR-072K2L_YAG"
+		(property "Footprint" "rtcl-tp25k-usb3:RES_YC124_2X1_YAG"
 			(at 189.23 186.055 90)
 			(hide yes)
 			(show_name no)
@@ -38050,7 +38050,7 @@
 				)
 			)
 		)
-		(property "Value" "YC104-JR-0722RL"
+		(property "Value" "YC124-FR-0722RL"
 			(at 176.53 128.778 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38060,7 +38060,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rtcl-tp25k-usb3:ARRAY_FR-072K2L_YAG"
+		(property "Footprint" "rtcl-tp25k-usb3:RES_YC124_2X1_YAG"
 			(at 189.23 114.935 90)
 			(hide yes)
 			(show_name no)
