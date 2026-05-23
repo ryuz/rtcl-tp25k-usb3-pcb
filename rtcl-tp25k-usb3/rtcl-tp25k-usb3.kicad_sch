@@ -24557,6 +24557,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C6467298"
+			(at 196.85 274.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "63ac5775-d036-403e-a91c-76ab4e0f8147")
 		)
@@ -25425,6 +25436,17 @@
 			)
 		)
 		(property "Description" "Very low capacitance ESD protection diode, 2 data-line, SOT-666"
+			(at 66.04 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C15999"
 			(at 66.04 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -28729,6 +28751,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C309675"
+			(at 189.23 137.16 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "801ecb70-642f-4a48-9df5-460cc5d3b309")
 		)
@@ -30412,7 +30445,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "PCA9306DC"
+		(property "Value" "PCA9306DCUR"
 			(at 300.5933 92.71 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30446,6 +30479,17 @@
 			)
 		)
 		(property "Description" "Dual bidirectional I2C Bus and SMBus voltage level translator, VSSOP-8, Discontinued"
+			(at 298.45 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C33196"
 			(at 298.45 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -30951,6 +30995,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C113030"
+			(at 95.25 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "4d4d7a04-7444-47fd-933c-e9012a26cbad")
 		)
@@ -31257,6 +31312,17 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x30, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 270.51 199.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C3646124"
 			(at 270.51 199.39 0)
 			(hide yes)
 			(show_name no)
@@ -31909,6 +31975,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C3646124"
+			(at 360.68 199.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "10"
 			(uuid "a1e98e05-a142-44d7-91e7-84ed80f40dc0")
 		)
@@ -32423,6 +32500,17 @@
 		)
 		(property "Description" "Ferrite bead"
 			(at 29.21 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C113030"
+			(at 29.21 113.03 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35970,6 +36058,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C1550513"
+			(at 137.16 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "30"
 			(uuid "220a9df1-f5b4-4f46-9161-e9d86bcf90d0")
 		)
@@ -36945,6 +37044,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 156.21 265.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C6467298"
 			(at 156.21 265.43 0)
 			(hide yes)
 			(show_name no)
@@ -39351,6 +39461,17 @@
 			)
 		)
 		(property "Description" "4-Channel ESD Protection for Super-Speed USB 3.0 Interface, USON-10"
+			(at 76.2 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C138714"
 			(at 76.2 71.12 0)
 			(hide yes)
 			(show_name no)

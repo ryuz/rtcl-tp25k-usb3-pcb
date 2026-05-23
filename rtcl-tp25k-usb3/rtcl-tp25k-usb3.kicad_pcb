@@ -894,6 +894,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C15999"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "240080c5-467c-4063-9619-315431f4b0f6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "SOT?666*")
 		(path "/3caa5b6f-4227-4312-9781-f143009a7bc0")
 		(sheetname "/")
@@ -5443,6 +5456,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C3646124"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ddb0cbb3-861d-439e-988a-f5e392db805f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_2x??_*")
 		(path "/96c14178-b3ef-48a9-94b5-cf2392c715c5")
 		(sheetname "/")
@@ -6227,6 +6253,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C138714"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ff04bcaa-7c80-4aa4-a3f3-2fd8c36c4751")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -7851,6 +7890,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C309675"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a8452dbd-0efa-47c0-b442-d0e5d8c58f13")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -15153,7 +15205,7 @@
 				)
 			)
 		)
-		(property "Value" "PCA9306DC"
+		(property "Value" "PCA9306DCUR"
 			(at 0 1.95 0)
 			(layer "F.Fab")
 			(uuid "a9edfed9-2b24-4302-82ec-3f9e8b1a7d2a")
@@ -15191,6 +15243,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "b74d5bf1-e9ba-4900-a098-6a8f0f0e26d3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C33196"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e94dc8fc-d0ca-450c-a35d-12decf1437b9")
 			(effects
 				(font
 					(size 1 1)
@@ -18753,6 +18818,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "317691a9-9d92-48ea-a431-592ad3cc7719")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C113030"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2df7c244-c7d7-45b1-80c9-c69f65f66744")
 			(effects
 				(font
 					(size 1 1)
@@ -22710,6 +22788,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C3646124"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f130624e-5d4b-41de-a051-a88721134783")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_2x??_*")
 		(path "/9d5da95f-c9fe-411a-b89d-4943f5b08773")
 		(sheetname "/")
@@ -23652,6 +23743,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C6467298"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "89c69435-84f0-4894-baf4-5f1239f230da")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/cf8cbfac-681e-497a-865d-3745a775abab")
 		(sheetname "/")
 		(sheetfile "rtcl-tp25k-usb3.kicad_sch")
@@ -23898,6 +24002,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C6467298"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3cfc390e-49c7-48f3-a95b-bed37065e72d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -24314,6 +24431,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "cf750446-fe4a-4d15-b4a8-6a2aa0db94fc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C113030"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0fd42ec0-91fc-44e2-9008-79f44f473615")
 			(effects
 				(font
 					(size 1 1)
@@ -26137,6 +26267,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "98549814-433b-4a2b-a09c-38e3b351fd0a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C1550513"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c0fef00f-aca1-4879-85c1-776d80183473")
 			(effects
 				(font
 					(size 1 1)
