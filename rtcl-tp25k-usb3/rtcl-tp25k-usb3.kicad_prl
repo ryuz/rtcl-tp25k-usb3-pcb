@@ -25,8 +25,8 @@
       "otherItems": false,
       "pads": false,
       "text": true,
-      "tracks": false,
-      "vias": false,
+      "tracks": true,
+      "vias": true,
       "zones": false
     },
     "visible_items": [
@@ -53,7 +53,7 @@
       "board_outline_area",
       "ly_points"
     ],
-    "visible_layers": "00000000_00000000_00000080_82082022",
+    "visible_layers": "00000000_00000000_00000080_82082077",
     "zone_display_mode": 1
   },
   "git": {

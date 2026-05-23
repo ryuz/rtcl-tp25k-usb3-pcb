@@ -22644,6 +22644,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C309675"
+			(at 189.23 64.77 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "7d6e48cf-ce31-482f-923a-fcbad0df15c0")
 		)
@@ -22913,6 +22924,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C309675"
+			(at 189.23 167.64 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "a3e4922f-6e9a-424b-b2cc-38a242f091fe")
 		)
@@ -23139,7 +23161,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "rtcl-tp25k-usb3:SOT-723"
+		(property "Footprint" "rtcl-tp25k-usb3:SOT_34NT1G_ONS"
 			(at 96.012 231.14 90)
 			(hide yes)
 			(show_name no)
@@ -24156,7 +24178,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "rtcl-tp25k-usb3:SOT-723"
+		(property "Footprint" "rtcl-tp25k-usb3:SOT_34NT1G_ONS"
 			(at 46.482 265.43 90)
 			(hide yes)
 			(show_name no)
@@ -24686,7 +24708,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "rtcl-tp25k-usb3:SOT-723"
+		(property "Footprint" "rtcl-tp25k-usb3:SOT_34NT1G_ONS"
 			(at 244.602 132.08 90)
 			(hide yes)
 			(show_name no)
@@ -25886,7 +25908,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "rtcl-tp25k-usb3:SOT-723"
+		(property "Footprint" "rtcl-tp25k-usb3:SOT_34NT1G_ONS"
 			(at 96.012 265.43 90)
 			(hide yes)
 			(show_name no)
@@ -28980,6 +29002,17 @@
 		)
 		(property "Description" "4 resistor network, parallel topology"
 			(at 189.23 203.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C309675"
+			(at 189.23 203.2 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32130,6 +32163,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C309675"
+			(at 189.23 111.76 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "4b333c47-3580-41ba-829b-2d52b12fa11e")
 		)
@@ -32693,6 +32737,17 @@
 		)
 		(property "Description" "4 resistor network, parallel topology"
 			(at 189.23 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C309675"
+			(at 189.23 147.32 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35380,6 +35435,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C309675"
+			(at 189.23 177.8 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "04b69a88-7e96-46bf-8883-750c677799bc")
 		)
@@ -35785,6 +35851,17 @@
 		)
 		(property "Description" "4 resistor network, parallel topology"
 			(at 189.23 193.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C309675"
+			(at 189.23 193.04 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -37084,7 +37161,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "rtcl-tp25k-usb3:SOT-723"
+		(property "Footprint" "rtcl-tp25k-usb3:SOT_34NT1G_ONS"
 			(at 46.482 231.14 90)
 			(hide yes)
 			(show_name no)
@@ -38084,6 +38161,17 @@
 		)
 		(property "Description" "4 resistor network, parallel topology"
 			(at 189.23 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C309675"
+			(at 189.23 121.92 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
