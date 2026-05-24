@@ -36903,7 +36903,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rtcl-tp25k-usb3:CONN10_ZX360D-B-10P30_HIR"
+		(property "Footprint" "rtcl-tp25k-usb3:ZX360DB10P30"
 			(at 34.29 43.18 0)
 			(hide yes)
 			(show_name no)
