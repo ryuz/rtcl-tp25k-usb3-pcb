@@ -22611,7 +22611,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rtcl-tp25k-usb3:RES_YC124_2X1_YAG"
+		(property "Footprint" "rtcl-tp25k-usb3:RES_YC124_4x1_JLCPCB"
 			(at 189.23 57.785 90)
 			(hide yes)
 			(show_name no)
@@ -22891,7 +22891,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rtcl-tp25k-usb3:RES_YC124_2X1_YAG"
+		(property "Footprint" "rtcl-tp25k-usb3:RES_YC124_4x1_JLCPCB"
 			(at 189.23 160.655 90)
 			(hide yes)
 			(show_name no)
@@ -28718,7 +28718,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rtcl-tp25k-usb3:RES_YC124_2X1_YAG"
+		(property "Footprint" "rtcl-tp25k-usb3:RES_YC124_4x1_JLCPCB"
 			(at 189.23 130.175 90)
 			(hide yes)
 			(show_name no)
@@ -29011,7 +29011,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rtcl-tp25k-usb3:RES_YC124_2X1_YAG"
+		(property "Footprint" "rtcl-tp25k-usb3:RES_YC124_4x1_JLCPCB"
 			(at 189.23 196.215 90)
 			(hide yes)
 			(show_name no)
@@ -32207,7 +32207,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rtcl-tp25k-usb3:RES_YC124_2X1_YAG"
+		(property "Footprint" "rtcl-tp25k-usb3:RES_YC124_4x1_JLCPCB"
 			(at 189.23 104.775 90)
 			(hide yes)
 			(show_name no)
@@ -32801,7 +32801,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rtcl-tp25k-usb3:RES_YC124_2X1_YAG"
+		(property "Footprint" "rtcl-tp25k-usb3:RES_YC124_4x1_JLCPCB"
 			(at 189.23 140.335 90)
 			(hide yes)
 			(show_name no)
@@ -35490,7 +35490,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rtcl-tp25k-usb3:RES_YC124_2X1_YAG"
+		(property "Footprint" "rtcl-tp25k-usb3:RES_YC124_4x1_JLCPCB"
 			(at 189.23 170.815 90)
 			(hide yes)
 			(show_name no)
@@ -35915,7 +35915,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rtcl-tp25k-usb3:RES_YC124_2X1_YAG"
+		(property "Footprint" "rtcl-tp25k-usb3:RES_YC124_4x1_JLCPCB"
 			(at 189.23 186.055 90)
 			(hide yes)
 			(show_name no)
@@ -38247,7 +38247,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rtcl-tp25k-usb3:RES_YC124_2X1_YAG"
+		(property "Footprint" "rtcl-tp25k-usb3:RES_YC124_4x1_JLCPCB"
 			(at 189.23 114.935 90)
 			(hide yes)
 			(show_name no)
