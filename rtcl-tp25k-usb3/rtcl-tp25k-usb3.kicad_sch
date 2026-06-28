@@ -33664,7 +33664,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_DIP_x02")
-		(at 195.58 260.35 0)
+		(at 195.58 257.81 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -33695,7 +33695,7 @@
 			)
 		)
 		(property "Footprint" "rtcl-tp25k-usb3:218-2LP_CTS"
-			(at 195.58 260.35 0)
+			(at 195.58 257.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33706,7 +33706,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 195.58 260.35 0)
+			(at 195.58 257.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33717,7 +33717,7 @@
 			)
 		)
 		(property "Description" "2x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol"
-			(at 195.58 260.35 0)
+			(at 195.58 257.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33728,7 +33728,7 @@
 			)
 		)
 		(property "LCSC" "C2961921"
-			(at 195.58 260.35 0)
+			(at 195.58 257.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
