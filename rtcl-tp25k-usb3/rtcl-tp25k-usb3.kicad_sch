@@ -4425,392 +4425,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Device:R_Pack04"
-			(pin_names
-				(offset 0)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "RN"
-				(at -7.62 0 90)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "R_Pack04"
-				(at 5.08 0 90)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 6.985 0 90)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "4 resistor network, parallel topology"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "R network parallel topology isolated"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_fp_filters" "DIP* SOIC* R*Array*Concave* R*Array*Convex* MSOP*"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "R_Pack04_0_1"
-				(rectangle
-					(start -6.35 -2.413)
-					(end 3.81 2.413)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(rectangle
-					(start -5.715 1.905)
-					(end -4.445 -1.905)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -5.08 1.905) (xy -5.08 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -5.08 -2.54) (xy -5.08 -1.905)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -3.175 1.905)
-					(end -1.905 -1.905)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 1.905) (xy -2.54 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 -2.54) (xy -2.54 -1.905)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -0.635 1.905)
-					(end 0.635 -1.905)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 1.905) (xy 0 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -2.54) (xy 0 -1.905)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 1.905 1.905)
-					(end 3.175 -1.905)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 1.905) (xy 2.54 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 -2.54) (xy 2.54 -1.905)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "R_Pack04_1_1"
-				(pin passive line
-					(at -5.08 -5.08 90)
-					(length 2.54)
-					(name "R1.1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -2.54 -5.08 90)
-					(length 2.54)
-					(name "R2.1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -5.08 90)
-					(length 2.54)
-					(name "R3.1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 2.54 -5.08 90)
-					(length 2.54)
-					(name "R4.1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 2.54 5.08 270)
-					(length 2.54)
-					(name "R4.2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 5.08 270)
-					(length 2.54)
-					(name "R3.2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -2.54 5.08 270)
-					(length 2.54)
-					(name "R2.2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 5.08 270)
-					(length 2.54)
-					(name "R1.2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Interface:PCA9306DC"
 			(pin_names
 				(offset 1.016)
@@ -11973,16 +11587,6 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 77.47) (xy 193.04 77.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0476adf5-97e9-4a01-86fe-daf8d070be61")
-	)
-	(wire
-		(pts
 			(xy 24.13 143.51) (xy 34.29 143.51)
 		)
 		(stroke
@@ -12043,7 +11647,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 149.86) (xy 184.15 149.86)
+			(xy 165.1 149.86) (xy 217.17 149.86)
 		)
 		(stroke
 			(width 0)
@@ -12373,16 +11977,6 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 198.12) (xy 217.17 198.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "12003d83-becc-48bc-ba40-fde297f815d6")
-	)
-	(wire
-		(pts
 			(xy 350.52 212.09) (xy 350.52 209.55)
 		)
 		(stroke
@@ -12393,23 +11987,13 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 167.64) (xy 184.15 167.64)
+			(xy 165.1 167.64) (xy 217.17 167.64)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "12465354-75fe-408e-998a-38e37ec894e4")
-	)
-	(wire
-		(pts
-			(xy 217.17 139.7) (xy 194.31 139.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1252d792-cef6-446d-b600-4fa90c617d91")
 	)
 	(wire
 		(pts
@@ -12593,16 +12177,6 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 62.23) (xy 217.17 62.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "199844ce-6d26-482d-a2c3-8e27d8ccacd8")
-	)
-	(wire
-		(pts
 			(xy 240.03 173.99) (xy 262.89 173.99)
 		)
 		(stroke
@@ -12610,16 +12184,6 @@
 			(type default)
 		)
 		(uuid "1a19a6bd-4b17-48ef-add2-804c577ecc92")
-	)
-	(wire
-		(pts
-			(xy 193.04 102.87) (xy 217.17 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1a2264a6-88e5-4e20-a79b-f8989b09076e")
 	)
 	(wire
 		(pts
@@ -12693,16 +12257,6 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 175.26) (xy 217.17 175.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1ccbb245-06a8-4558-9d53-562f639a8a91")
-	)
-	(wire
-		(pts
 			(xy 33.02 231.14) (xy 43.18 231.14)
 		)
 		(stroke
@@ -12753,16 +12307,6 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 158.75) (xy 193.04 158.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1edd8b07-edcc-49d3-b16a-093d5bd4c673")
-	)
-	(wire
-		(pts
 			(xy 311.15 46.99) (xy 300.99 46.99)
 		)
 		(stroke
@@ -12783,7 +12327,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 195.58) (xy 184.15 195.58)
+			(xy 165.1 195.58) (xy 217.17 195.58)
 		)
 		(stroke
 			(width 0)
@@ -12873,7 +12417,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 111.76) (xy 184.15 111.76)
+			(xy 165.1 111.76) (xy 217.17 111.76)
 		)
 		(stroke
 			(width 0)
@@ -12883,7 +12427,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 203.2) (xy 184.15 203.2)
+			(xy 165.1 203.2) (xy 217.17 203.2)
 		)
 		(stroke
 			(width 0)
@@ -12933,7 +12477,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 137.16) (xy 184.15 137.16)
+			(xy 165.1 137.16) (xy 217.17 137.16)
 		)
 		(stroke
 			(width 0)
@@ -12950,16 +12494,6 @@
 			(type default)
 		)
 		(uuid "26e2e0a2-a6ae-451f-91b7-20fc0c30281c")
-	)
-	(wire
-		(pts
-			(xy 194.31 69.85) (xy 217.17 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "273261f9-37ba-4390-a749-26226aa12182")
 	)
 	(wire
 		(pts
@@ -13033,16 +12567,6 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 195.58) (xy 217.17 195.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "28c0c516-aec1-43d4-8330-bd2368cbf0cf")
-	)
-	(wire
-		(pts
 			(xy 41.91 133.35) (xy 41.91 134.62)
 		)
 		(stroke
@@ -13053,7 +12577,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 121.92) (xy 184.15 121.92)
+			(xy 165.1 121.92) (xy 217.17 121.92)
 		)
 		(stroke
 			(width 0)
@@ -13153,7 +12677,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 109.22) (xy 184.15 109.22)
+			(xy 165.1 109.22) (xy 217.17 109.22)
 		)
 		(stroke
 			(width 0)
@@ -13170,16 +12694,6 @@
 			(type default)
 		)
 		(uuid "2de0a8c3-83bf-485c-beb9-c888024f2163")
-	)
-	(wire
-		(pts
-			(xy 193.04 74.93) (xy 217.17 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2df2278c-5377-4a76-b704-eed728a9fbb2")
 	)
 	(wire
 		(pts
@@ -13240,16 +12754,6 @@
 			(type default)
 		)
 		(uuid "2fb55980-f716-46ca-921a-651d08982aad")
-	)
-	(wire
-		(pts
-			(xy 217.17 152.4) (xy 194.31 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "306b3310-5d42-41a0-8bdd-d237d774544a")
 	)
 	(wire
 		(pts
@@ -13330,16 +12834,6 @@
 			(type default)
 		)
 		(uuid "32cff22f-6130-4c75-819a-6f4a6b0b8e6c")
-	)
-	(wire
-		(pts
-			(xy 217.17 121.92) (xy 194.31 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "32ee765d-2104-4f97-871c-795673821126")
 	)
 	(polyline
 		(pts
@@ -13433,16 +12927,6 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 134.62) (xy 194.31 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "369852d8-75a1-48bb-b3d5-f814c1fad744")
-	)
-	(wire
-		(pts
 			(xy 93.98 120.65) (xy 109.22 120.65)
 		)
 		(stroke
@@ -13450,16 +12934,6 @@
 			(type default)
 		)
 		(uuid "3733c275-6c5e-41e7-9cec-fd7c02805166")
-	)
-	(wire
-		(pts
-			(xy 217.17 149.86) (xy 194.31 149.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "373ee36e-3757-46ca-9ec2-cb3d981b8849")
 	)
 	(wire
 		(pts
@@ -13533,16 +13007,6 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 165.1) (xy 194.31 165.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3a698eb3-9f73-4b71-8a88-a84678acbec0")
-	)
-	(wire
-		(pts
 			(xy 384.81 125.73) (xy 384.81 120.65)
 		)
 		(stroke
@@ -13553,7 +13017,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 152.4) (xy 184.15 152.4)
+			(xy 165.1 152.4) (xy 217.17 152.4)
 		)
 		(stroke
 			(width 0)
@@ -13573,7 +13037,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 69.85) (xy 184.15 69.85)
+			(xy 165.1 69.85) (xy 217.17 69.85)
 		)
 		(stroke
 			(width 0)
@@ -13673,16 +13137,6 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 100.33) (xy 217.17 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3ea24e65-53a0-4d9b-9f8f-2b70eaa9d38c")
-	)
-	(wire
-		(pts
 			(xy 35.56 223.52) (xy 39.37 223.52)
 		)
 		(stroke
@@ -13763,7 +13217,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 100.33) (xy 185.42 100.33)
+			(xy 165.1 100.33) (xy 217.17 100.33)
 		)
 		(stroke
 			(width 0)
@@ -13853,16 +13307,6 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 167.64) (xy 194.31 167.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "42cb67ba-f7ea-48a5-a63c-e53942db22ca")
-	)
-	(wire
-		(pts
 			(xy 240.03 181.61) (xy 262.89 181.61)
 		)
 		(stroke
@@ -13930,16 +13374,6 @@
 			(type default)
 		)
 		(uuid "4669456b-4ab0-4f86-aea0-3c07203452f8")
-	)
-	(wire
-		(pts
-			(xy 194.31 205.74) (xy 217.17 205.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4727d918-dc5b-48a9-9c47-ac7b27efff9a")
 	)
 	(wire
 		(pts
@@ -14043,7 +13477,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 208.28) (xy 184.15 208.28)
+			(xy 165.1 208.28) (xy 217.17 208.28)
 		)
 		(stroke
 			(width 0)
@@ -14073,7 +13507,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 175.26) (xy 184.15 175.26)
+			(xy 165.1 175.26) (xy 217.17 175.26)
 		)
 		(stroke
 			(width 0)
@@ -14133,16 +13567,6 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 114.3) (xy 194.31 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4ec50b8d-7465-41e5-b7b8-dadbaacf4d19")
-	)
-	(wire
-		(pts
 			(xy 121.92 29.21) (xy 130.81 29.21)
 		)
 		(stroke
@@ -14153,7 +13577,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 165.1) (xy 184.15 165.1)
+			(xy 165.1 165.1) (xy 217.17 165.1)
 		)
 		(stroke
 			(width 0)
@@ -14220,16 +13644,6 @@
 			(type default)
 		)
 		(uuid "509fcca4-8c44-44a7-a073-d1873abeed41")
-	)
-	(wire
-		(pts
-			(xy 194.31 208.28) (xy 217.17 208.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "50b7f479-b642-4cb7-be9a-d8e010ac71cc")
 	)
 	(polyline
 		(pts
@@ -14393,7 +13807,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 119.38) (xy 184.15 119.38)
+			(xy 165.1 119.38) (xy 217.17 119.38)
 		)
 		(stroke
 			(width 0)
@@ -14440,16 +13854,6 @@
 			(type default)
 		)
 		(uuid "57d50995-f5ce-469a-9659-0af0d31e04f8")
-	)
-	(wire
-		(pts
-			(xy 217.17 137.16) (xy 194.31 137.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "57dfacff-da40-4b92-98f6-ea15569a00bd")
 	)
 	(wire
 		(pts
@@ -14563,7 +13967,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 124.46) (xy 184.15 124.46)
+			(xy 165.1 124.46) (xy 217.17 124.46)
 		)
 		(stroke
 			(width 0)
@@ -14580,16 +13984,6 @@
 			(type default)
 		)
 		(uuid "5b9a7ae6-b3f1-47bc-b31e-ec5e3121806d")
-	)
-	(wire
-		(pts
-			(xy 217.17 170.18) (xy 194.31 170.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5c253a32-84cc-43c0-bede-ec3d52453e48")
 	)
 	(wire
 		(pts
@@ -14923,17 +14317,7 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 111.76) (xy 194.31 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "634428c3-aeb9-4b5c-a798-d766f745190b")
-	)
-	(wire
-		(pts
-			(xy 165.1 172.72) (xy 184.15 172.72)
+			(xy 165.1 172.72) (xy 217.17 172.72)
 		)
 		(stroke
 			(width 0)
@@ -15213,16 +14597,6 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 203.2) (xy 217.17 203.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6eab81fb-88be-494e-9f58-51797e38c7c3")
-	)
-	(wire
-		(pts
 			(xy 92.71 73.66) (xy 107.95 73.66)
 		)
 		(stroke
@@ -15323,7 +14697,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 102.87) (xy 185.42 102.87)
+			(xy 165.1 102.87) (xy 217.17 102.87)
 		)
 		(stroke
 			(width 0)
@@ -15431,16 +14805,6 @@
 		)
 		(uuid "768908a3-a8bc-4564-bab2-42d45d717185")
 	)
-	(wire
-		(pts
-			(xy 217.17 119.38) (xy 194.31 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7714ef85-6143-401c-b485-9a2dbf165ea7")
-	)
 	(polyline
 		(pts
 			(xy 307.34 220.98) (xy 307.34 234.95)
@@ -15453,7 +14817,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 205.74) (xy 184.15 205.74)
+			(xy 165.1 205.74) (xy 217.17 205.74)
 		)
 		(stroke
 			(width 0)
@@ -15643,7 +15007,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 139.7) (xy 184.15 139.7)
+			(xy 165.1 139.7) (xy 217.17 139.7)
 		)
 		(stroke
 			(width 0)
@@ -16063,7 +15427,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 77.47) (xy 185.42 77.47)
+			(xy 165.1 77.47) (xy 217.17 77.47)
 		)
 		(stroke
 			(width 0)
@@ -16153,16 +15517,6 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 182.88) (xy 217.17 182.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "94537fda-35c8-4b63-934c-fef85d9b08c0")
-	)
-	(wire
-		(pts
 			(xy 269.24 92.71) (xy 279.4 92.71)
 		)
 		(stroke
@@ -16170,16 +15524,6 @@
 			(type default)
 		)
 		(uuid "945b7cdb-8e37-4ac8-9731-4d72dbd78aa8")
-	)
-	(wire
-		(pts
-			(xy 194.31 177.8) (xy 217.17 177.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "949ce3f1-d7ee-40c3-a80f-df1b0270d6eb")
 	)
 	(wire
 		(pts
@@ -16233,16 +15577,6 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 190.5) (xy 217.17 190.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9781c011-3901-48c6-95e9-17fefaf6e7f8")
-	)
-	(wire
-		(pts
 			(xy 368.3 59.69) (xy 372.11 59.69)
 		)
 		(stroke
@@ -16293,7 +15627,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 67.31) (xy 184.15 67.31)
+			(xy 165.1 67.31) (xy 217.17 67.31)
 		)
 		(stroke
 			(width 0)
@@ -16350,16 +15684,6 @@
 			(type default)
 		)
 		(uuid "9adc7ef1-fa84-4480-83d7-1aba4cca1b37")
-	)
-	(wire
-		(pts
-			(xy 194.31 193.04) (xy 217.17 193.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9c0d60fb-1cc9-4b3b-808a-7a315a201737")
 	)
 	(wire
 		(pts
@@ -16463,7 +15787,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 198.12) (xy 184.15 198.12)
+			(xy 165.1 198.12) (xy 217.17 198.12)
 		)
 		(stroke
 			(width 0)
@@ -16503,7 +15827,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 74.93) (xy 185.42 74.93)
+			(xy 165.1 74.93) (xy 217.17 74.93)
 		)
 		(stroke
 			(width 0)
@@ -16963,7 +16287,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 190.5) (xy 184.15 190.5)
+			(xy 165.1 190.5) (xy 217.17 190.5)
 		)
 		(stroke
 			(width 0)
@@ -17013,7 +16337,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 147.32) (xy 184.15 147.32)
+			(xy 165.1 147.32) (xy 217.17 147.32)
 		)
 		(stroke
 			(width 0)
@@ -17040,16 +16364,6 @@
 			(type default)
 		)
 		(uuid "b72efbd5-47f1-4b63-a087-84ee05180616")
-	)
-	(wire
-		(pts
-			(xy 217.17 124.46) (xy 194.31 124.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b7a2662d-eb9a-43c8-b625-53eb3b1716c9")
 	)
 	(polyline
 		(pts
@@ -17143,7 +16457,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 182.88) (xy 184.15 182.88)
+			(xy 165.1 182.88) (xy 217.17 182.88)
 		)
 		(stroke
 			(width 0)
@@ -17193,7 +16507,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 62.23) (xy 184.15 62.23)
+			(xy 165.1 62.23) (xy 217.17 62.23)
 		)
 		(stroke
 			(width 0)
@@ -17253,16 +16567,6 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 144.78) (xy 194.31 144.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "be6c9866-ec30-45af-92fe-bd3a0b86b275")
-	)
-	(wire
-		(pts
 			(xy 342.9 69.85) (xy 372.11 69.85)
 		)
 		(stroke
@@ -17293,16 +16597,6 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 127) (xy 194.31 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bfd475db-2c17-4967-9f35-d2448b3afac0")
-	)
-	(wire
-		(pts
 			(xy 330.2 88.9) (xy 330.2 91.44)
 		)
 		(stroke
@@ -17323,7 +16617,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 193.04) (xy 184.15 193.04)
+			(xy 165.1 193.04) (xy 217.17 193.04)
 		)
 		(stroke
 			(width 0)
@@ -17333,7 +16627,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 177.8) (xy 184.15 177.8)
+			(xy 165.1 177.8) (xy 217.17 177.8)
 		)
 		(stroke
 			(width 0)
@@ -17393,16 +16687,6 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 64.77) (xy 217.17 64.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c318c6e3-e4d9-430c-a355-87b6ee161355")
-	)
-	(wire
-		(pts
 			(xy 321.31 86.36) (xy 337.82 86.36)
 		)
 		(stroke
@@ -17443,7 +16727,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 158.75) (xy 185.42 158.75)
+			(xy 165.1 158.75) (xy 215.9 158.75)
 		)
 		(stroke
 			(width 0)
@@ -17500,16 +16784,6 @@
 			(type default)
 		)
 		(uuid "c897239a-3858-4578-87d9-ffb8c5fb26fb")
-	)
-	(wire
-		(pts
-			(xy 194.31 200.66) (xy 217.17 200.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c92e9456-29a0-4f96-8ac5-51f28c8e106c")
 	)
 	(wire
 		(pts
@@ -17583,23 +16857,13 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 142.24) (xy 184.15 142.24)
+			(xy 165.1 142.24) (xy 217.17 142.24)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "cb754050-067f-440c-9649-af7328555ffd")
-	)
-	(wire
-		(pts
-			(xy 217.17 147.32) (xy 194.31 147.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cb9c1495-da56-4e6c-b4a4-aea6c498b6f2")
 	)
 	(wire
 		(pts
@@ -17723,7 +16987,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 114.3) (xy 184.15 114.3)
+			(xy 165.1 114.3) (xy 217.17 114.3)
 		)
 		(stroke
 			(width 0)
@@ -17753,7 +17017,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 116.84) (xy 184.15 116.84)
+			(xy 165.1 116.84) (xy 217.17 116.84)
 		)
 		(stroke
 			(width 0)
@@ -17823,7 +17087,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 134.62) (xy 184.15 134.62)
+			(xy 165.1 134.62) (xy 217.17 134.62)
 		)
 		(stroke
 			(width 0)
@@ -17870,16 +17134,6 @@
 			(type default)
 		)
 		(uuid "d69bda68-b55c-4e44-9e48-a63af1d82c5f")
-	)
-	(wire
-		(pts
-			(xy 194.31 180.34) (xy 217.17 180.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d6d543af-5e17-4477-9d6d-a65e41f2c75b")
 	)
 	(wire
 		(pts
@@ -18183,16 +17437,6 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 109.22) (xy 194.31 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e22d5076-a819-460f-91c0-b3f55e26aef3")
-	)
-	(wire
-		(pts
 			(xy 189.23 39.37) (xy 189.23 41.91)
 		)
 		(stroke
@@ -18333,16 +17577,6 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 172.72) (xy 217.17 172.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e6ea26e7-8b54-43d6-b6d2-5b30cb667e18")
-	)
-	(wire
-		(pts
 			(xy 33.02 265.43) (xy 33.02 266.7)
 		)
 		(stroke
@@ -18370,16 +17604,6 @@
 			(type default)
 		)
 		(uuid "e8750800-b77c-443e-98d8-804b0ae8a1e4")
-	)
-	(wire
-		(pts
-			(xy 217.17 116.84) (xy 194.31 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e882d743-d349-452b-b4ef-42ac614fe800")
 	)
 	(wire
 		(pts
@@ -18483,7 +17707,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 64.77) (xy 184.15 64.77)
+			(xy 165.1 64.77) (xy 217.17 64.77)
 		)
 		(stroke
 			(width 0)
@@ -18503,7 +17727,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 127) (xy 184.15 127)
+			(xy 165.1 127) (xy 217.17 127)
 		)
 		(stroke
 			(width 0)
@@ -18553,7 +17777,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 170.18) (xy 184.15 170.18)
+			(xy 165.1 170.18) (xy 217.17 170.18)
 		)
 		(stroke
 			(width 0)
@@ -18653,7 +17877,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 144.78) (xy 184.15 144.78)
+			(xy 165.1 144.78) (xy 217.17 144.78)
 		)
 		(stroke
 			(width 0)
@@ -18683,7 +17907,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 180.34) (xy 184.15 180.34)
+			(xy 165.1 180.34) (xy 217.17 180.34)
 		)
 		(stroke
 			(width 0)
@@ -18843,16 +18067,6 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 142.24) (xy 194.31 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f766453a-f659-437f-86dd-7ae3a7e59d0c")
-	)
-	(wire
-		(pts
 			(xy 275.59 176.53) (xy 298.45 176.53)
 		)
 		(stroke
@@ -18983,16 +18197,6 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 67.31) (xy 217.17 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fd982d58-90f3-4d49-aef7-37524122be11")
-	)
-	(wire
-		(pts
 			(xy 91.44 29.21) (xy 97.79 29.21)
 		)
 		(stroke
@@ -19003,7 +18207,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 200.66) (xy 184.15 200.66)
+			(xy 165.1 200.66) (xy 217.17 200.66)
 		)
 		(stroke
 			(width 0)
@@ -22580,115 +21784,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Pack04")
-		(at 189.23 64.77 270)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "12b7275e-4b0e-49ce-b60c-84a2bd0e051c")
-		(property "Reference" "RN1"
-			(at 189.738 59.182 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "YC124-FR-0722RL"
-			(at 189.23 57.15 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "rtcl-tp25k-usb3:RES_YC124_4x1_JLCPCB"
-			(at 189.23 57.785 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 189.23 64.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "4 resistor network, parallel topology"
-			(at 189.23 64.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC" "C309675"
-			(at 189.23 64.77 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "3"
-			(uuid "7d6e48cf-ce31-482f-923a-fcbad0df15c0")
-		)
-		(pin "4"
-			(uuid "7c588979-f8c2-44e1-ad45-bd82a6fd5f9d")
-		)
-		(pin "7"
-			(uuid "c7d5c12d-e712-4103-97a6-0d61e1ac9411")
-		)
-		(pin "8"
-			(uuid "f8dada3e-718f-4ed5-9e17-0a1bdc73c7f4")
-		)
-		(pin "6"
-			(uuid "af375158-bc18-4998-b296-0040a715ae6c")
-		)
-		(pin "5"
-			(uuid "db347795-b1e6-4240-8883-7fbfe913e7e3")
-		)
-		(pin "2"
-			(uuid "9eed3b9b-3649-49b8-a71e-1cb554315642")
-		)
-		(pin "1"
-			(uuid "1d4b75db-a44a-4b43-871a-c0ce9ee7cca7")
-		)
-		(instances
-			(project "rtcl-tp25k-usb3"
-				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
-					(reference "RN1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 147.32 271.78 0)
 		(unit 1)
@@ -22854,115 +21949,6 @@
 			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "R52")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Pack04")
-		(at 189.23 167.64 270)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "19adeea4-ab65-4755-9c54-a0067b0cfa58")
-		(property "Reference" "RN6"
-			(at 189.23 162.56 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "YC124-FR-0722RL"
-			(at 175.768 161.544 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "rtcl-tp25k-usb3:RES_YC124_4x1_JLCPCB"
-			(at 189.23 160.655 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 189.23 167.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "4 resistor network, parallel topology"
-			(at 189.23 167.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC" "C309675"
-			(at 189.23 167.64 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "3"
-			(uuid "a3e4922f-6e9a-424b-b2cc-38a242f091fe")
-		)
-		(pin "4"
-			(uuid "f9b72187-c2bf-4e2e-825e-3789a8012fed")
-		)
-		(pin "7"
-			(uuid "383245a1-c788-4462-b468-a822cc27d05b")
-		)
-		(pin "8"
-			(uuid "e5608d9d-0352-4cca-9a1f-273d1722486f")
-		)
-		(pin "6"
-			(uuid "38324b6a-83c7-4858-8705-a0dfb081ecfb")
-		)
-		(pin "5"
-			(uuid "134015b6-4583-4e10-8245-331bd591ae4c")
-		)
-		(pin "2"
-			(uuid "c7c7ba15-fe65-4cd4-8db0-e51cad4fafbb")
-		)
-		(pin "1"
-			(uuid "621b90a7-57f3-4910-a8d2-1f1623e5e1a5")
-		)
-		(instances
-			(project "rtcl-tp25k-usb3"
-				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
-					(reference "RN6")
 					(unit 1)
 				)
 			)
@@ -26800,85 +25786,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 189.23 77.47 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "583268b8-3b4b-4d4c-a647-4b4ca63b5359")
-		(property "Reference" "R45"
-			(at 184.404 76.2 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "22"
-			(at 194.056 76.454 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 189.23 79.248 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 189.23 77.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 189.23 77.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "8fb9c6e0-f330-4f46-b35c-ac8f72a4e1e1")
-		)
-		(pin "2"
-			(uuid "8990171c-8798-486b-8748-3d5f1f499a62")
-		)
-		(instances
-			(project "rtcl-tp25k-usb3"
-				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
-					(reference "R45")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:PWR_FLAG")
 		(at 85.09 144.78 0)
 		(unit 1)
@@ -27342,85 +26249,6 @@
 			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "R62")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 189.23 158.75 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "646b991e-d228-4a80-b22d-13b36a153e4a")
-		(property "Reference" "R43"
-			(at 184.404 157.48 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "22"
-			(at 194.056 157.734 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 189.23 160.528 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 189.23 158.75 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 189.23 158.75 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "2ba79ac9-23de-4aa5-aa8f-d6112e1ed96a")
-		)
-		(pin "2"
-			(uuid "d8904896-9683-4524-9ed5-658e0030e6d9")
-		)
-		(instances
-			(project "rtcl-tp25k-usb3"
-				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
-					(reference "R43")
 					(unit 1)
 				)
 			)
@@ -28450,85 +27278,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 189.23 100.33 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "77884aec-afa6-4cd4-b6c9-58a098b00935")
-		(property "Reference" "R46"
-			(at 184.404 99.06 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "22"
-			(at 194.056 99.314 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 189.23 102.108 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 189.23 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 189.23 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "8c80a4f0-d023-4c7f-914c-1b5f9d6265a0")
-		)
-		(pin "2"
-			(uuid "4e03867e-3d06-496b-bc0a-ea78979c0546")
-		)
-		(instances
-			(project "rtcl-tp25k-usb3"
-				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
-					(reference "R46")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 30.48 68.58 0)
 		(unit 1)
@@ -28681,115 +27430,6 @@
 			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "R81")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Pack04")
-		(at 189.23 137.16 270)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "7aeceae4-dfbe-4f95-a1d4-8d06242efaa1")
-		(property "Reference" "RN4"
-			(at 189.23 132.08 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "YC124-FR-0722RL"
-			(at 176.53 131.064 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "rtcl-tp25k-usb3:RES_YC124_4x1_JLCPCB"
-			(at 189.23 130.175 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 189.23 137.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "4 resistor network, parallel topology"
-			(at 189.23 137.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC" "C309675"
-			(at 189.23 137.16 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "3"
-			(uuid "801ecb70-642f-4a48-9df5-460cc5d3b309")
-		)
-		(pin "4"
-			(uuid "0f596abd-52a0-45a9-bcc7-31715ca26225")
-		)
-		(pin "7"
-			(uuid "13b802ed-6b2c-44ea-a4b2-f4d840d23dde")
-		)
-		(pin "8"
-			(uuid "5d42c0f9-658e-4730-9225-dbc88adddc68")
-		)
-		(pin "6"
-			(uuid "3d952dcd-8ce2-4ec4-b721-15834e51fe16")
-		)
-		(pin "5"
-			(uuid "61d39940-50a4-49a7-b63a-034cb902b725")
-		)
-		(pin "2"
-			(uuid "7772b85d-e598-40fe-a12f-6062b7dff8eb")
-		)
-		(pin "1"
-			(uuid "08094b98-0029-402f-ad8d-ad7aee17fb74")
-		)
-		(instances
-			(project "rtcl-tp25k-usb3"
-				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
-					(reference "RN4")
 					(unit 1)
 				)
 			)
@@ -28974,115 +27614,6 @@
 			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "LED3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Pack04")
-		(at 189.23 203.2 270)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "7fd8cd6f-be31-4d9d-a1f4-e5bb908bd82a")
-		(property "Reference" "RN9"
-			(at 187.706 211.328 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "YC124-FR-0722RL"
-			(at 175.514 211.328 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "rtcl-tp25k-usb3:RES_YC124_4x1_JLCPCB"
-			(at 189.23 196.215 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 189.23 203.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "4 resistor network, parallel topology"
-			(at 189.23 203.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC" "C309675"
-			(at 189.23 203.2 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "3"
-			(uuid "d9712d9a-fe66-45db-af9d-f6979d443b6f")
-		)
-		(pin "4"
-			(uuid "5136dcdd-5b04-47f9-a6de-e9ba62eace1a")
-		)
-		(pin "7"
-			(uuid "f9a83f71-8047-44a7-be55-3f46b02357aa")
-		)
-		(pin "8"
-			(uuid "95507157-e2c2-4913-8410-06b1a7d20c57")
-		)
-		(pin "6"
-			(uuid "5bc0f074-dee3-42ef-951d-36b8174b6f79")
-		)
-		(pin "5"
-			(uuid "7e348dcb-54a4-457d-a3b9-1661f2ed92a4")
-		)
-		(pin "2"
-			(uuid "14acd995-fa48-4cfe-a702-77bbdaf3a7ad")
-		)
-		(pin "1"
-			(uuid "34260e73-13ec-4088-9def-bf897d7d9cc4")
-		)
-		(instances
-			(project "rtcl-tp25k-usb3"
-				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
-					(reference "RN9")
 					(unit 1)
 				)
 			)
@@ -32176,115 +30707,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Pack04")
-		(at 189.23 111.76 270)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "9d9b5d2f-b0f0-4916-81d5-19489d9a4d1c")
-		(property "Reference" "RN2"
-			(at 189.23 106.68 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "YC124-FR-0722RL"
-			(at 176.53 105.918 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "rtcl-tp25k-usb3:RES_YC124_4x1_JLCPCB"
-			(at 189.23 104.775 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 189.23 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "4 resistor network, parallel topology"
-			(at 189.23 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC" "C309675"
-			(at 189.23 111.76 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "3"
-			(uuid "4b333c47-3580-41ba-829b-2d52b12fa11e")
-		)
-		(pin "4"
-			(uuid "604a598d-cfbb-4450-952d-93dd3d4c420d")
-		)
-		(pin "7"
-			(uuid "b0dcbbb9-e69b-43c4-a4bc-4645de0d8af6")
-		)
-		(pin "8"
-			(uuid "48f56d23-fe24-4ae9-a488-465c934f2544")
-		)
-		(pin "6"
-			(uuid "556213f4-b613-47c5-9876-3b50c1284138")
-		)
-		(pin "5"
-			(uuid "7d971099-87ce-4587-8c19-775d261e240e")
-		)
-		(pin "2"
-			(uuid "e5d11c85-3cfb-495a-8fc5-e72cffd48786")
-		)
-		(pin "1"
-			(uuid "206fdcfb-62c2-4c80-a586-fd9a777dedd8")
-		)
-		(instances
-			(project "rtcl-tp25k-usb3"
-				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
-					(reference "RN2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 334.01 71.12 0)
 		(unit 1)
@@ -32764,115 +31186,6 @@
 			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR0101")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Pack04")
-		(at 189.23 147.32 270)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "a17835ad-ed05-4678-9459-393707b3017e")
-		(property "Reference" "RN5"
-			(at 189.23 155.194 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "YC124-FR-0722RL"
-			(at 175.768 154.178 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "rtcl-tp25k-usb3:RES_YC124_4x1_JLCPCB"
-			(at 189.23 140.335 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 189.23 147.32 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "4 resistor network, parallel topology"
-			(at 189.23 147.32 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC" "C309675"
-			(at 189.23 147.32 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "3"
-			(uuid "b71946aa-f5f7-4fa5-9e5d-dd32274b0392")
-		)
-		(pin "4"
-			(uuid "024d9a48-69a2-453b-822d-ca88e635e88f")
-		)
-		(pin "7"
-			(uuid "ebb9f459-00a2-456a-87ac-21a55c350feb")
-		)
-		(pin "8"
-			(uuid "58499b41-6f27-44f1-985d-3a9dc4bf5b90")
-		)
-		(pin "6"
-			(uuid "4673ca5e-b452-468f-b7e4-3b2406a8c2d2")
-		)
-		(pin "5"
-			(uuid "16e2ca91-1f34-458a-9d9f-6dd156a0c8ca")
-		)
-		(pin "2"
-			(uuid "f1102ee3-a0dc-4900-84e7-4e7c9ea63d6a")
-		)
-		(pin "1"
-			(uuid "1bbbdc1b-5848-4779-9c39-feffa641f747")
-		)
-		(instances
-			(project "rtcl-tp25k-usb3"
-				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
-					(reference "RN5")
 					(unit 1)
 				)
 			)
@@ -35145,85 +33458,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 189.23 102.87 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "bd10d48b-a72b-4c7c-ad5c-f17a5ac922dd")
-		(property "Reference" "R47"
-			(at 184.404 101.6 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "22"
-			(at 194.056 101.854 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 189.23 104.648 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 189.23 102.87 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 189.23 102.87 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "4c84d924-c9f9-4489-a597-5772db0d249c")
-		)
-		(pin "2"
-			(uuid "865306bb-9a69-48c2-a094-4305e6161014")
-		)
-		(instances
-			(project "rtcl-tp25k-usb3"
-				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
-					(reference "R47")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:VCC")
 		(at 74.93 195.58 0)
 		(unit 1)
@@ -35453,115 +33687,6 @@
 			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "#PWR05")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Pack04")
-		(at 189.23 177.8 270)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "c12d62ff-e70f-4edd-93b4-e992177c121d")
-		(property "Reference" "RN7"
-			(at 189.23 185.42 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "YC124-FR-0722RL"
-			(at 176.53 184.912 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "rtcl-tp25k-usb3:RES_YC124_4x1_JLCPCB"
-			(at 189.23 170.815 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 189.23 177.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "4 resistor network, parallel topology"
-			(at 189.23 177.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC" "C309675"
-			(at 189.23 177.8 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "3"
-			(uuid "04b69a88-7e96-46bf-8883-750c677799bc")
-		)
-		(pin "4"
-			(uuid "71d295a6-98f2-487f-ba9a-d55482d6e29c")
-		)
-		(pin "7"
-			(uuid "f9e0e411-cfc4-4c7c-9997-bdb94c150f87")
-		)
-		(pin "8"
-			(uuid "54b70b2b-4a0f-4866-8da8-55155c3be776")
-		)
-		(pin "6"
-			(uuid "ab49c086-dd33-437f-a234-280bb0d12065")
-		)
-		(pin "5"
-			(uuid "c7657040-51b6-460f-9109-cc9d6bd2fee6")
-		)
-		(pin "2"
-			(uuid "11cbdbc1-0cc0-4523-a301-9e5a3b92c4c0")
-		)
-		(pin "1"
-			(uuid "1e9f1ad7-a30f-4e4a-b547-0397a1cf2fc7")
-		)
-		(instances
-			(project "rtcl-tp25k-usb3"
-				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
-					(reference "RN7")
 					(unit 1)
 				)
 			)
@@ -35878,115 +34003,6 @@
 			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "C23")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Pack04")
-		(at 189.23 193.04 270)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "c5f7ac7c-f99a-4485-9b93-ee6725430a4a")
-		(property "Reference" "RN8"
-			(at 189.23 187.96 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "YC124-FR-0722RL"
-			(at 176.53 186.944 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "rtcl-tp25k-usb3:RES_YC124_4x1_JLCPCB"
-			(at 189.23 186.055 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 189.23 193.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "4 resistor network, parallel topology"
-			(at 189.23 193.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC" "C309675"
-			(at 189.23 193.04 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "3"
-			(uuid "ac912aa6-0691-4f62-aa24-bfc078c0cc6a")
-		)
-		(pin "4"
-			(uuid "86f1c0d4-93d9-46b2-8e85-0ae7440ce95b")
-		)
-		(pin "7"
-			(uuid "72a2a0fd-f231-422b-be15-93aa9ce645f0")
-		)
-		(pin "8"
-			(uuid "4d332872-d270-4c78-ba8f-0d4ac34be0af")
-		)
-		(pin "6"
-			(uuid "777bdfa9-f37e-46f5-9b73-44cfc202c308")
-		)
-		(pin "5"
-			(uuid "8af5742d-68cd-4670-b2ce-5d2e0771eb01")
-		)
-		(pin "2"
-			(uuid "d681e180-36c9-478c-aaf6-f974d9cfd42d")
-		)
-		(pin "1"
-			(uuid "1e077f3c-098b-447c-924b-e27ef485636f")
-		)
-		(instances
-			(project "rtcl-tp25k-usb3"
-				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
-					(reference "RN8")
 					(unit 1)
 				)
 			)
@@ -37588,85 +35604,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 189.23 74.93 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "deb5442f-b348-43f6-8f6f-0f97e9643fa6")
-		(property "Reference" "R44"
-			(at 184.404 73.66 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "22"
-			(at 194.056 73.914 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 189.23 76.708 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 189.23 74.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 189.23 74.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "dd2b97a1-b0ef-4f88-8182-aadb55ede40b")
-		)
-		(pin "2"
-			(uuid "ccff7cc8-6e73-4c87-9b79-1f340c1b8e8c")
-		)
-		(instances
-			(project "rtcl-tp25k-usb3"
-				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
-					(reference "R44")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 53.34 173.99 90)
 		(unit 1)
@@ -38210,115 +36147,6 @@
 			(project "rtcl-tp25k-usb3"
 				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
 					(reference "R64")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Pack04")
-		(at 189.23 121.92 270)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "eb9fcad9-056d-4267-9e06-ba73c4dd1344")
-		(property "Reference" "RN3"
-			(at 189.484 129.54 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "YC124-FR-0722RL"
-			(at 176.53 128.778 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "rtcl-tp25k-usb3:RES_YC124_4x1_JLCPCB"
-			(at 189.23 114.935 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 189.23 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "4 resistor network, parallel topology"
-			(at 189.23 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC" "C309675"
-			(at 189.23 121.92 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "3"
-			(uuid "fa2b8aa7-bd4b-45c2-8767-38e4db166a88")
-		)
-		(pin "4"
-			(uuid "9f7247e6-2d8b-4943-b82b-94cfed481899")
-		)
-		(pin "7"
-			(uuid "bf134389-7911-447b-85c5-b5b741efb97e")
-		)
-		(pin "8"
-			(uuid "f32ae179-5252-4e09-8f23-79b3f28bf059")
-		)
-		(pin "6"
-			(uuid "39eb7287-3252-460e-b4aa-1722e9c4ea9a")
-		)
-		(pin "5"
-			(uuid "b70516dc-8f3b-4ea6-8b69-f241b9ff9a6d")
-		)
-		(pin "2"
-			(uuid "cabe52cc-ba4a-4a6b-a6d9-05b92f370a25")
-		)
-		(pin "1"
-			(uuid "09205f41-8195-4627-a28b-775a8a6bebd1")
-		)
-		(instances
-			(project "rtcl-tp25k-usb3"
-				(path "/3111823c-3b86-4a35-a2d4-382a0824eec6"
-					(reference "RN3")
 					(unit 1)
 				)
 			)
