@@ -29,9 +29,9 @@ photo/
 fabrication-toolkit-options.json
 
 
-*.pdf
+#*.pdf
 *.zip
-#*.pptx
+*.pptx
 
 *.step
 *.wrl
