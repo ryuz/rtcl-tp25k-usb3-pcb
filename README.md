@@ -10,6 +10,12 @@ Sipeed社の [Tang Primer 25K](https://wiki.sipeed.com/hardware/en/tang/tang-pri
 
 ![pcb_photo](doc/images/pcb_photo.png)
 
+
+Tang Primer 25K の SoMボード でもともと使われていなかった MIPI ピンを利用するようしていますが、特に MIPI を活用しなくとも、USB3.0 で FPGA を使えるようにしたボードとも言えますので、今まで FPGA と PC との接続で UART 程度で止まっていた人に本格的な FPGA 活用への第一歩として利用いただければ幸いです。
+
+また、当方では試しておりませんが、GW5A-LV25MG121 の MIPI D-PHY は双方向ですので、MIPI-DSI など、表示系の実験にも利用できる可能性があります。
+
+
 ## スペック
 
 主な実装内容は以下です。
