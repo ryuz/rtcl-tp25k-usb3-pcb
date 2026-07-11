@@ -8,19 +8,64 @@ The GW5A-LV25MG121 on the Sipeed [Tang Primer 25K](https://wiki.sipeed.com/hardw
 
 This project provides design data for an original base board for Tang Primer 25K that breaks out the MIPI D-PHY lines to a 0.5 mm pitch 22-pin connector and enables USB 3.0 connectivity via FT601 for exchanging image data and similar payloads with a PC.
 
-## Schematic
+![pcb_photo](doc/images/pcb_photo.png)
+
+This board makes use of the MIPI pins that were originally unused on the Tang Primer 25K SoM. Even without leveraging MIPI, it can also be seen simply as a board that enables FPGA use over USB 3.0 — making it a great first step toward serious FPGA development for those who have previously been limited to UART-level connectivity between an FPGA and a PC.
+
+Note: Although untested by the author, the MIPI D-PHY on the GW5A-LV25MG121 is bidirectional, so it may also be applicable to display-related experiments such as MIPI-DSI.
+
+
+## Specs
+
+Main features:
+
+- Tang Primer 25K Core mounting connector
+- USB 3.0 connectivity via FT601
+- 4-lane MIPI connector (22-pin)
+- One PMOD connector
+- 4 LEDs
+- 2 push switches
+- 2-position DIP switch
+- 6-pin header for JTAG
+
+JTAG requires a separate external download cable. When using tools such as [openFPGALoader](https://github.com/trabucayre/openFPGALoader), a wide range of download cables are supported.
+
+When using an FT232HL or similar, on-chip debugging via GOWIN EDA's GAO is also possible.
+
+
+## System Images
+
+### Camera Connection
+
+Example connections with the [Raspberry Pi V2 Camera](https://www.raspberrypi.com/documentation/accessories/camera.html) and the author's own [RTCL-P3S7-MIPI](https://rtc-lab.com/products/rtcl-cam-p3s7-mipi/).
+
+![Camera connection](doc/images/camera_photo.png)
+
+### JTAG Connection
+
+Example connections with the Digilent [JTAG-HS2](https://digilent.com/reference/programmers/jtag-hs2/start) and the Akizuki Denshi [FT232HL High-Speed USB Serial Conversion Module](https://akizukidenshi.com/catalog/g/g106503/).
+
+![JTAG connection](doc/images/jtag_photo.png)
+
+
+## Design Data
+
+### Schematic
 
 The schematic is available here:
 
 - [rtcl-tp25k-usb3_v1.pdf](rtcl-tp25k-usb3_v1.pdf)
 
-## KiCad Design Data
+### KiCad Design Data
 
-KiCad 6.0 design data is stored under the rtcl-tp25k-usb3 directory.
+KiCad 10.0 design data is stored under the rtcl-tp25k-usb3 directory.
+
+![design_image](doc/images/design_image.png)
+
 
 ## Disclaimer
 
-This design data is provided for research and prototyping purposes. The author is not responsible for any damages arising from its use.
+This design data is provided for research and prototyping purposes. The author is not responsible for any damages arising from its use. No quality guarantee of any kind is provided for the design data.
 
 ## License
 
