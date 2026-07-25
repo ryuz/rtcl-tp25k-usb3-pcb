@@ -63,6 +63,8 @@ rtcl-tp25k-usb3 ディレクトリ以下に KiCAD 10.0 で設計したデータ�
 
 ![design_image](doc/images/design_image.png)
 
+JLCPCB の `JLC04161H-3313` で製造する想定で設計しています。
+
 
 ## 免責事項
 
