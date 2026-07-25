@@ -10431,6 +10431,16 @@
 		)
 		(uuid "3187b343-31a7-4936-a5a0-4c143a525719")
 	)
+	(text "VFB=0.6V"
+		(exclude_from_sim no)
+		(at 322.326 117.856 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "35c9f0cb-645f-4b53-a79d-e92b06277b57")
+	)
 	(text "BANK6"
 		(exclude_from_sim no)
 		(at 311.404 228.346 0)
@@ -10681,7 +10691,7 @@
 		)
 		(uuid "ade8c409-a357-4957-b2d2-ea47ec3d938f")
 	)
-	(text "BANK0"
+	(text "BANK1"
 		(exclude_from_sim no)
 		(at 226.822 176.53 0)
 		(effects
