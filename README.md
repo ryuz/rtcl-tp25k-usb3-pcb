@@ -55,7 +55,7 @@ Digilent社の [JTAG-HS２](https://digilent.com/reference/programmers/jtag-hs2/
 
 回路図は以下です。
 
-- [rtcl-tp25k-usb3_v1.pdf](rtcl-tp25k-usb3_v1.pdf)
+- [rtcl-tp25k-usb3_v1.pdf](rtcl-tp25k-usb3_v2.pdf)
 
 ### KiCAD 設計データ
 
