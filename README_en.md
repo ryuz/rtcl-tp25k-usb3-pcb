@@ -54,13 +54,22 @@ Example connections with the Digilent [JTAG-HS2](https://digilent.com/reference/
 
 The schematic is available here:
 
-- [rtcl-tp25k-usb3_v1.pdf](rtcl-tp25k-usb3_v1.pdf)
+- [rtcl-tp25k-usb3_v2.pdf](rtcl-tp25k-usb3_v2.pdf)
 
 ### KiCad Design Data
 
 KiCad 10.0 design data is stored under the rtcl-tp25k-usb3 directory.
 
 ![design_image](doc/images/design_image.png)
+
+Designed for manufacturing with JLCPCB's `JLC04161H-3313` stackup.
+
+
+### Software
+
+Currently under development at:
+
+https://github.com/ryuz/rtcl-designs/tree/main/projects/rtcl_tp25k_usb3
 
 
 ## Disclaimer
