@@ -73,6 +73,15 @@ JLCPCB の `JLC04161H-3313` で製造する想定で設計しています。
 https://github.com/ryuz/rtcl-designs/tree/main/projects/rtcl_tp25k_usb3
 
 
+## 基板販売
+
+当方で製造したものを[BOOTH](https://rtc-lab.booth.pm/) 及び [BASE](https://rtcl.base.shop/) にて販売中です。
+
+詳細は下記をご覧ください。
+
+https://rtc-lab.com/products/rtcl-design-rtcl_tp25k_usb3/
+
+
 ## 免責事項
 
 本設計データは、研究開発用の試作実験に供するものであり、利用に際して発生した如何なる損害も作者は補償いたしませんので予めご了承ください。
